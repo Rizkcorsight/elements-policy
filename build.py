@@ -14,8 +14,8 @@ UPDATED = "2026-06-13"
 # App name. STORE_TITLE is the full listing title; BRAND is the distinctive
 # short form used throughout the policy body + trademark (and across locales,
 # verbatim — brand names are not translated).
-STORE_TITLE = "Periodic Table: Elements in the Making"
-BRAND = "Elements in the Making"
+STORE_TITLE = "Periodic Table: Elements"
+BRAND = "Elements"
 
 def brandize(s):
     """Substitute the placeholder app token 'Elements' with the real brand."""
@@ -153,9 +153,9 @@ def build_english():
         '<header>\n'
         '<div class="eyebrow">Privacy</div>\n'
         f'<h1>{STORE_TITLE} — Privacy Policy</h1>\n'
-        f'<p class="lede">{STORE_TITLE} (&ldquo;{BRAND}&rdquo;) is a local-only '
-        'periodic-table study app. The architecture below is the policy — the app cannot '
-        'do otherwise, because the code does not contain the means to.</p>\n'
+        f'<p class="lede">{STORE_TITLE} is a local-only periodic-table study app. '
+        'The architecture below is the policy — the app cannot do otherwise, because the '
+        'code does not contain the means to.</p>\n'
         f'<p class="meta">Last updated: {UPDATED} · Rizk Corsight · '
         f'<a href="mailto:{EMAIL}">{EMAIL}</a></p>\n'
         '</header>\n' + nav("")
