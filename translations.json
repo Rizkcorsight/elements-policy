@@ -1,0 +1,2342 @@
+{
+  "ar": {
+    "eyebrow": "الخصوصية",
+    "title": "Elements — سياسة الخصوصية",
+    "updated_label": "آخر تحديث",
+    "note": "هذه الترجمة مقدَّمة لغرض التيسير. وفي حال وجود أي اختلاف، تكون النسخة الإنجليزية هي المعتمدة.",
+    "contact_h": "التواصل",
+    "sections": [
+      {
+        "h": "سياسة الخصوصية",
+        "p": "Elements تطبيق لدراسة الجدول الدوري يعمل محليًا فقط. لا يحتاج إلى حساب، ولا يبيع أي بيانات شخصية، ولا يعرض إعلانات، ولا يستخدم أي تحليلات أو تتبُّع. تبقى البيانات التي تنشئها على جهازك، داخل وحدة التخزين الخاصة بالتطبيق: مجموعات الدراسة والبطاقات التعليمية الخاصة بك، وسجل المراجعة وجدول التكرار المتباعد، والعناصر التي ميَّزتها بنجمة، وإعداداتك."
+      },
+      {
+        "h": "ما لا نجمعه",
+        "p": "لا نجمع اسمك أو بريدك الإلكتروني أو رقم هاتفك أو موقعك أو معرِّفات الإعلانات أو جهات اتصالك أو الميكروفون أو بيانات الاستخدام. لا توجد أي حزم تطوير برمجية (SDK) للإعلانات أو التحليلات أو الإسناد أو التتبُّع."
+      },
+      {
+        "h": "المشتريات",
+        "p": "تنزيل Elements مجاني مع 3 أيام من الوصول الكامل. وبعد ذلك، يؤدي شراء واحد اختياري لمرة واحدة فقط إلى فتح التطبيق بالكامل بشكل دائم — لا يوجد اشتراك، ولا شيء يتجدد تلقائيًا أو يُحصَّل تلقائيًا. يتولى App Store (على iOS) أو Google Play (على Android) عملية الشراء؛ ولا يطّلع Elements أبدًا على اسمك أو بطاقة الدفع أو تفاصيل الفوترة الخاصة بك."
+      },
+      {
+        "h": "استخدام الشبكة",
+        "p": "يعمل Elements دون إرسال بياناتك إلى أي خادم — فهو لا يملك أي خادم. يأتي الجدول الدوري بأكمله داخل التطبيق، ويبقى الاستخدام العادي على جهازك."
+      },
+      {
+        "h": "الميزات على الجهاز",
+        "p": "يستخدم نطق أسماء العناصر تقنية تحويل النص إلى كلام المدمجة في جهازك (إخراج صوتي فقط — لا ميكروفون، ولا يُسجَّل أي شيء). أما الشرح الاختياري، عند توفُّره، فيعمل على جهازك باستخدام نموذج Apple الذي يعمل على الجهاز ولا يرفع أي شيء. وتتبادل مزامنة Apple Watch تقدُّمك مباشرةً بين iPhone وWatch الخاصين بك، ولا تمر أبدًا عبر أي خادم."
+      },
+      {
+        "h": "الأذونات",
+        "p": "يُستخدم أي إذن فقط للميزة التي تختارها، مثل تذكير الدراسة الاختياري أو أداة الشاشة الرئيسية. ويمكنك تغيير ذلك من إعدادات جهازك."
+      },
+      {
+        "h": "الأطفال",
+        "p": "Elements مصنَّف لجميع الفئات العمرية، ولا يحتوي على أي محتوى غير لائق، ولا يجمع أي معلومات شخصية من أي شخص — بمن في ذلك الأطفال."
+      },
+      {
+        "h": "التغييرات",
+        "p": "إذا تغيَّرت هذه السياسة، فسننشر النسخة المحدَّثة هنا ونعدِّل التاريخ المذكور أعلاه."
+      },
+      {
+        "h": "العلامات التجارية",
+        "p": "Elements علامة تجارية تابعة لـ Rizk Corsight, LLC. وتُعد Apple وApp Store علامتين تجاريتين لشركة Apple Inc.؛ وتُعد Google Play وAndroid علامتين تجاريتين لشركة Google LLC. وتُستخدم جميع أسماء المنتجات والشركات الأخرى لأغراض التعريف فقط وتبقى ملكًا لأصحابها المعنيين."
+      }
+    ]
+  },
+  "bg": {
+    "eyebrow": "Поверителност",
+    "title": "Elements — Политика за поверителност",
+    "updated_label": "Последна актуализация",
+    "note": "Този превод е предоставен за удобство. При наличие на разлики меродавна е версията на английски език.",
+    "contact_h": "Контакт",
+    "sections": [
+      {
+        "h": "Политика за поверителност",
+        "p": "Elements е приложение за изучаване на периодичната таблица, което работи изцяло локално. То не изисква акаунт, не продава лични данни, не показва реклами и не използва анализ или проследяване. Данните, които създавате, остават на вашето устройство, в частното хранилище на приложението: вашите учебни тестета и флашкарти, вашата история на повторенията и графикът за интервално повторение, вашите отбелязани със звезда елементи и вашите настройки."
+      },
+      {
+        "h": "Какво не събираме",
+        "p": "Не събираме вашето име, имейл, телефонен номер, местоположение, рекламни идентификатори, контакти, микрофон или данни за използване. Няма рекламни, аналитични, атрибуционни или проследяващи SDK-та."
+      },
+      {
+        "h": "Покупки",
+        "p": "Elements е безплатно за изтегляне с 3 дни пълен достъп. След това една незадължителна еднократна покупка отключва цялото приложение завинаги — няма абонамент и нищо не се подновява или таксува автоматично. App Store (iOS) или Google Play (Android) обработва покупката; Elements никога не вижда вашето име, платежна карта или данни за фактуриране."
+      },
+      {
+        "h": "Използване на мрежата",
+        "p": "Elements работи, без да изпраща вашите данни към какъвто и да е сървър — то няма такъв. Цялата периодична таблица се доставя в самото приложение и обичайната употреба остава на вашето устройство."
+      },
+      {
+        "h": "Функции на устройството",
+        "p": "Изговарянето на имената на елементите използва вградения в устройството ви синтез на реч (само звуков изход — без микрофон, нищо не се записва). Незадължителното обяснение, когато е налично, се изпълнява на вашето устройство чрез модела на Apple, работещ на самото устройство, и не качва нищо. Синхронизирането с Apple Watch обменя вашия напредък директно между вашия iPhone и Watch, никога през сървър."
+      },
+      {
+        "h": "Разрешения",
+        "p": "Всяко разрешение се използва само за функцията, която изберете, например незадължителното напомняне за учене или джаджата на началния екран. Можете да ги променяте в настройките на вашето устройство."
+      },
+      {
+        "h": "Деца",
+        "p": "Elements е с рейтинг за всички, не съдържа неподходящо съдържание и не събира лична информация от никого — включително от деца."
+      },
+      {
+        "h": "Промени",
+        "p": "Ако тази политика се промени, ще публикуваме актуализираната версия тук и ще обновим датата по-горе."
+      },
+      {
+        "h": "Търговски марки",
+        "p": "Elements е търговска марка™ на Rizk Corsight, LLC. Apple и App Store са търговски марки на Apple Inc.; Google Play и Android са търговски марки на Google LLC. Всички други имена на продукти и компании се използват само за идентификация и остават собственост на съответните им притежатели."
+      }
+    ]
+  },
+  "bn": {
+    "eyebrow": "গোপনীয়তা",
+    "title": "Elements — গোপনীয়তা নীতি",
+    "updated_label": "সর্বশেষ হালনাগাদ",
+    "note": "এই অনুবাদটি সুবিধার্থে দেওয়া হয়েছে। কোনো পার্থক্য থাকলে ইংরেজি সংস্করণটিই প্রযোজ্য হবে।",
+    "contact_h": "যোগাযোগ",
+    "sections": [
+      {
+        "h": "গোপনীয়তা নীতি",
+        "p": "Elements একটি শুধুমাত্র-স্থানীয় পর্যায় সারণি অধ্যয়ন অ্যাপ। এর জন্য কোনো অ্যাকাউন্ট প্রয়োজন হয় না, কোনো ব্যক্তিগত তথ্য বিক্রি করে না, কোনো বিজ্ঞাপন দেখায় না, এবং কোনো বিশ্লেষণ বা ট্র্যাকিং ব্যবহার করে না। আপনি যে তথ্য তৈরি করেন তা আপনার ডিভাইসেই থাকে, অ্যাপের ব্যক্তিগত স্টোরেজে: আপনার অধ্যয়ন ডেক ও ফ্ল্যাশকার্ড, আপনার পর্যালোচনার ইতিহাস ও দূরত্বযুক্ত-পুনরাবৃত্তির সময়সূচি, আপনার তারকাচিহ্নিত মৌল, এবং আপনার সেটিংস।"
+      },
+      {
+        "h": "আমরা যা সংগ্রহ করি না",
+        "p": "আমরা আপনার নাম, ইমেল, ফোন নম্বর, অবস্থান, বিজ্ঞাপন শনাক্তকারী, পরিচিতি, মাইক্রোফোন, বা ব্যবহারের তথ্য সংগ্রহ করি না। কোনো বিজ্ঞাপন, বিশ্লেষণ, অ্যাট্রিবিউশন, বা ট্র্যাকিং SDK নেই।"
+      },
+      {
+        "h": "কেনাকাটা",
+        "p": "Elements ৩ দিনের সম্পূর্ণ অ্যাক্সেস সহ বিনামূল্যে ডাউনলোড করা যায়। এর পরে, একটি একক ঐচ্ছিক এককালীন কেনাকাটা পুরো অ্যাপটিকে স্থায়ীভাবে আনলক করে — কোনো সাবস্ক্রিপশন নেই, এবং কিছুই স্বয়ংক্রিয়ভাবে নবায়ন বা স্বয়ংক্রিয়ভাবে চার্জ হয় না। App Store (iOS) বা Google Play (Android) কেনাকাটাটি পরিচালনা করে; Elements কখনোই আপনার নাম, পেমেন্ট কার্ড, বা বিলিং বিবরণ দেখে না।"
+      },
+      {
+        "h": "নেটওয়ার্ক ব্যবহার",
+        "p": "Elements আপনার তথ্য কোনো সার্ভারে না পাঠিয়েই কাজ করে — এর কোনো সার্ভার নেই। সম্পূর্ণ পর্যায় সারণি অ্যাপের ভেতরেই থাকে, এবং স্বাভাবিক ব্যবহার আপনার ডিভাইসেই সীমাবদ্ধ থাকে।"
+      },
+      {
+        "h": "ডিভাইসে চলমান বৈশিষ্ট্য",
+        "p": "কথিত মৌলের নাম আপনার ডিভাইসের অন্তর্নির্মিত টেক্সট-টু-স্পিচ ব্যবহার করে (শুধুমাত্র অডিও আউটপুট — কোনো মাইক্রোফোন নয়, কিছুই রেকর্ড করা হয় না)। ঐচ্ছিক ব্যাখ্যাকারী, যখন উপলব্ধ থাকে, Apple-এর ডিভাইসে চলমান মডেল ব্যবহার করে আপনার ডিভাইসে চলে এবং কিছুই আপলোড করে না। Apple Watch সিঙ্ক আপনার অগ্রগতি সরাসরি আপনার iPhone ও Watch-এর মধ্যে বিনিময় করে, কখনোই কোনো সার্ভারের মাধ্যমে নয়।"
+      },
+      {
+        "h": "অনুমতি",
+        "p": "যেকোনো অনুমতি কেবল আপনার বেছে নেওয়া বৈশিষ্ট্যের জন্য ব্যবহৃত হয়, যেমন ঐচ্ছিক অধ্যয়ন অনুস্মারক বা হোম-স্ক্রিন উইজেট। আপনি এগুলো আপনার ডিভাইস সেটিংসে পরিবর্তন করতে পারেন।"
+      },
+      {
+        "h": "শিশু",
+        "p": "Elements সবার জন্য রেটিং করা, কোনো আপত্তিকর বিষয়বস্তু ধারণ করে না, এবং কারও কাছ থেকে — শিশুসহ — কোনো ব্যক্তিগত তথ্য সংগ্রহ করে না।"
+      },
+      {
+        "h": "পরিবর্তন",
+        "p": "এই নীতি পরিবর্তিত হলে, আমরা হালনাগাদ সংস্করণটি এখানে পোস্ট করব এবং উপরের তারিখটি সংশোধন করব।"
+      },
+      {
+        "h": "ট্রেডমার্ক",
+        "p": "Elements হল Rizk Corsight, LLC-এর একটি ট্রেডমার্ক™। Apple এবং App Store হল Apple Inc.-এর ট্রেডমার্ক; Google Play এবং Android হল Google LLC-এর ট্রেডমার্ক। অন্যান্য সকল পণ্য ও কোম্পানির নাম কেবল শনাক্তকরণের জন্য ব্যবহৃত হয় এবং তাদের নিজ নিজ মালিকের সম্পত্তি হিসেবেই থাকে।"
+      }
+    ]
+  },
+  "ca": {
+    "eyebrow": "Privacitat",
+    "title": "Elements — Política de privacitat",
+    "updated_label": "Última actualització",
+    "note": "Aquesta traducció es proporciona per comoditat. En cas de qualsevol discrepància, preval la versió en anglès.",
+    "contact_h": "Contacte",
+    "sections": [
+      {
+        "h": "Política de privacitat",
+        "p": "Elements és una aplicació d'estudi de la taula periòdica que funciona només en local. No necessita cap compte, no ven cap dada personal, no mostra anuncis i no fa servir cap mena d'analítica ni seguiment. Les dades que crees es queden al teu dispositiu, a l'emmagatzematge privat de l'aplicació: les teves baralles d'estudi i targetes, el teu historial de repàs i la teva planificació de repetició espaiada, els elements que has marcat amb una estrella i la teva configuració."
+      },
+      {
+        "h": "Què no recollim",
+        "p": "No recollim el teu nom, correu electrònic, número de telèfon, ubicació, identificadors publicitaris, contactes, micròfon ni dades d'ús. No hi ha cap SDK de publicitat, analítica, atribució ni seguiment."
+      },
+      {
+        "h": "Compres",
+        "p": "Elements es pot baixar gratuïtament amb 3 dies d'accés complet. Després, una única compra opcional, d'un sol pagament, desbloqueja tota l'aplicació de manera permanent: no hi ha cap subscripció, i res no es renova ni es cobra automàticament. L'App Store (iOS) o Google Play (Android) gestiona la compra; Elements mai no veu el teu nom, la teva targeta de pagament ni les teves dades de facturació."
+      },
+      {
+        "h": "Ús de la xarxa",
+        "p": "Elements funciona sense enviar les teves dades a cap servidor, perquè no en té cap. Tota la taula periòdica s'inclou dins de l'aplicació, i l'ús normal es queda al teu dispositiu."
+      },
+      {
+        "h": "Funcions al dispositiu",
+        "p": "Els noms parlats dels elements fan servir el sintetitzador de veu integrat al teu dispositiu (només sortida d'àudio, sense micròfon i sense enregistrar res). L'explicador opcional, quan està disponible, s'executa al teu dispositiu fent servir el model en local d'Apple i no puja res. La sincronització amb l'Apple Watch intercanvia el teu progrés directament entre el teu iPhone i el teu Watch, mai a través d'un servidor."
+      },
+      {
+        "h": "Permisos",
+        "p": "Qualsevol permís només s'utilitza per a la funció que tries, com ara el recordatori d'estudi opcional o el widget de la pantalla d'inici. Pots canviar-los a la configuració del teu dispositiu."
+      },
+      {
+        "h": "Infants",
+        "p": "Elements té una classificació apta per a tothom, no conté contingut censurable i no recull cap informació personal de ningú, incloent-hi els infants."
+      },
+      {
+        "h": "Canvis",
+        "p": "Si aquesta política canvia, publicarem aquí la versió actualitzada i revisarem la data de més amunt."
+      },
+      {
+        "h": "Marques comercials",
+        "p": "Elements és una marca comercial™ de Rizk Corsight, LLC. Apple i App Store són marques comercials d'Apple Inc.; Google Play i Android són marques comercials de Google LLC. La resta de noms de productes i d'empreses s'utilitzen només a efectes d'identificació i continuen sent propietat dels seus titulars respectius."
+      }
+    ]
+  },
+  "cs": {
+    "eyebrow": "Soukromí",
+    "title": "Elements — Zásady ochrany soukromí",
+    "updated_label": "Naposledy aktualizováno",
+    "note": "Tento překlad je poskytován pro pohodlí. V případě jakýchkoli rozdílů je rozhodující anglická verze.",
+    "contact_h": "Kontakt",
+    "sections": [
+      {
+        "h": "Zásady ochrany soukromí",
+        "p": "Elements je aplikace pro studium periodické tabulky, která funguje výhradně lokálně. Nevyžaduje žádný účet, neprodává žádné osobní údaje, nezobrazuje žádné reklamy a nepoužívá žádné analytické ani sledovací nástroje. Data, která vytvoříte, zůstávají ve vašem zařízení, v soukromém úložišti aplikace: vaše studijní balíčky a kartičky, vaše historie opakování a plán rozloženého opakování, vaše označené prvky a vaše nastavení."
+      },
+      {
+        "h": "Co neshromažďujeme",
+        "p": "Neshromažďujeme vaše jméno, e-mail, telefonní číslo, polohu, reklamní identifikátory, kontakty, mikrofon ani údaje o používání. Nejsou zde žádné reklamní, analytické, atribuční ani sledovací SDK."
+      },
+      {
+        "h": "Nákupy",
+        "p": "Aplikaci Elements lze stáhnout zdarma se 3 dny plného přístupu. Poté jediný volitelný jednorázový nákup trvale odemkne celou aplikaci — neexistuje žádné předplatné a nic se automaticky neobnovuje ani automaticky neúčtuje. Nákup zpracovává App Store (iOS) nebo Google Play (Android); Elements nikdy nevidí vaše jméno, platební kartu ani fakturační údaje."
+      },
+      {
+        "h": "Používání sítě",
+        "p": "Elements funguje, aniž by odesílal vaše data na jakýkoli server — žádný nemá. Celá periodická tabulka je obsažena přímo v aplikaci a běžné používání zůstává ve vašem zařízení."
+      },
+      {
+        "h": "Funkce v zařízení",
+        "p": "Vyslovované názvy prvků využívají vestavěný převod textu na řeč ve vašem zařízení (pouze zvukový výstup — žádný mikrofon, nic se nezaznamenává). Volitelné vysvětlení, je-li k dispozici, běží ve vašem zařízení s využitím modelu Apple v zařízení a nic neodesílá. Synchronizace s Apple Watch vyměňuje váš pokrok přímo mezi vaším iPhonem a Watch, nikdy přes server."
+      },
+      {
+        "h": "Oprávnění",
+        "p": "Jakékoli oprávnění se používá pouze pro funkci, kterou si zvolíte, například volitelnou připomínku studia nebo widget na domovské obrazovce. Tato oprávnění můžete změnit v nastavení svého zařízení."
+      },
+      {
+        "h": "Děti",
+        "p": "Elements je vhodný pro všechny, neobsahuje žádný závadný obsah a neshromažďuje žádné osobní údaje od nikoho — včetně dětí."
+      },
+      {
+        "h": "Změny",
+        "p": "Pokud se tyto zásady změní, zveřejníme zde aktualizovanou verzi a upravíme datum uvedené výše."
+      },
+      {
+        "h": "Ochranné známky",
+        "p": "Elements je ochranná známka™ společnosti Rizk Corsight, LLC. Apple a App Store jsou ochranné známky společnosti Apple Inc.; Google Play a Android jsou ochranné známky společnosti Google LLC. Všechny ostatní názvy produktů a společností slouží pouze k identifikaci a zůstávají majetkem příslušných vlastníků."
+      }
+    ]
+  },
+  "da": {
+    "eyebrow": "Privatliv",
+    "title": "Elements — Privatlivspolitik",
+    "updated_label": "Senest opdateret",
+    "note": "Denne oversættelse stilles til rådighed af praktiske hensyn. I tilfælde af uoverensstemmelser er den engelske version gældende.",
+    "contact_h": "Kontakt",
+    "sections": [
+      {
+        "h": "Privatlivspolitik",
+        "p": "Elements er en studieapp om det periodiske system, der udelukkende fungerer lokalt. Den kræver ingen konto, sælger ingen personoplysninger, viser ingen annoncer og bruger hverken analyse eller sporing. De data, du opretter, forbliver på din enhed i appens private lagerplads: dine studiebunker og flashcards, din gennemgangshistorik og dit skema for spaced repetition, dine markerede grundstoffer og dine indstillinger."
+      },
+      {
+        "h": "Hvad vi ikke indsamler",
+        "p": "Vi indsamler ikke dit navn, din e-mail, dit telefonnummer, din placering, annonce-id'er, dine kontakter, mikrofon eller brugsdata. Der er ingen SDK'er til annoncering, analyse, attribution eller sporing."
+      },
+      {
+        "h": "Køb",
+        "p": "Elements er gratis at downloade med 3 dages fuld adgang. Derefter låser et enkelt valgfrit engangskøb hele appen op permanent — der er intet abonnement, og intet fornyes eller opkræves automatisk. App Store (iOS) eller Google Play (Android) håndterer købet; Elements ser aldrig dit navn, dit betalingskort eller dine faktureringsoplysninger."
+      },
+      {
+        "h": "Netværksbrug",
+        "p": "Elements fungerer uden at sende dine data til nogen server — den har ingen. Hele det periodiske system følger med inde i appen, og almindelig brug forbliver på din enhed."
+      },
+      {
+        "h": "Funktioner på enheden",
+        "p": "Oplæste navne på grundstoffer bruger din enheds indbyggede tekst-til-tale (kun lydudgang — ingen mikrofon, intet optages). Den valgfrie forklaring, når den er tilgængelig, kører på din enhed ved hjælp af Apples model på enheden og uploader intet. Synkronisering med Apple Watch udveksler dine fremskridt direkte mellem din iPhone og dit Watch, aldrig via en server."
+      },
+      {
+        "h": "Tilladelser",
+        "p": "Enhver tilladelse bruges kun til den funktion, du vælger, såsom den valgfrie studiepåmindelse eller widgetten på startskærmen. Du kan ændre disse i din enheds indstillinger."
+      },
+      {
+        "h": "Børn",
+        "p": "Elements er egnet til alle, indeholder intet anstødeligt indhold og indsamler ingen personoplysninger fra nogen — heller ikke fra børn."
+      },
+      {
+        "h": "Ændringer",
+        "p": "Hvis denne politik ændres, offentliggør vi den opdaterede version her og opdaterer datoen ovenfor."
+      },
+      {
+        "h": "Varemærker",
+        "p": "Elements er et varemærke™ tilhørende Rizk Corsight, LLC. Apple og App Store er varemærker tilhørende Apple Inc.; Google Play og Android er varemærker tilhørende Google LLC. Alle andre produkt- og virksomhedsnavne anvendes udelukkende til identifikation og forbliver deres respektive ejeres ejendom."
+      }
+    ]
+  },
+  "de": {
+    "eyebrow": "Datenschutz",
+    "title": "Elements — Datenschutzerklärung",
+    "updated_label": "Zuletzt aktualisiert",
+    "note": "Diese Übersetzung wird der Einfachheit halber bereitgestellt. Bei Abweichungen ist die englische Fassung maßgeblich.",
+    "contact_h": "Kontakt",
+    "sections": [
+      {
+        "h": "Datenschutzerklärung",
+        "p": "Elements ist eine Lern-App zum Periodensystem, die ausschließlich lokal arbeitet. Sie benötigt kein Konto, verkauft keine personenbezogenen Daten, zeigt keine Werbung und verwendet keine Analyse oder kein Tracking. Die von Ihnen erstellten Daten verbleiben auf Ihrem Gerät, im privaten Speicher der App: Ihre Lernstapel und Lernkarten, Ihr Wiederholungsverlauf und Ihr Zeitplan für verteiltes Wiederholen, Ihre markierten Elemente sowie Ihre Einstellungen."
+      },
+      {
+        "h": "Was wir nicht erfassen",
+        "p": "Wir erfassen weder Ihren Namen, Ihre E-Mail-Adresse, Ihre Telefonnummer, Ihren Standort, Werbe-Identifikatoren, Ihre Kontakte, Ihr Mikrofon noch Nutzungsdaten. Es gibt keine SDKs für Werbung, Analyse, Attribution oder Tracking."
+      },
+      {
+        "h": "Käufe",
+        "p": "Elements kann kostenlos heruntergeladen werden und bietet 3 Tage lang vollen Zugriff. Danach schaltet ein einziger optionaler Einmalkauf die gesamte App dauerhaft frei — es gibt kein Abonnement, und nichts verlängert sich oder wird automatisch berechnet. Der Kauf wird vom App Store (iOS) oder von Google Play (Android) abgewickelt; Elements sieht niemals Ihren Namen, Ihre Zahlungskarte oder Ihre Rechnungsdaten."
+      },
+      {
+        "h": "Netzwerknutzung",
+        "p": "Elements funktioniert, ohne Ihre Daten an einen Server zu senden — es gibt keinen. Das gesamte Periodensystem ist in der App enthalten, und die normale Nutzung bleibt auf Ihrem Gerät."
+      },
+      {
+        "h": "Funktionen auf dem Gerät",
+        "p": "Gesprochene Elementnamen nutzen die in Ihr Gerät integrierte Sprachausgabe (nur Audioausgabe — kein Mikrofon, nichts wird aufgezeichnet). Die optionale Erläuterung läuft, sofern verfügbar, auf Ihrem Gerät mit Apples geräteinternem Modell und lädt nichts hoch. Die Apple Watch-Synchronisierung tauscht Ihren Fortschritt direkt zwischen Ihrem iPhone und der Watch aus, niemals über einen Server."
+      },
+      {
+        "h": "Berechtigungen",
+        "p": "Jede Berechtigung wird ausschließlich für die von Ihnen gewählte Funktion verwendet, etwa für die optionale Lernerinnerung oder das Widget für den Startbildschirm. Sie können diese in den Einstellungen Ihres Geräts ändern."
+      },
+      {
+        "h": "Kinder",
+        "p": "Elements ist für alle Altersgruppen freigegeben, enthält keine anstößigen Inhalte und erfasst von niemandem personenbezogene Daten — auch nicht von Kindern."
+      },
+      {
+        "h": "Änderungen",
+        "p": "Sollte sich diese Erklärung ändern, veröffentlichen wir hier die aktualisierte Fassung und passen das oben angegebene Datum an."
+      },
+      {
+        "h": "Marken",
+        "p": "Elements ist eine Marke™ von Rizk Corsight, LLC. Apple und App Store sind Marken™ von Apple Inc.; Google Play und Android sind Marken™ von Google LLC. Alle anderen Produkt- und Firmennamen dienen nur der Identifikation und bleiben Eigentum ihrer jeweiligen Inhaber."
+      }
+    ]
+  },
+  "el": {
+    "eyebrow": "Απόρρητο",
+    "title": "Elements — Πολιτική Απορρήτου",
+    "updated_label": "Τελευταία ενημέρωση",
+    "note": "Αυτή η μετάφραση παρέχεται για διευκόλυνση. Σε περίπτωση οποιασδήποτε διαφοράς, υπερισχύει η αγγλική έκδοση.",
+    "contact_h": "Επικοινωνία",
+    "sections": [
+      {
+        "h": "Πολιτική απορρήτου",
+        "p": "Το Elements είναι μια εφαρμογή μελέτης του περιοδικού πίνακα που λειτουργεί αποκλειστικά τοπικά. Δεν απαιτεί λογαριασμό, δεν πουλά προσωπικά δεδομένα, δεν εμφανίζει διαφημίσεις και δεν χρησιμοποιεί αναλυτικά στοιχεία ή παρακολούθηση. Τα δεδομένα που δημιουργείτε παραμένουν στη συσκευή σας, στον ιδιωτικό χώρο αποθήκευσης της εφαρμογής: οι τράπουλες μελέτης και οι κάρτες σας, το ιστορικό επανάληψης και το πρόγραμμα διαστηματικής επανάληψης, τα στοιχεία που έχετε επισημάνει με αστέρι και οι ρυθμίσεις σας."
+      },
+      {
+        "h": "Τι δεν συλλέγουμε",
+        "p": "Δεν συλλέγουμε το όνομά σας, το email, τον αριθμό τηλεφώνου, την τοποθεσία, τα διαφημιστικά αναγνωριστικά, τις επαφές, το μικρόφωνο ή δεδομένα χρήσης. Δεν υπάρχουν SDK διαφήμισης, αναλυτικών στοιχείων, απόδοσης ή παρακολούθησης."
+      },
+      {
+        "h": "Αγορές",
+        "p": "Το Elements είναι δωρεάν για λήψη με 3 ημέρες πλήρους πρόσβασης. Στη συνέχεια, μία προαιρετική εφάπαξ αγορά ξεκλειδώνει μόνιμα ολόκληρη την εφαρμογή — δεν υπάρχει συνδρομή και τίποτα δεν ανανεώνεται ή δεν χρεώνεται αυτόματα. Η αγορά διεκπεραιώνεται από το App Store (iOS) ή το Google Play (Android)· το Elements δεν βλέπει ποτέ το όνομά σας, την κάρτα πληρωμής ή τα στοιχεία χρέωσής σας."
+      },
+      {
+        "h": "Χρήση δικτύου",
+        "p": "Το Elements λειτουργεί χωρίς να στέλνει τα δεδομένα σας σε κανέναν διακομιστή — δεν διαθέτει κανέναν. Ολόκληρος ο περιοδικός πίνακας περιλαμβάνεται μέσα στην εφαρμογή και η κανονική χρήση παραμένει στη συσκευή σας."
+      },
+      {
+        "h": "Λειτουργίες στη συσκευή",
+        "p": "Η εκφώνηση των ονομάτων των στοιχείων χρησιμοποιεί την ενσωματωμένη μετατροπή κειμένου σε ομιλία της συσκευής σας (μόνο έξοδος ήχου — χωρίς μικρόφωνο, χωρίς εγγραφή). Ο προαιρετικός επεξηγητής, όταν είναι διαθέσιμος, εκτελείται στη συσκευή σας χρησιμοποιώντας το μοντέλο της Apple που λειτουργεί στη συσκευή και δεν ανεβάζει τίποτα. Ο συγχρονισμός με το Apple Watch ανταλλάσσει την πρόοδό σας απευθείας μεταξύ του iPhone και του Watch σας, ποτέ μέσω διακομιστή."
+      },
+      {
+        "h": "Άδειες",
+        "p": "Οποιαδήποτε άδεια χρησιμοποιείται μόνο για τη λειτουργία που επιλέγετε, όπως η προαιρετική υπενθύμιση μελέτης ή το widget της αρχικής οθόνης. Μπορείτε να τις αλλάξετε στις ρυθμίσεις της συσκευής σας."
+      },
+      {
+        "h": "Παιδιά",
+        "p": "Το Elements έχει αξιολόγηση κατάλληλη για όλους, δεν περιέχει απρεπές περιεχόμενο και δεν συλλέγει προσωπικές πληροφορίες από κανέναν — συμπεριλαμβανομένων των παιδιών."
+      },
+      {
+        "h": "Αλλαγές",
+        "p": "Εάν αυτή η πολιτική αλλάξει, θα δημοσιεύσουμε εδώ την ενημερωμένη έκδοση και θα αναθεωρήσουμε την παραπάνω ημερομηνία."
+      },
+      {
+        "h": "Εμπορικά σήματα",
+        "p": "Το Elements είναι εμπορικό σήμα™ της Rizk Corsight, LLC. Η Apple και το App Store είναι εμπορικά σήματα της Apple Inc.· το Google Play και το Android είναι εμπορικά σήματα της Google LLC. Όλα τα άλλα ονόματα προϊόντων και εταιρειών χρησιμοποιούνται μόνο για λόγους αναγνώρισης και παραμένουν ιδιοκτησία των αντίστοιχων κατόχων τους."
+      }
+    ]
+  },
+  "en-GB": {
+    "eyebrow": "Privacy",
+    "title": "Elements — Privacy Policy",
+    "updated_label": "Last updated",
+    "note": "This translation is provided for convenience. If there is any difference, the English version controls.",
+    "contact_h": "Contact",
+    "sections": [
+      {
+        "h": "Privacy policy",
+        "p": "Elements is a local-only periodic-table study app. It needs no account, sells no personal data, shows no adverts, and uses no analytics or tracking. The data you create stays on your device, in the app's private storage: your study decks and flashcards, your revision history and spaced-repetition schedule, your starred elements, and your settings."
+      },
+      {
+        "h": "What we don't collect",
+        "p": "We don't collect your name, email, phone number, location, advertising identifiers, contacts, microphone, or usage data. There are no advertising, analytics, attribution, or tracking SDKs."
+      },
+      {
+        "h": "Purchases",
+        "p": "Elements is free to download with 3 days of full access. After that, a single optional one-off purchase unlocks the whole app permanently — there is no subscription, and nothing auto-renews or auto-charges. The App Store (iOS) or Google Play (Android) handles the purchase; Elements never sees your name, payment card, or billing details."
+      },
+      {
+        "h": "Network use",
+        "p": "Elements works without sending your data to any server — it has none. The whole periodic table ships inside the app, and normal use stays on your device."
+      },
+      {
+        "h": "On-device features",
+        "p": "Spoken element names use your device's built-in text-to-speech (audio output only — no microphone, nothing recorded). The optional explainer, when available, runs on your device using Apple's on-device model and uploads nothing. Apple Watch sync exchanges your progress directly between your iPhone and Watch, never through a server."
+      },
+      {
+        "h": "Permissions",
+        "p": "Any permission is used only for the feature you choose, such as the optional study reminder or the home-screen widget. You can change these in your device settings."
+      },
+      {
+        "h": "Children",
+        "p": "Elements is rated for everyone, contains no objectionable content, and collects no personal information from anyone — including children."
+      },
+      {
+        "h": "Changes",
+        "p": "If this policy changes, we'll post the updated version here and revise the date above."
+      },
+      {
+        "h": "Trademarks",
+        "p": "Elements is a trademark™ of Rizk Corsight, LLC. Apple and App Store are trademarks of Apple Inc.; Google Play and Android are trademarks of Google LLC. All other product and company names are used for identification only and remain the property of their respective owners."
+      }
+    ]
+  },
+  "es": {
+    "eyebrow": "Privacidad",
+    "title": "Elements — Política de privacidad",
+    "updated_label": "Última actualización",
+    "note": "Esta traducción se ofrece a título informativo. En caso de discrepancia, prevalecerá la versión en inglés.",
+    "contact_h": "Contacto",
+    "sections": [
+      {
+        "h": "Política de privacidad",
+        "p": "Elements es una aplicación de estudio de la tabla periódica que funciona únicamente en local. No requiere ninguna cuenta, no vende datos personales, no muestra anuncios y no utiliza analíticas ni seguimiento. Los datos que creas permanecen en tu dispositivo, en el almacenamiento privado de la aplicación: tus barajas de estudio y tarjetas, tu historial de repaso y tu calendario de repetición espaciada, los elementos que has marcado con estrella y tus ajustes."
+      },
+      {
+        "h": "Lo que no recopilamos",
+        "p": "No recopilamos tu nombre, correo electrónico, número de teléfono, ubicación, identificadores publicitarios, contactos, micrófono ni datos de uso. No hay SDK de publicidad, analíticas, atribución ni seguimiento."
+      },
+      {
+        "h": "Compras",
+        "p": "Elements es de descarga gratuita con 3 días de acceso completo. Después, una única compra opcional, de pago por una sola vez, desbloquea toda la aplicación de forma permanente: no hay suscripción y nada se renueva ni se cobra automáticamente. La compra la gestiona el App Store (iOS) o Google Play (Android); Elements nunca ve tu nombre, tu tarjeta de pago ni tus datos de facturación."
+      },
+      {
+        "h": "Uso de la red",
+        "p": "Elements funciona sin enviar tus datos a ningún servidor, porque no tiene ninguno. Toda la tabla periódica se incluye dentro de la aplicación, y el uso normal se mantiene en tu dispositivo."
+      },
+      {
+        "h": "Funciones en el dispositivo",
+        "p": "La lectura en voz alta de los nombres de los elementos utiliza el conversor de texto a voz integrado en tu dispositivo (solo salida de audio: sin micrófono y sin grabar nada). La explicación opcional, cuando está disponible, se ejecuta en tu dispositivo mediante el modelo en el dispositivo de Apple y no envía nada. La sincronización con el Apple Watch intercambia tu progreso directamente entre tu iPhone y el Watch, nunca a través de un servidor."
+      },
+      {
+        "h": "Permisos",
+        "p": "Cualquier permiso se utiliza solo para la función que elijas, como el recordatorio de estudio opcional o el widget de la pantalla de inicio. Puedes cambiarlos en los ajustes de tu dispositivo."
+      },
+      {
+        "h": "Menores",
+        "p": "Elements tiene una clasificación apta para todos los públicos, no contiene contenido inapropiado y no recopila información personal de nadie, incluidos los menores."
+      },
+      {
+        "h": "Cambios",
+        "p": "Si esta política cambia, publicaremos aquí la versión actualizada y revisaremos la fecha indicada arriba."
+      },
+      {
+        "h": "Marcas comerciales",
+        "p": "Elements es una marca comercial™ de Rizk Corsight, LLC. Apple y App Store son marcas comerciales de Apple Inc.; Google Play y Android son marcas comerciales de Google LLC. Todos los demás nombres de productos y empresas se utilizan únicamente con fines de identificación y siguen siendo propiedad de sus respectivos titulares."
+      }
+    ]
+  },
+  "es-419": {
+    "eyebrow": "Privacidad",
+    "title": "Elements — Política de privacidad",
+    "updated_label": "Última actualización",
+    "note": "Esta traducción se ofrece como cortesía. Si hubiera alguna diferencia, prevalece la versión en inglés.",
+    "contact_h": "Contacto",
+    "sections": [
+      {
+        "h": "Política de privacidad",
+        "p": "Elements es una aplicación de estudio de la tabla periódica que funciona únicamente en tu dispositivo. No necesita cuenta, no vende datos personales, no muestra anuncios y no usa analíticas ni rastreo. Los datos que creas permanecen en tu dispositivo, en el almacenamiento privado de la aplicación: tus mazos de estudio y tarjetas, tu historial de repaso y tu calendario de repetición espaciada, los elementos que marcaste con estrella y tu configuración."
+      },
+      {
+        "h": "Lo que no recopilamos",
+        "p": "No recopilamos tu nombre, correo electrónico, número de teléfono, ubicación, identificadores publicitarios, contactos, micrófono ni datos de uso. No hay SDK de publicidad, analíticas, atribución ni rastreo."
+      },
+      {
+        "h": "Compras",
+        "p": "Elements es gratis para descargar y ofrece 3 días de acceso completo. Después de eso, una única compra opcional por pago único desbloquea toda la aplicación de forma permanente: no hay suscripción, y nada se renueva ni se cobra automáticamente. La App Store (iOS) o Google Play (Android) se encarga de la compra; Elements nunca ve tu nombre, tu tarjeta de pago ni tus datos de facturación."
+      },
+      {
+        "h": "Uso de la red",
+        "p": "Elements funciona sin enviar tus datos a ningún servidor: no tiene ninguno. Toda la tabla periódica viene incluida dentro de la aplicación, y el uso normal permanece en tu dispositivo."
+      },
+      {
+        "h": "Funciones en el dispositivo",
+        "p": "Los nombres de los elementos pronunciados usan la función de texto a voz integrada de tu dispositivo (solo salida de audio: sin micrófono, sin grabar nada). La explicación opcional, cuando está disponible, se ejecuta en tu dispositivo usando el modelo en el dispositivo de Apple y no sube nada. La sincronización con el Apple Watch intercambia tu progreso directamente entre tu iPhone y tu Watch, nunca a través de un servidor."
+      },
+      {
+        "h": "Permisos",
+        "p": "Cualquier permiso se usa únicamente para la función que tú elijas, como el recordatorio de estudio opcional o el widget de la pantalla de inicio. Puedes cambiar estos permisos en la configuración de tu dispositivo."
+      },
+      {
+        "h": "Menores",
+        "p": "Elements tiene una clasificación apta para todos, no contiene contenido objetable y no recopila información personal de nadie, incluidos los menores."
+      },
+      {
+        "h": "Cambios",
+        "p": "Si esta política cambia, publicaremos aquí la versión actualizada y modificaremos la fecha indicada arriba."
+      },
+      {
+        "h": "Marcas comerciales",
+        "p": "Elements es una marca comercial de Rizk Corsight, LLC. Apple y App Store son marcas comerciales de Apple Inc.; Google Play y Android son marcas comerciales de Google LLC. Todos los demás nombres de productos y empresas se usan solo con fines de identificación y siguen siendo propiedad de sus respectivos titulares."
+      }
+    ]
+  },
+  "et": {
+    "eyebrow": "Privaatsus",
+    "title": "Elements — privaatsuspoliitika",
+    "updated_label": "Viimati uuendatud",
+    "note": "See tõlge on esitatud mugavuse huvides. Erinevuste korral kehtib ingliskeelne versioon.",
+    "contact_h": "Kontakt",
+    "sections": [
+      {
+        "h": "Privaatsuspoliitika",
+        "p": "Elements on ainult seadmes töötav perioodilisustabeli õpirakendus. See ei vaja kontot, ei müü isikuandmeid, ei kuva reklaame ega kasuta analüütikat ega jälgimist. Sinu loodud andmed jäävad sinu seadmesse rakenduse privaatsesse salvestusruumi: sinu õpikaardikomplektid ja sõnakaardid, sinu kordamisajalugu ja vahekorduste ajakava, sinu tärniga märgitud elemendid ning sinu seaded."
+      },
+      {
+        "h": "Mida me ei kogu",
+        "p": "Me ei kogu sinu nime, e-posti aadressi, telefoninumbrit, asukohta, reklaamitunnuseid, kontakte, mikrofoni ega kasutusandmeid. Puuduvad reklaami-, analüütika-, omistamis- ja jälgimis-SDK-d."
+      },
+      {
+        "h": "Ostud",
+        "p": "Elementsi saab tasuta alla laadida koos 3-päevase täisjuurdepääsuga. Pärast seda avab üksainus valikuline ühekordne ost kogu rakenduse jäädavalt — puudub tellimus ning miski ei uuene ega arvelda automaatselt. Ostu haldab App Store (iOS) või Google Play (Android); Elements ei näe kunagi sinu nime, maksekaarti ega arveldusandmeid."
+      },
+      {
+        "h": "Võrgukasutus",
+        "p": "Elements töötab sinu andmeid ühessegi serverisse saatmata — tal pole ühtegi serverit. Kogu perioodilisustabel tuleb rakenduse sees kaasa ning tavakasutus jääb sinu seadmesse."
+      },
+      {
+        "h": "Seadmesisesed funktsioonid",
+        "p": "Elementide nimede väljaütlemine kasutab sinu seadme sisseehitatud kõnesünteesi (ainult heliväljund — mikrofoni pole, midagi ei salvestata). Valikuline selgitusfunktsioon, kui see on saadaval, töötab sinu seadmes Apple'i seadmesisese mudeliga ega lae midagi üles. Apple Watch'i sünkroonimine vahetab sinu edusamme otse sinu iPhone'i ja Watchi vahel, mitte kunagi serveri kaudu."
+      },
+      {
+        "h": "Load",
+        "p": "Iga luba kasutatakse ainult sinu valitud funktsiooni jaoks, näiteks valikulise õpimeeldetuletuse või avakuva vidina jaoks. Saad neid muuta oma seadme seadetes."
+      },
+      {
+        "h": "Lapsed",
+        "p": "Elements on hinnatud kõigile sobivaks, ei sisalda taunitavat sisu ega kogu kelleltki — sealhulgas lastelt — isikuandmeid."
+      },
+      {
+        "h": "Muudatused",
+        "p": "Kui see poliitika muutub, avaldame uuendatud versiooni siin ja muudame ülaltoodud kuupäeva."
+      },
+      {
+        "h": "Kaubamärgid",
+        "p": "Elements on ettevõtte Rizk Corsight, LLC kaubamärk™. Apple ja App Store on ettevõtte Apple Inc. kaubamärgid; Google Play ja Android on ettevõtte Google LLC kaubamärgid. Kõiki muid toote- ja ettevõttenimesid kasutatakse üksnes tuvastamise eesmärgil ning need jäävad nende vastavate omanike omandiks."
+      }
+    ]
+  },
+  "fa": {
+    "eyebrow": "حریم خصوصی",
+    "title": "Elements — سیاست حریم خصوصی",
+    "updated_label": "آخرین به‌روزرسانی",
+    "note": "این ترجمه برای سهولت ارائه شده است. در صورت وجود هرگونه تفاوت، نسخهٔ انگلیسی معتبر است.",
+    "contact_h": "تماس",
+    "sections": [
+      {
+        "h": "سیاست حریم خصوصی",
+        "p": "Elements یک برنامهٔ مطالعهٔ جدول تناوبی است که کاملاً به‌صورت محلی کار می‌کند. به هیچ حسابی نیاز ندارد، هیچ داده‌ای شخصی نمی‌فروشد، هیچ تبلیغی نمایش نمی‌دهد و از هیچ ابزار تحلیلی یا ردیابی استفاده نمی‌کند. داده‌هایی که می‌سازید روی دستگاه شما و در فضای ذخیره‌سازی خصوصی برنامه باقی می‌مانند: دسته‌های مطالعه و فلش‌کارت‌های شما، سابقهٔ مرور و برنامهٔ تکرار با فاصلهٔ زمانی شما، عناصر ستاره‌دار شما و تنظیمات شما."
+      },
+      {
+        "h": "آنچه جمع‌آوری نمی‌کنیم",
+        "p": "ما نام، ایمیل، شمارهٔ تلفن، موقعیت مکانی، شناسه‌های تبلیغاتی، مخاطبین، میکروفون یا داده‌های استفادهٔ شما را جمع‌آوری نمی‌کنیم. هیچ SDK تبلیغاتی، تحلیلی، انتساب یا ردیابی وجود ندارد."
+      },
+      {
+        "h": "خریدها",
+        "p": "دانلود Elements رایگان است و ۳ روز دسترسی کامل دارید. پس از آن، یک خرید اختیاری یک‌بار برای همیشه، کل برنامه را به‌طور دائمی باز می‌کند — هیچ اشتراکی وجود ندارد و هیچ‌چیز به‌طور خودکار تمدید یا از حساب کسر نمی‌شود. App Store (در iOS) یا Google Play (در Android) خرید را مدیریت می‌کند؛ Elements هرگز نام، کارت پرداخت یا جزئیات صورت‌حساب شما را نمی‌بیند."
+      },
+      {
+        "h": "استفاده از شبکه",
+        "p": "Elements بدون ارسال داده‌های شما به هیچ سروری کار می‌کند — اصلاً سروری ندارد. کل جدول تناوبی درون خود برنامه عرضه می‌شود و استفادهٔ معمول روی دستگاه شما باقی می‌ماند."
+      },
+      {
+        "h": "قابلیت‌های روی دستگاه",
+        "p": "تلفظ نام عناصر از قابلیت تبدیل متن به گفتارِ داخلیِ دستگاه شما استفاده می‌کند (فقط خروجی صوتی — بدون میکروفون، بدون ضبط هیچ‌چیز). توضیح‌دهندهٔ اختیاری، در صورت دسترس بودن، روی دستگاه شما و با استفاده از مدل روی‌دستگاهیِ Apple اجرا می‌شود و هیچ‌چیز را بارگذاری نمی‌کند. همگام‌سازی Apple Watch پیشرفت شما را مستقیماً میان iPhone و Watch شما رد و بدل می‌کند، نه از طریق سرور."
+      },
+      {
+        "h": "مجوزها",
+        "p": "هر مجوزی تنها برای قابلیتی که خودتان انتخاب می‌کنید استفاده می‌شود، مانند یادآور مطالعهٔ اختیاری یا ابزارک صفحهٔ اصلی. می‌توانید این موارد را در تنظیمات دستگاه خود تغییر دهید."
+      },
+      {
+        "h": "کودکان",
+        "p": "Elements برای همه رده‌بندی شده است، محتوای نامناسبی ندارد و هیچ اطلاعات شخصی‌ای از هیچ‌کس — از جمله کودکان — جمع‌آوری نمی‌کند."
+      },
+      {
+        "h": "تغییرات",
+        "p": "اگر این سیاست تغییر کند، نسخهٔ به‌روزرسانی‌شده را اینجا منتشر کرده و تاریخ بالا را اصلاح می‌کنیم."
+      },
+      {
+        "h": "علائم تجاری",
+        "p": "Elements یک علامت تجاری™ متعلق به Rizk Corsight, LLC است. Apple و App Store علائم تجاری Apple Inc. هستند؛ Google Play و Android علائم تجاری Google LLC هستند. تمامی نام‌های دیگر محصولات و شرکت‌ها تنها برای شناسایی به کار رفته‌اند و مالکیت آن‌ها نزد صاحبان مربوطه‌شان باقی می‌ماند."
+      }
+    ]
+  },
+  "fi": {
+    "eyebrow": "Tietosuoja",
+    "title": "Elements — Tietosuojakäytäntö",
+    "updated_label": "Viimeksi päivitetty",
+    "note": "Tämä käännös on tarjottu vain helpotukseksi. Mahdollisissa eroavaisuuksissa englanninkielinen versio on määräävä.",
+    "contact_h": "Yhteystiedot",
+    "sections": [
+      {
+        "h": "Tietosuojakäytäntö",
+        "p": "Elements on pelkästään laitteella toimiva jaksollisen järjestelmän opiskelusovellus. Se ei vaadi tiliä, ei myy henkilötietoja, ei näytä mainoksia eikä käytä analytiikkaa tai seurantaa. Luomasi tiedot pysyvät laitteellasi, sovelluksen yksityisessä tallennustilassa: opiskelupakkasi ja muistikorttisi, kertaushistoriasi ja kertausvälien aikataulusi, tähdellä merkitsemäsi alkuaineet sekä asetuksesi."
+      },
+      {
+        "h": "Mitä emme kerää",
+        "p": "Emme kerää nimeäsi, sähköpostiosoitettasi, puhelinnumeroasi, sijaintiasi, mainostunnisteitasi, yhteystietojasi, mikrofonia emmekä käyttötietoja. Sovelluksessa ei ole mainos-, analytiikka-, attribuutio- tai seuranta-SDK:ita."
+      },
+      {
+        "h": "Ostot",
+        "p": "Elements on ilmainen ladata, ja siihen sisältyy 3 päivän täysi käyttöoikeus. Sen jälkeen yksittäinen valinnainen kertaosto avaa koko sovelluksen pysyvästi — tilausta ei ole, eikä mitään uusiudu tai veloiteta automaattisesti. App Store (iOS) tai Google Play (Android) hoitaa oston; Elements ei koskaan näe nimeäsi, maksukorttiasi eikä laskutustietojasi."
+      },
+      {
+        "h": "Verkon käyttö",
+        "p": "Elements toimii lähettämättä tietojasi millekään palvelimelle — sillä ei ole sellaista. Koko jaksollinen järjestelmä toimitetaan sovelluksen sisällä, ja tavanomainen käyttö pysyy laitteellasi."
+      },
+      {
+        "h": "Laitteella toimivat ominaisuudet",
+        "p": "Alkuaineiden nimien puhuminen käyttää laitteesi sisäänrakennettua tekstistä puheeksi -toimintoa (vain äänen toisto — ei mikrofonia, mitään ei tallenneta). Valinnainen selitysominaisuus, kun se on saatavilla, toimii laitteellasi Applen laitteella toimivaa mallia käyttäen eikä lähetä mitään. Apple Watch -synkronointi vaihtaa edistymistäsi suoraan iPhonesi ja Watchin välillä, ei koskaan palvelimen kautta."
+      },
+      {
+        "h": "Käyttöoikeudet",
+        "p": "Mitä tahansa käyttöoikeutta käytetään vain valitsemaasi ominaisuuteen, kuten valinnaiseen opiskelumuistutukseen tai aloitusnäytön widgettiin. Voit muuttaa näitä laitteesi asetuksista."
+      },
+      {
+        "h": "Lapset",
+        "p": "Elements on luokiteltu kaikenikäisille, ei sisällä loukkaavaa sisältöä eikä kerää henkilötietoja keneltäkään — lapset mukaan lukien."
+      },
+      {
+        "h": "Muutokset",
+        "p": "Jos tämä käytäntö muuttuu, julkaisemme päivitetyn version tähän ja muutamme yllä olevaa päivämäärää."
+      },
+      {
+        "h": "Tavaramerkit",
+        "p": "Elements on Rizk Corsight, LLC:n tavaramerkki™. Apple ja App Store ovat Apple Inc:n tavaramerkkejä; Google Play ja Android ovat Google LLC:n tavaramerkkejä. Kaikkia muita tuote- ja yritysnimiä käytetään vain tunnistamistarkoituksessa, ja ne pysyvät omistajiensa omaisuutena."
+      }
+    ]
+  },
+  "fil": {
+    "eyebrow": "Privacy",
+    "title": "Elements — Patakaran sa Privacy",
+    "updated_label": "Huling na-update",
+    "note": "Ang pagsasaling ito ay ibinigay para sa kaginhawaan. Kung may anumang pagkakaiba, ang bersyong Ingles ang masusunod.",
+    "contact_h": "Makipag-ugnayan",
+    "sections": [
+      {
+        "h": "Patakaran sa privacy",
+        "p": "Ang Elements ay isang app para sa pag-aaral ng periodic table na nasa-device lamang. Hindi ito nangangailangan ng account, hindi nagbebenta ng personal na data, hindi nagpapakita ng mga ad, at hindi gumagamit ng anumang analytics o pagsubaybay. Ang data na nilikha mo ay nananatili sa iyong device, sa pribadong storage ng app: ang iyong mga study deck at flashcard, ang iyong kasaysayan ng pagrerepaso at iskedyul ng spaced-repetition, ang iyong mga elementong na-star, at ang iyong mga setting."
+      },
+      {
+        "h": "Ano ang hindi namin kinokolekta",
+        "p": "Hindi namin kinokolekta ang iyong pangalan, email, numero ng telepono, lokasyon, mga advertising identifier, mga contact, mikropono, o data ng paggamit. Walang mga SDK para sa advertising, analytics, attribution, o pagsubaybay."
+      },
+      {
+        "h": "Mga pagbili",
+        "p": "Libre ang pag-download ng Elements na may 3 araw na buong access. Pagkatapos noon, isang opsyonal na isahang pagbili lamang ang permanenteng nagbubukas sa buong app — walang subscription, at walang awtomatikong nagre-renew o awtomatikong nagsisingil. Ang App Store (iOS) o Google Play (Android) ang humahawak sa pagbili; hindi nakikita ng Elements ang iyong pangalan, payment card, o mga detalye ng pagsingil."
+      },
+      {
+        "h": "Paggamit ng network",
+        "p": "Gumagana ang Elements nang hindi nagpapadala ng iyong data sa anumang server — wala itong server. Ang buong periodic table ay nakapaloob sa app, at ang normal na paggamit ay nananatili sa iyong device."
+      },
+      {
+        "h": "Mga feature na nasa-device",
+        "p": "Ang binibigkas na mga pangalan ng elemento ay gumagamit ng built-in na text-to-speech ng iyong device (audio output lamang — walang mikropono, walang naitatala). Ang opsyonal na explainer, kapag available, ay tumatakbo sa iyong device gamit ang on-device na modelo ng Apple at walang ina-upload. Ang Apple Watch sync ay nagpapalitan ng iyong progreso nang direkta sa pagitan ng iyong iPhone at Watch, hindi kailanman sa pamamagitan ng server."
+      },
+      {
+        "h": "Mga pahintulot",
+        "p": "Anumang pahintulot ay ginagamit lamang para sa feature na pipiliin mo, gaya ng opsyonal na paalala sa pag-aaral o ang widget sa home screen. Maaari mong baguhin ang mga ito sa mga setting ng iyong device."
+      },
+      {
+        "h": "Mga bata",
+        "p": "Ang Elements ay nakarating para sa lahat, walang nilalamang nakakasakit, at hindi nangongolekta ng anumang personal na impormasyon mula sa kahit sino — kabilang ang mga bata."
+      },
+      {
+        "h": "Mga pagbabago",
+        "p": "Kung magbabago ang patakarang ito, ipo-post namin dito ang na-update na bersyon at babaguhin ang petsa sa itaas."
+      },
+      {
+        "h": "Mga trademark",
+        "p": "Ang Elements ay isang trademark™ ng Rizk Corsight, LLC. Ang Apple at App Store ay mga trademark ng Apple Inc.; ang Google Play at Android ay mga trademark ng Google LLC. Ang lahat ng iba pang pangalan ng produkto at kumpanya ay ginagamit lamang para sa pagkakakilanlan at nananatiling pag-aari ng kani-kanilang may-ari."
+      }
+    ]
+  },
+  "fr": {
+    "eyebrow": "Confidentialité",
+    "title": "Elements — Politique de confidentialité",
+    "updated_label": "Dernière mise à jour",
+    "note": "Cette traduction est fournie à titre indicatif. En cas de divergence, la version anglaise fait foi.",
+    "contact_h": "Contact",
+    "sections": [
+      {
+        "h": "Politique de confidentialité",
+        "p": "Elements est une application d'étude du tableau périodique fonctionnant entièrement en local. Elle ne nécessite aucun compte, ne vend aucune donnée personnelle, n'affiche aucune publicité et n'utilise ni analyse ni suivi. Les données que vous créez restent sur votre appareil, dans le stockage privé de l'application : vos paquets d'étude et vos cartes mémoire, votre historique de révision et votre programme de répétition espacée, vos éléments favoris ainsi que vos réglages."
+      },
+      {
+        "h": "Ce que nous ne collectons pas",
+        "p": "Nous ne collectons ni votre nom, ni votre adresse e-mail, ni votre numéro de téléphone, ni votre localisation, ni vos identifiants publicitaires, ni vos contacts, ni votre microphone, ni vos données d'utilisation. Il n'y a aucun SDK de publicité, d'analyse, d'attribution ou de suivi."
+      },
+      {
+        "h": "Achats",
+        "p": "Elements est gratuite à télécharger avec 3 jours d'accès complet. Passé ce délai, un unique achat facultatif effectué une seule fois débloque l'application entière de façon permanente — il n'y a aucun abonnement, et rien ne se renouvelle ni ne se facture automatiquement. L'App Store (iOS) ou Google Play (Android) gère l'achat ; Elements ne voit jamais votre nom, votre carte de paiement ni vos coordonnées de facturation."
+      },
+      {
+        "h": "Utilisation du réseau",
+        "p": "Elements fonctionne sans envoyer vos données à un quelconque serveur — elle n'en a aucun. L'ensemble du tableau périodique est intégré à l'application, et un usage normal reste sur votre appareil."
+      },
+      {
+        "h": "Fonctions sur l'appareil",
+        "p": "La prononciation des noms d'éléments utilise la synthèse vocale intégrée à votre appareil (sortie audio uniquement — aucun microphone, aucun enregistrement). L'explication facultative, lorsqu'elle est disponible, s'exécute sur votre appareil à l'aide du modèle sur appareil d'Apple et ne transmet rien. La synchronisation avec l'Apple Watch échange votre progression directement entre votre iPhone et votre Watch, jamais par l'intermédiaire d'un serveur."
+      },
+      {
+        "h": "Autorisations",
+        "p": "Toute autorisation n'est utilisée que pour la fonction que vous choisissez, comme le rappel d'étude facultatif ou le widget de l'écran d'accueil. Vous pouvez les modifier dans les réglages de votre appareil."
+      },
+      {
+        "h": "Enfants",
+        "p": "Elements est classée tout public, ne contient aucun contenu répréhensible et ne collecte aucune information personnelle auprès de quiconque — y compris des enfants."
+      },
+      {
+        "h": "Modifications",
+        "p": "Si cette politique change, nous publierons ici la version mise à jour et réviserons la date ci-dessus."
+      },
+      {
+        "h": "Marques",
+        "p": "Elements est une marque commerciale de Rizk Corsight, LLC. Apple et App Store sont des marques commerciales d'Apple Inc. ; Google Play et Android sont des marques commerciales de Google LLC. Tous les autres noms de produits et d'entreprises sont utilisés à des fins d'identification uniquement et demeurent la propriété de leurs détenteurs respectifs."
+      }
+    ]
+  },
+  "fr-CA": {
+    "eyebrow": "Confidentialité",
+    "title": "Elements — Politique de confidentialité",
+    "updated_label": "Dernière mise à jour",
+    "note": "Cette traduction est fournie à titre indicatif. En cas de divergence, la version anglaise prévaut.",
+    "contact_h": "Contact",
+    "sections": [
+      {
+        "h": "Politique de confidentialité",
+        "p": "Elements est une application d'étude du tableau périodique fonctionnant uniquement en local. Elle ne nécessite aucun compte, ne vend aucune donnée personnelle, n'affiche aucune publicité et n'utilise aucun outil d'analyse ou de suivi. Les données que vous créez restent sur votre appareil, dans le stockage privé de l'application : vos paquets d'étude et vos cartes mémoire, votre historique de révision et votre calendrier de répétition espacée, vos éléments mis en favoris ainsi que vos réglages."
+      },
+      {
+        "h": "Ce que nous ne collectons pas",
+        "p": "Nous ne collectons ni votre nom, ni votre adresse courriel, ni votre numéro de téléphone, ni votre position, ni vos identifiants publicitaires, ni vos contacts, ni votre microphone, ni vos données d'utilisation. Il n'y a aucun SDK de publicité, d'analyse, d'attribution ou de suivi."
+      },
+      {
+        "h": "Achats",
+        "p": "Elements est gratuite à télécharger et offre 3 jours d'accès complet. Par la suite, un seul achat unique facultatif déverrouille l'application en entier de façon permanente — il n'y a aucun abonnement, et rien ne se renouvelle ni ne se facture automatiquement. C'est l'App Store (iOS) ou Google Play (Android) qui traite l'achat; Elements ne voit jamais votre nom, votre carte de paiement ni vos coordonnées de facturation."
+      },
+      {
+        "h": "Utilisation du réseau",
+        "p": "Elements fonctionne sans envoyer vos données à un quelconque serveur — elle n'en a aucun. L'ensemble du tableau périodique est inclus dans l'application, et l'utilisation normale demeure sur votre appareil."
+      },
+      {
+        "h": "Fonctions sur l'appareil",
+        "p": "La prononciation des noms d'éléments utilise la synthèse vocale intégrée à votre appareil (sortie audio seulement — aucun microphone, rien n'est enregistré). L'explication facultative, lorsqu'elle est disponible, s'exécute sur votre appareil au moyen du modèle sur l'appareil d'Apple et ne téléverse rien. La synchronisation avec l'Apple Watch échange votre progression directement entre votre iPhone et votre Watch, jamais par l'intermédiaire d'un serveur."
+      },
+      {
+        "h": "Autorisations",
+        "p": "Toute autorisation n'est utilisée que pour la fonction que vous choisissez, comme le rappel d'étude facultatif ou le widget de l'écran d'accueil. Vous pouvez les modifier dans les réglages de votre appareil."
+      },
+      {
+        "h": "Enfants",
+        "p": "Elements convient à tous, ne contient aucun contenu répréhensible et ne recueille aucun renseignement personnel de quiconque — y compris des enfants."
+      },
+      {
+        "h": "Modifications",
+        "p": "Si cette politique change, nous publierons ici la version mise à jour et réviserons la date indiquée ci-dessus."
+      },
+      {
+        "h": "Marques de commerce",
+        "p": "Elements est une marque de commerce de Rizk Corsight, LLC. Apple et App Store sont des marques de commerce d'Apple Inc.; Google Play et Android sont des marques de commerce de Google LLC. Tous les autres noms de produits et d'entreprises sont utilisés à des fins d'identification seulement et demeurent la propriété de leurs détenteurs respectifs."
+      }
+    ]
+  },
+  "gu": {
+    "eyebrow": "ગોપનીયતા",
+    "title": "Elements — ગોપનીયતા નીતિ",
+    "updated_label": "છેલ્લે અપડેટ કરેલ",
+    "note": "આ અનુવાદ સગવડ માટે પૂરો પાડવામાં આવ્યો છે. જો કોઈ તફાવત હોય, તો અંગ્રેજી આવૃત્તિ માન્ય રહેશે.",
+    "contact_h": "સંપર્ક",
+    "sections": [
+      {
+        "h": "ગોપનીયતા નીતિ",
+        "p": "Elements એ ફક્ત-સ્થાનિક (local-only) આવર્ત કોષ્ટક અભ્યાસ એપ છે. તેને કોઈ ખાતાની જરૂર નથી, કોઈ વ્યક્તિગત ડેટા વેચતી નથી, કોઈ જાહેરાતો બતાવતી નથી, અને કોઈ વિશ્લેષણ (analytics) કે ટ્રેકિંગનો ઉપયોગ કરતી નથી. તમે જે ડેટા બનાવો છો તે તમારા ઉપકરણ પર, એપના ખાનગી સંગ્રહમાં રહે છે: તમારા અભ્યાસ ડેક અને ફ્લેશકાર્ડ, તમારો રિવ્યૂ ઇતિહાસ અને અંતરાલ-પુનરાવર્તન (spaced-repetition) સમયપત્રક, તમારા તારાંકિત તત્ત્વો, અને તમારી સેટિંગ્સ."
+      },
+      {
+        "h": "અમે શું એકત્રિત કરતા નથી",
+        "p": "અમે તમારું નામ, ઇમેઇલ, ફોન નંબર, સ્થાન, જાહેરાત ઓળખકર્તાઓ, સંપર્કો, માઇક્રોફોન, કે વપરાશ ડેટા એકત્રિત કરતા નથી. કોઈ જાહેરાત, વિશ્લેષણ, એટ્રિબ્યુશન, કે ટ્રેકિંગ SDK નથી."
+      },
+      {
+        "h": "ખરીદીઓ",
+        "p": "Elements 3 દિવસની સંપૂર્ણ ઍક્સેસ સાથે મફતમાં ડાઉનલોડ કરી શકાય છે. તે પછી, એક જ વૈકલ્પિક એક-વખતની ખરીદી સમગ્ર એપને કાયમ માટે અનલૉક કરે છે — કોઈ સબ્સ્ક્રિપ્શન નથી, અને કંઈ આપમેળે રિન્યૂ કે આપમેળે ચાર્જ થતું નથી. App Store (iOS) અથવા Google Play (Android) ખરીદી સંભાળે છે; Elements ક્યારેય તમારું નામ, ચૂકવણી કાર્ડ, કે બિલિંગ વિગતો જોતી નથી."
+      },
+      {
+        "h": "નેટવર્ક વપરાશ",
+        "p": "Elements તમારો ડેટા કોઈ સર્વર પર મોકલ્યા વિના કામ કરે છે — તેની પાસે કોઈ સર્વર નથી. સમગ્ર આવર્ત કોષ્ટક એપની અંદર જ આવે છે, અને સામાન્ય વપરાશ તમારા ઉપકરણ પર જ રહે છે."
+      },
+      {
+        "h": "ઉપકરણ-પરની સુવિધાઓ",
+        "p": "બોલાયેલા તત્ત્વોના નામ તમારા ઉપકરણના બિલ્ટ-ઇન ટેક્સ્ટ-ટુ-સ્પીચનો ઉપયોગ કરે છે (ફક્ત ઑડિયો આઉટપુટ — કોઈ માઇક્રોફોન નહીં, કંઈ રેકોર્ડ થતું નથી). વૈકલ્પિક સમજૂતી-સાધન, જ્યારે ઉપલબ્ધ હોય, ત્યારે તે Apple ના ઉપકરણ-પરના મોડેલનો ઉપયોગ કરીને તમારા ઉપકરણ પર ચાલે છે અને કંઈ અપલોડ કરતું નથી. Apple Watch સિંક તમારી પ્રગતિ સીધી તમારા iPhone અને Watch વચ્ચે વિનિમય કરે છે, ક્યારેય સર્વર મારફતે નહીં."
+      },
+      {
+        "h": "પરવાનગીઓ",
+        "p": "કોઈપણ પરવાનગીનો ઉપયોગ ફક્ત તમે પસંદ કરેલી સુવિધા માટે જ થાય છે, જેમ કે વૈકલ્પિક અભ્યાસ રિમાઇન્ડર અથવા હોમ-સ્ક્રીન વિજેટ. તમે આ તમારા ઉપકરણની સેટિંગ્સમાં બદલી શકો છો."
+      },
+      {
+        "h": "બાળકો",
+        "p": "Elements દરેક માટે રેટ કરેલી છે, તેમાં કોઈ વાંધાજનક સામગ્રી નથી, અને કોઈની પાસેથી — બાળકો સહિત — કોઈ વ્યક્તિગત માહિતી એકત્રિત કરતી નથી."
+      },
+      {
+        "h": "ફેરફારો",
+        "p": "જો આ નીતિ બદલાય, તો અમે અપડેટ કરેલી આવૃત્તિ અહીં પોસ્ટ કરીશું અને ઉપરની તારીખ સુધારીશું."
+      },
+      {
+        "h": "ટ્રેડમાર્ક",
+        "p": "Elements એ Rizk Corsight, LLC નો ટ્રેડમાર્ક™ છે. Apple અને App Store એ Apple Inc. ના ટ્રેડમાર્ક છે; Google Play અને Android એ Google LLC ના ટ્રેડમાર્ક છે. અન્ય તમામ ઉત્પાદન અને કંપનીના નામો ફક્ત ઓળખ માટે વપરાય છે અને તે તેમના સંબંધિત માલિકોની મિલકત રહે છે."
+      }
+    ]
+  },
+  "he": {
+    "eyebrow": "פרטיות",
+    "title": "Elements — מדיניות פרטיות",
+    "updated_label": "עודכן לאחרונה",
+    "note": "תרגום זה ניתן לנוחותכם בלבד. בכל מקרה של אי-התאמה, הגרסה האנגלית היא הקובעת.",
+    "contact_h": "יצירת קשר",
+    "sections": [
+      {
+        "h": "מדיניות פרטיות",
+        "p": "Elements היא אפליקציה ללימוד הטבלה המחזורית הפועלת באופן מקומי בלבד. אין צורך בחשבון, היא אינה מוכרת נתונים אישיים, אינה מציגה פרסומות ואינה משתמשת בכלי ניתוח או מעקב. הנתונים שאתם יוצרים נשארים במכשיר שלכם, באחסון הפרטי של האפליקציה: חפיסות הלימוד וכרטיסיות הזיכרון שלכם, היסטוריית החזרות ולוח הזמנים לחזרה במרווחים, היסודות שסימנתם בכוכב וההגדרות שלכם."
+      },
+      {
+        "h": "מה איננו אוספים",
+        "p": "איננו אוספים את שמכם, כתובת הדוא\"ל, מספר הטלפון, המיקום, מזהי פרסום, אנשי הקשר, המיקרופון או נתוני שימוש. אין ערכות SDK לפרסום, לניתוח, לשיוך או למעקב."
+      },
+      {
+        "h": "רכישות",
+        "p": "ניתן להוריד את Elements בחינם עם 3 ימים של גישה מלאה. לאחר מכן, רכישה חד-פעמית אחת ואופציונלית פותחת את האפליקציה כולה לצמיתות — אין מנוי, ושום דבר אינו מתחדש או מחויב באופן אוטומטי. ה-App Store‏ (iOS) או Google Play‏ (Android) מטפלים ברכישה; Elements לעולם אינה רואה את שמכם, את כרטיס התשלום או את פרטי החיוב שלכם."
+      },
+      {
+        "h": "שימוש ברשת",
+        "p": "Elements פועלת מבלי לשלוח את הנתונים שלכם לשרת כלשהו — אין לה כזה. הטבלה המחזורית כולה מגיעה בתוך האפליקציה, והשימוש הרגיל נשאר במכשיר שלכם."
+      },
+      {
+        "h": "תכונות במכשיר",
+        "p": "שמות יסודות מדוברים משתמשים בהמרת טקסט לדיבור המובנית במכשיר שלכם (פלט שמע בלבד — ללא מיקרופון, שום דבר אינו מוקלט). הסבר היסודות האופציונלי, כשהוא זמין, פועל במכשיר שלכם באמצעות המודל של Apple הפועל במכשיר ואינו מעלה דבר. סנכרון Apple Watch מחליף את ההתקדמות שלכם ישירות בין ה-iPhone וה-Watch שלכם, לעולם לא דרך שרת."
+      },
+      {
+        "h": "הרשאות",
+        "p": "כל הרשאה משמשת אך ורק לתכונה שבחרתם, כגון תזכורת הלימוד האופציונלית או הווידג'ט במסך הבית. תוכלו לשנות הרשאות אלה בהגדרות המכשיר שלכם."
+      },
+      {
+        "h": "ילדים",
+        "p": "Elements מדורגת לכל הגילאים, אינה מכילה תוכן פוגעני ואינה אוספת מידע אישי מאף אחד — לרבות ילדים."
+      },
+      {
+        "h": "שינויים",
+        "p": "אם מדיניות זו תשתנה, נפרסם כאן את הגרסה המעודכנת ונעדכן את התאריך שלמעלה."
+      },
+      {
+        "h": "סימני מסחר",
+        "p": "Elements™ הוא סימן מסחר של Rizk Corsight, LLC.‏ Apple ו-App Store הם סימני מסחר של Apple Inc.;‏ Google Play ו-Android הם סימני מסחר של Google LLC. כל שאר שמות המוצרים והחברות משמשים לצורכי זיהוי בלבד ונשארים בבעלות בעליהם בהתאמה."
+      }
+    ]
+  },
+  "hi": {
+    "eyebrow": "गोपनीयता",
+    "title": "Elements — गोपनीयता नीति",
+    "updated_label": "अंतिम बार अपडेट किया गया",
+    "note": "यह अनुवाद केवल सुविधा के लिए प्रदान किया गया है। यदि कोई अंतर हो, तो अंग्रेज़ी संस्करण ही मान्य होगा।",
+    "contact_h": "संपर्क",
+    "sections": [
+      {
+        "h": "गोपनीयता नीति",
+        "p": "Elements एक केवल-स्थानीय आवर्त-सारणी अध्ययन ऐप है। इसे किसी खाते की आवश्यकता नहीं है, यह कोई व्यक्तिगत डेटा नहीं बेचता, कोई विज्ञापन नहीं दिखाता, और किसी विश्लेषण या ट्रैकिंग का उपयोग नहीं करता। आपके द्वारा बनाया गया डेटा आपके डिवाइस पर, ऐप के निजी संग्रहण में रहता है: आपके अध्ययन डेक और फ़्लैशकार्ड, आपका समीक्षा इतिहास और अंतराल-दोहराव कार्यक्रम, आपके तारांकित तत्व, और आपकी सेटिंग्स।"
+      },
+      {
+        "h": "हम क्या एकत्र नहीं करते",
+        "p": "हम आपका नाम, ईमेल, फ़ोन नंबर, स्थान, विज्ञापन पहचानकर्ता, संपर्क, माइक्रोफ़ोन, या उपयोग डेटा एकत्र नहीं करते। कोई विज्ञापन, विश्लेषण, एट्रिब्यूशन, या ट्रैकिंग SDK नहीं हैं।"
+      },
+      {
+        "h": "खरीदारी",
+        "p": "Elements को 3 दिनों की पूर्ण पहुँच के साथ निःशुल्क डाउनलोड किया जा सकता है। उसके बाद, एक एकल वैकल्पिक एकमुश्त खरीदारी पूरे ऐप को स्थायी रूप से अनलॉक कर देती है — कोई सदस्यता नहीं है, और कुछ भी अपने आप नवीनीकृत या शुल्कित नहीं होता। खरीदारी को App Store (iOS) या Google Play (Android) संभालता है; Elements कभी भी आपका नाम, भुगतान कार्ड, या बिलिंग विवरण नहीं देखता।"
+      },
+      {
+        "h": "नेटवर्क उपयोग",
+        "p": "Elements आपके डेटा को किसी भी सर्वर पर भेजे बिना काम करता है — इसका कोई सर्वर है ही नहीं। पूरी आवर्त सारणी ऐप के भीतर ही आती है, और सामान्य उपयोग आपके डिवाइस पर ही रहता है।"
+      },
+      {
+        "h": "डिवाइस-पर सुविधाएँ",
+        "p": "बोले गए तत्व नाम आपके डिवाइस की अंतर्निहित टेक्स्ट-टू-स्पीच का उपयोग करते हैं (केवल ऑडियो आउटपुट — कोई माइक्रोफ़ोन नहीं, कुछ भी रिकॉर्ड नहीं किया जाता)। वैकल्पिक व्याख्याकार, जब उपलब्ध हो, आपके डिवाइस पर Apple के डिवाइस-पर मॉडल का उपयोग करके चलता है और कुछ भी अपलोड नहीं करता। Apple Watch सिंक आपकी प्रगति को आपके iPhone और Watch के बीच सीधे आदान-प्रदान करता है, कभी किसी सर्वर के माध्यम से नहीं।"
+      },
+      {
+        "h": "अनुमतियाँ",
+        "p": "कोई भी अनुमति केवल उसी सुविधा के लिए उपयोग की जाती है जिसे आप चुनते हैं, जैसे वैकल्पिक अध्ययन अनुस्मारक या होम-स्क्रीन विजेट। आप इन्हें अपने डिवाइस की सेटिंग्स में बदल सकते हैं।"
+      },
+      {
+        "h": "बच्चे",
+        "p": "Elements सभी के लिए रेटेड है, इसमें कोई आपत्तिजनक सामग्री नहीं है, और यह किसी से भी कोई व्यक्तिगत जानकारी एकत्र नहीं करता — बच्चों सहित।"
+      },
+      {
+        "h": "परिवर्तन",
+        "p": "यदि यह नीति बदलती है, तो हम यहाँ अपडेट किया गया संस्करण पोस्ट करेंगे और ऊपर दी गई तारीख को संशोधित करेंगे।"
+      },
+      {
+        "h": "ट्रेडमार्क",
+        "p": "Elements, Rizk Corsight, LLC का एक ट्रेडमार्क™ है। Apple और App Store, Apple Inc. के ट्रेडमार्क™ हैं; Google Play और Android, Google LLC के ट्रेडमार्क™ हैं। अन्य सभी उत्पाद और कंपनी के नाम केवल पहचान के लिए उपयोग किए जाते हैं और अपने संबंधित स्वामियों की संपत्ति बने रहते हैं।"
+      }
+    ]
+  },
+  "hr": {
+    "eyebrow": "Privatnost",
+    "title": "Elements — Pravila o privatnosti",
+    "updated_label": "Posljednje ažuriranje",
+    "note": "Ovaj se prijevod pruža radi praktičnosti. U slučaju bilo kakvog odstupanja, mjerodavna je engleska verzija.",
+    "contact_h": "Kontakt",
+    "sections": [
+      {
+        "h": "Pravila o privatnosti",
+        "p": "Elements je aplikacija za učenje periodnog sustava koja radi isključivo lokalno. Ne treba račun, ne prodaje osobne podatke, ne prikazuje oglase i ne koristi nikakvu analitiku ni praćenje. Podaci koje stvorite ostaju na vašem uređaju, u privatnoj pohrani aplikacije: vaši kompleti za učenje i kartice za učenje, vaša povijest ponavljanja i raspored razmaknutog ponavljanja, vaši označeni elementi te vaše postavke."
+      },
+      {
+        "h": "Što ne prikupljamo",
+        "p": "Ne prikupljamo vaše ime, e-poštu, telefonski broj, lokaciju, oglašivačke identifikatore, kontakte, mikrofon ni podatke o korištenju. Nema oglašivačkih, analitičkih, atribucijskih ni SDK-ova za praćenje."
+      },
+      {
+        "h": "Kupnje",
+        "p": "Elements je besplatan za preuzimanje s 3 dana punog pristupa. Nakon toga, jedna neobavezna jednokratna kupnja trajno otključava cijelu aplikaciju — nema pretplate i ništa se ne obnavlja niti naplaćuje automatski. Kupnju obrađuje App Store (iOS) ili Google Play (Android); Elements nikada ne vidi vaše ime, platnu karticu ni podatke o naplati."
+      },
+      {
+        "h": "Korištenje mreže",
+        "p": "Elements radi bez slanja vaših podataka na bilo koji poslužitelj — nema ga. Cijeli periodni sustav isporučuje se unutar aplikacije, a uobičajeno korištenje ostaje na vašem uređaju."
+      },
+      {
+        "h": "Značajke na uređaju",
+        "p": "Izgovaranje naziva elemenata koristi ugrađenu pretvorbu teksta u govor vašeg uređaja (samo izlaz zvuka — bez mikrofona, ništa se ne snima). Neobavezno objašnjenje, kada je dostupno, izvodi se na vašem uređaju pomoću Appleova modela na uređaju i ništa ne učitava. Sinkronizacija s Apple Watchem razmjenjuje vaš napredak izravno između vašeg iPhonea i Watcha, nikada preko poslužitelja."
+      },
+      {
+        "h": "Dopuštenja",
+        "p": "Svako se dopuštenje koristi isključivo za značajku koju odaberete, poput neobaveznog podsjetnika za učenje ili widgeta na početnom zaslonu. Te postavke možete promijeniti u postavkama svog uređaja."
+      },
+      {
+        "h": "Djeca",
+        "p": "Elements je ocijenjen kao prikladan za sve, ne sadrži neprimjeren sadržaj i ne prikuplja nikakve osobne podatke ni od koga — uključujući djecu."
+      },
+      {
+        "h": "Izmjene",
+        "p": "Ako se ova pravila promijene, ovdje ćemo objaviti ažuriranu verziju i izmijeniti gornji datum."
+      },
+      {
+        "h": "Žigovi",
+        "p": "Elements je žig (™) tvrtke Rizk Corsight, LLC. Apple i App Store žigovi su tvrtke Apple Inc.; Google Play i Android žigovi su tvrtke Google LLC. Svi ostali nazivi proizvoda i tvrtki koriste se isključivo radi identifikacije i ostaju vlasništvo svojih odgovarajućih vlasnika."
+      }
+    ]
+  },
+  "hu": {
+    "eyebrow": "Adatvédelem",
+    "title": "Elements — Adatvédelmi szabályzat",
+    "updated_label": "Utolsó frissítés",
+    "note": "Ezt a fordítást a kényelem érdekében biztosítjuk. Bármilyen eltérés esetén az angol nyelvű változat az irányadó.",
+    "contact_h": "Kapcsolat",
+    "sections": [
+      {
+        "h": "Adatvédelmi szabályzat",
+        "p": "Az Elements egy kizárólag helyben működő periódusos-rendszer tanulóalkalmazás. Nincs szüksége fiókra, nem ad el személyes adatokat, nem jelenít meg hirdetéseket, és nem használ analitikát vagy nyomkövetést. Az általad létrehozott adatok az eszközödön maradnak, az alkalmazás privát tárhelyén: a tanulópaklijaid és tanulókártyáid, az ismétlési előzményeid és a térközös ismétlési ütemezésed, a megcsillagozott elemeid, valamint a beállításaid."
+      },
+      {
+        "h": "Amit nem gyűjtünk",
+        "p": "Nem gyűjtjük a nevedet, e-mail-címedet, telefonszámodat, tartózkodási helyedet, hirdetési azonosítóidat, névjegyeidet, mikrofonodat vagy a használati adataidat. Nincsenek hirdetési, analitikai, attribúciós vagy nyomkövető SDK-k."
+      },
+      {
+        "h": "Vásárlások",
+        "p": "Az Elements ingyenesen letölthető, 3 napos teljes hozzáféréssel. Ezt követően egyetlen, választható egyszeri vásárlás véglegesen feloldja a teljes alkalmazást — nincs előfizetés, és semmi sem újul meg vagy terhel automatikusan. A vásárlást az App Store (iOS) vagy a Google Play (Android) kezeli; az Elements soha nem látja a nevedet, a fizetési kártyádat vagy a számlázási adataidat."
+      },
+      {
+        "h": "Hálózathasználat",
+        "p": "Az Elements anélkül működik, hogy bármilyen szerverre küldené az adataidat — nincs is ilyenje. A teljes periódusos rendszer az alkalmazáson belül érkezik, és a szokásos használat az eszközödön marad."
+      },
+      {
+        "h": "Eszközön futó funkciók",
+        "p": "Az elemek nevének felolvasása az eszközöd beépített szövegfelolvasóját használja (csak hangkimenet — nincs mikrofon, semmit sem rögzítünk). A választható magyarázó funkció, amikor elérhető, az eszközödön fut az Apple eszközön futó modelljével, és semmit sem tölt fel. Az Apple Watch szinkronizálás közvetlenül cseréli ki a haladásodat az iPhone és a Watch között, soha nem szerveren keresztül."
+      },
+      {
+        "h": "Engedélyek",
+        "p": "Bármely engedélyt csak az általad választott funkcióhoz használunk, például a választható tanulási emlékeztetőhöz vagy a kezdőképernyős modulhoz. Ezeket az eszközöd beállításaiban módosíthatod."
+      },
+      {
+        "h": "Gyermekek",
+        "p": "Az Elements mindenki számára ajánlott, nem tartalmaz kifogásolható tartalmat, és senkitől sem gyűjt személyes adatokat — a gyermekektől sem."
+      },
+      {
+        "h": "Változások",
+        "p": "Ha ez a szabályzat módosul, a frissített változatot itt tesszük közzé, és felülírjuk a fenti dátumot."
+      },
+      {
+        "h": "Védjegyek",
+        "p": "Az Elements a Rizk Corsight, LLC védjegye™. Az Apple és az App Store az Apple Inc. védjegyei; a Google Play és az Android a Google LLC védjegyei. Minden más termék- és cégnév kizárólag azonosítás céljából szerepel, és továbbra is a megfelelő tulajdonosaik tulajdonát képezi."
+      }
+    ]
+  },
+  "id": {
+    "eyebrow": "Privasi",
+    "title": "Elements — Kebijakan Privasi",
+    "updated_label": "Terakhir diperbarui",
+    "note": "Terjemahan ini disediakan untuk kemudahan. Jika terdapat perbedaan, versi bahasa Inggris yang berlaku.",
+    "contact_h": "Kontak",
+    "sections": [
+      {
+        "h": "Kebijakan privasi",
+        "p": "Elements adalah aplikasi belajar tabel periodik yang sepenuhnya bekerja secara lokal. Aplikasi ini tidak memerlukan akun, tidak menjual data pribadi, tidak menampilkan iklan, dan tidak menggunakan analitik atau pelacakan. Data yang Anda buat tetap berada di perangkat Anda, di dalam penyimpanan pribadi aplikasi: dek belajar dan kartu hafalan Anda, riwayat tinjauan dan jadwal pengulangan berjarak Anda, elemen yang Anda tandai bintang, serta pengaturan Anda."
+      },
+      {
+        "h": "Apa yang tidak kami kumpulkan",
+        "p": "Kami tidak mengumpulkan nama, email, nomor telepon, lokasi, pengenal iklan, kontak, mikrofon, atau data penggunaan Anda. Tidak ada SDK iklan, analitik, atribusi, atau pelacakan."
+      },
+      {
+        "h": "Pembelian",
+        "p": "Elements gratis untuk diunduh dengan akses penuh selama 3 hari. Setelah itu, satu pembelian sekali bayar yang bersifat opsional membuka seluruh aplikasi secara permanen — tidak ada langganan, dan tidak ada perpanjangan atau penagihan otomatis. App Store (iOS) atau Google Play (Android) yang menangani pembelian; Elements tidak pernah melihat nama, kartu pembayaran, atau detail penagihan Anda."
+      },
+      {
+        "h": "Penggunaan jaringan",
+        "p": "Elements bekerja tanpa mengirim data Anda ke server mana pun — karena memang tidak ada. Seluruh tabel periodik disertakan di dalam aplikasi, dan penggunaan normal tetap berada di perangkat Anda."
+      },
+      {
+        "h": "Fitur pada perangkat",
+        "p": "Pengucapan nama elemen menggunakan teks-ke-ucapan bawaan perangkat Anda (hanya keluaran audio — tanpa mikrofon, tidak ada yang direkam). Penjelas opsional, jika tersedia, berjalan di perangkat Anda menggunakan model pada-perangkat dari Apple dan tidak mengunggah apa pun. Sinkronisasi Apple Watch bertukar kemajuan Anda secara langsung antara iPhone dan Watch Anda, tidak pernah melalui server."
+      },
+      {
+        "h": "Izin",
+        "p": "Setiap izin hanya digunakan untuk fitur yang Anda pilih, seperti pengingat belajar opsional atau widget layar utama. Anda dapat mengubahnya di pengaturan perangkat Anda."
+      },
+      {
+        "h": "Anak-anak",
+        "p": "Elements diperingkat untuk semua orang, tidak memuat konten yang tidak pantas, dan tidak mengumpulkan informasi pribadi dari siapa pun — termasuk anak-anak."
+      },
+      {
+        "h": "Perubahan",
+        "p": "Jika kebijakan ini berubah, kami akan memuat versi yang diperbarui di sini dan memperbarui tanggal di atas."
+      },
+      {
+        "h": "Merek dagang",
+        "p": "Elements adalah merek dagang™ dari Rizk Corsight, LLC. Apple dan App Store adalah merek dagang dari Apple Inc.; Google Play dan Android adalah merek dagang dari Google LLC. Semua nama produk dan perusahaan lainnya hanya digunakan untuk tujuan identifikasi dan tetap menjadi milik pemiliknya masing-masing."
+      }
+    ]
+  },
+  "it": {
+    "eyebrow": "Privacy",
+    "title": "Elements — Informativa sulla privacy",
+    "updated_label": "Ultimo aggiornamento",
+    "note": "Questa traduzione è fornita per comodità. In caso di discrepanze, prevale la versione inglese.",
+    "contact_h": "Contatti",
+    "sections": [
+      {
+        "h": "Informativa sulla privacy",
+        "p": "Elements è un'app per lo studio della tavola periodica che funziona esclusivamente in locale. Non richiede alcun account, non vende dati personali, non mostra pubblicità e non utilizza strumenti di analisi o tracciamento. I dati che crei restano sul tuo dispositivo, nella memoria privata dell'app: i tuoi mazzi di studio e le flashcard, la cronologia dei ripassi e la pianificazione della ripetizione dilazionata, gli elementi che hai contrassegnato con una stella e le tue impostazioni."
+      },
+      {
+        "h": "Cosa non raccogliamo",
+        "p": "Non raccogliamo il tuo nome, l'indirizzo email, il numero di telefono, la posizione, gli identificatori pubblicitari, i contatti, il microfono o i dati di utilizzo. Non sono presenti SDK di pubblicità, analisi, attribuzione o tracciamento."
+      },
+      {
+        "h": "Acquisti",
+        "p": "Elements è gratuita da scaricare e include 3 giorni di accesso completo. Trascorso tale periodo, un singolo acquisto opzionale una tantum sblocca l'intera app in modo permanente: non esistono abbonamenti e nulla si rinnova o si addebita automaticamente. La gestione dell'acquisto è a carico dell'App Store (iOS) o di Google Play (Android); Elements non vede mai il tuo nome, la carta di pagamento o i dati di fatturazione."
+      },
+      {
+        "h": "Uso della rete",
+        "p": "Elements funziona senza inviare i tuoi dati ad alcun server, perché non ne ha. L'intera tavola periodica è inclusa all'interno dell'app e il normale utilizzo resta sul tuo dispositivo."
+      },
+      {
+        "h": "Funzionalità sul dispositivo",
+        "p": "La pronuncia dei nomi degli elementi utilizza la sintesi vocale integrata nel dispositivo (solo uscita audio: nessun microfono, nulla viene registrato). La spiegazione opzionale, quando disponibile, viene eseguita sul tuo dispositivo tramite il modello on-device di Apple e non carica nulla. La sincronizzazione con Apple Watch scambia i tuoi progressi direttamente tra iPhone e Watch, mai attraverso un server."
+      },
+      {
+        "h": "Autorizzazioni",
+        "p": "Qualsiasi autorizzazione viene utilizzata solo per la funzionalità che scegli, come il promemoria di studio opzionale o il widget sulla schermata Home. Puoi modificarle nelle impostazioni del tuo dispositivo."
+      },
+      {
+        "h": "Minori",
+        "p": "Elements è classificata per tutti, non contiene contenuti discutibili e non raccoglie alcuna informazione personale da nessuno, compresi i minori."
+      },
+      {
+        "h": "Modifiche",
+        "p": "In caso di modifiche a questa informativa, pubblicheremo qui la versione aggiornata e rivedremo la data indicata sopra."
+      },
+      {
+        "h": "Marchi",
+        "p": "Elements è un marchio commerciale™ di Rizk Corsight, LLC. Apple e App Store sono marchi commerciali di Apple Inc.; Google Play e Android sono marchi commerciali di Google LLC. Tutti gli altri nomi di prodotti e aziende sono utilizzati esclusivamente a scopo identificativo e restano di proprietà dei rispettivi titolari."
+      }
+    ]
+  },
+  "ja": {
+    "eyebrow": "プライバシー",
+    "title": "Elements — プライバシーポリシー",
+    "updated_label": "最終更新日",
+    "note": "この翻訳は便宜上提供されるものです。相違がある場合は、英語版が優先されます。",
+    "contact_h": "お問い合わせ",
+    "sections": [
+      {
+        "h": "プライバシーポリシー",
+        "p": "Elements は、すべての処理を端末上で行う周期表の学習アプリです。アカウントは不要で、個人データを販売することはなく、広告を表示せず、分析やトラッキングも一切行いません。あなたが作成したデータは、アプリの非公開ストレージ内の端末上にとどまります。学習デッキやフラッシュカード、復習履歴と間隔反復のスケジュール、お気に入りの元素、各種設定がこれに含まれます。"
+      },
+      {
+        "h": "収集しない情報",
+        "p": "私たちは、お名前、メールアドレス、電話番号、位置情報、広告識別子、連絡先、マイク、利用データを収集しません。広告、分析、アトリビューション、トラッキングのための SDK は一切ありません。"
+      },
+      {
+        "h": "購入について",
+        "p": "Elements は無料でダウンロードでき、3日間すべての機能をご利用いただけます。その後は、任意で一度きりの購入を行うことでアプリ全体が永続的にアンロックされます。サブスクリプションはなく、自動更新や自動課金も一切ありません。購入は App Store（iOS）または Google Play（Android）が処理し、Elements がお名前、お支払いカード、請求情報を確認することはありません。"
+      },
+      {
+        "h": "ネットワークの利用",
+        "p": "Elements は、あなたのデータをいかなるサーバーにも送信せずに動作します。そもそもサーバーが存在しません。周期表のすべてがアプリ内に同梱されており、通常の利用はあなたの端末上で完結します。"
+      },
+      {
+        "h": "端末上の機能",
+        "p": "元素名の読み上げには、端末に内蔵されたテキスト読み上げ機能を使用します（音声出力のみで、マイクは使用せず、録音も行いません）。任意の解説機能は、利用可能な場合、Apple の端末上モデルを使ってあなたの端末上で動作し、何もアップロードしません。Apple Watch との同期は、あなたの進捗を iPhone と Watch の間で直接やり取りするもので、サーバーを経由することはありません。"
+      },
+      {
+        "h": "権限について",
+        "p": "いかなる権限も、任意の学習リマインダーやホーム画面ウィジェットなど、あなたが選んだ機能のためにのみ使用されます。これらは端末の設定でいつでも変更できます。"
+      },
+      {
+        "h": "お子様について",
+        "p": "Elements は全年齢対象として評価されており、不適切なコンテンツを含まず、お子様を含むいかなる人からも個人情報を収集しません。"
+      },
+      {
+        "h": "変更について",
+        "p": "本ポリシーを変更する場合は、更新版をこちらに掲載し、上記の日付を改訂します。"
+      },
+      {
+        "h": "商標について",
+        "p": "Elements は、Rizk Corsight, LLC の商標™です。Apple および App Store は、Apple Inc. の商標です。Google Play および Android は、Google LLC の商標です。その他のすべての製品名および会社名は識別のためにのみ使用されており、それぞれの所有者に帰属します。"
+      }
+    ]
+  },
+  "kn": {
+    "eyebrow": "ಗೌಪ್ಯತೆ",
+    "title": "Elements — ಗೌಪ್ಯತಾ ನೀತಿ",
+    "updated_label": "ಕೊನೆಯ ಬಾರಿ ನವೀಕರಿಸಿದ್ದು",
+    "note": "ಈ ಅನುವಾದವನ್ನು ಅನುಕೂಲಕ್ಕಾಗಿ ಒದಗಿಸಲಾಗಿದೆ. ಯಾವುದೇ ವ್ಯತ್ಯಾಸವಿದ್ದರೆ, ಇಂಗ್ಲಿಷ್ ಆವೃತ್ತಿಯೇ ಪ್ರಮಾಣವಾಗಿರುತ್ತದೆ.",
+    "contact_h": "ಸಂಪರ್ಕ",
+    "sections": [
+      {
+        "h": "ಗೌಪ್ಯತಾ ನೀತಿ",
+        "p": "Elements ಎಂಬುದು ಸ್ಥಳೀಯವಾಗಿ-ಮಾತ್ರ ಕಾರ್ಯನಿರ್ವಹಿಸುವ ಆವರ್ತಕ-ಕೋಷ್ಟಕ ಅಧ್ಯಯನ ಆ್ಯಪ್. ಇದಕ್ಕೆ ಯಾವುದೇ ಖಾತೆಯ ಅಗತ್ಯವಿಲ್ಲ, ಯಾವುದೇ ವೈಯಕ್ತಿಕ ಡೇಟಾ ಮಾರುವುದಿಲ್ಲ, ಯಾವುದೇ ಜಾಹೀರಾತುಗಳನ್ನು ತೋರಿಸುವುದಿಲ್ಲ, ಮತ್ತು ಯಾವುದೇ ವಿಶ್ಲೇಷಣೆ ಅಥವಾ ಟ್ರ್ಯಾಕಿಂಗ್ ಬಳಸುವುದಿಲ್ಲ. ನೀವು ರಚಿಸುವ ಡೇಟಾ ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿಯೇ, ಆ್ಯಪ್‌ನ ಖಾಸಗಿ ಸಂಗ್ರಹಣೆಯಲ್ಲಿ ಉಳಿಯುತ್ತದೆ: ನಿಮ್ಮ ಅಧ್ಯಯನ ಡೆಕ್‌ಗಳು ಮತ್ತು ಫ್ಲಾಶ್‌ಕಾರ್ಡ್‌ಗಳು, ನಿಮ್ಮ ಪುನರಾವಲೋಕನ ಇತಿಹಾಸ ಮತ್ತು ಅಂತರಿತ-ಪುನರಾವರ್ತನ ವೇಳಾಪಟ್ಟಿ, ನೀವು ನಕ್ಷತ್ರ ಗುರುತು ಹಾಕಿದ Elements, ಮತ್ತು ನಿಮ್ಮ ಸೆಟ್ಟಿಂಗ್‌ಗಳು."
+      },
+      {
+        "h": "ನಾವು ಸಂಗ್ರಹಿಸದಿರುವುದು",
+        "p": "ನಾವು ನಿಮ್ಮ ಹೆಸರು, ಇಮೇಲ್, ದೂರವಾಣಿ ಸಂಖ್ಯೆ, ಸ್ಥಳ, ಜಾಹೀರಾತು ಗುರುತುಗಾರಕಗಳು, ಸಂಪರ್ಕಗಳು, ಮೈಕ್ರೋಫೋನ್, ಅಥವಾ ಬಳಕೆಯ ಡೇಟಾವನ್ನು ಸಂಗ್ರಹಿಸುವುದಿಲ್ಲ. ಯಾವುದೇ ಜಾಹೀರಾತು, ವಿಶ್ಲೇಷಣೆ, ಆಟ್ರಿಬ್ಯೂಷನ್, ಅಥವಾ ಟ್ರ್ಯಾಕಿಂಗ್ SDK ಗಳಿಲ್ಲ."
+      },
+      {
+        "h": "ಖರೀದಿಗಳು",
+        "p": "Elements ಅನ್ನು 3 ದಿನಗಳ ಪೂರ್ಣ ಪ್ರವೇಶದೊಂದಿಗೆ ಉಚಿತವಾಗಿ ಡೌನ್‌ಲೋಡ್ ಮಾಡಬಹುದು. ಅದರ ನಂತರ, ಒಂದೇ ಐಚ್ಛಿಕ ಒಂದು-ಬಾರಿಯ ಖರೀದಿ ಸಂಪೂರ್ಣ ಆ್ಯಪ್ ಅನ್ನು ಶಾಶ್ವತವಾಗಿ ಅನ್‌ಲಾಕ್ ಮಾಡುತ್ತದೆ — ಯಾವುದೇ ಚಂದಾದಾರಿಕೆ ಇಲ್ಲ, ಮತ್ತು ಯಾವುದೂ ಸ್ವಯಂ-ನವೀಕರಿಸುವುದಿಲ್ಲ ಅಥವಾ ಸ್ವಯಂ-ಶುಲ್ಕ ವಿಧಿಸುವುದಿಲ್ಲ. App Store (iOS) ಅಥವಾ Google Play (Android) ಖರೀದಿಯನ್ನು ನಿರ್ವಹಿಸುತ್ತದೆ; Elements ಎಂದಿಗೂ ನಿಮ್ಮ ಹೆಸರು, ಪಾವತಿ ಕಾರ್ಡ್, ಅಥವಾ ಬಿಲ್ಲಿಂಗ್ ವಿವರಗಳನ್ನು ನೋಡುವುದಿಲ್ಲ."
+      },
+      {
+        "h": "ನೆಟ್‌ವರ್ಕ್ ಬಳಕೆ",
+        "p": "Elements ನಿಮ್ಮ ಡೇಟಾವನ್ನು ಯಾವುದೇ ಸರ್ವರ್‌ಗೆ ಕಳುಹಿಸದೆ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ — ಅದಕ್ಕೆ ಯಾವುದೇ ಸರ್ವರ್‌ಗಳಿಲ್ಲ. ಸಂಪೂರ್ಣ ಆವರ್ತಕ ಕೋಷ್ಟಕ ಆ್ಯಪ್‌ನ ಒಳಗೆಯೇ ಬರುತ್ತದೆ, ಮತ್ತು ಸಾಮಾನ್ಯ ಬಳಕೆ ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿಯೇ ಉಳಿಯುತ್ತದೆ."
+      },
+      {
+        "h": "ಸಾಧನದಲ್ಲಿನ ವೈಶಿಷ್ಟ್ಯಗಳು",
+        "p": "ಧ್ವನಿಯ ಮೂಲಕ ಧಾತುಗಳ ಹೆಸರುಗಳು ನಿಮ್ಮ ಸಾಧನದ ಅಂತರ್ನಿರ್ಮಿತ ಪಠ್ಯ-ಧ್ವನಿ ಪರಿವರ್ತನೆಯನ್ನು ಬಳಸುತ್ತವೆ (ಆಡಿಯೋ ಔಟ್‌ಪುಟ್ ಮಾತ್ರ — ಯಾವುದೇ ಮೈಕ್ರೋಫೋನ್ ಇಲ್ಲ, ಏನನ್ನೂ ರೆಕಾರ್ಡ್ ಮಾಡುವುದಿಲ್ಲ). ಐಚ್ಛಿಕ ವಿವರಣೆಗಾರ, ಲಭ್ಯವಿದ್ದಾಗ, Apple ನ ಸಾಧನದಲ್ಲಿನ ಮಾದರಿಯನ್ನು ಬಳಸಿ ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿಯೇ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ ಮತ್ತು ಏನನ್ನೂ ಅಪ್‌ಲೋಡ್ ಮಾಡುವುದಿಲ್ಲ. Apple Watch ಸಿಂಕ್ ನಿಮ್ಮ ಪ್ರಗತಿಯನ್ನು ನಿಮ್ಮ iPhone ಮತ್ತು Watch ನಡುವೆ ನೇರವಾಗಿ ವಿನಿಮಯ ಮಾಡುತ್ತದೆ, ಎಂದಿಗೂ ಸರ್ವರ್‌ನ ಮೂಲಕ ಅಲ್ಲ."
+      },
+      {
+        "h": "ಅನುಮತಿಗಳು",
+        "p": "ಯಾವುದೇ ಅನುಮತಿಯನ್ನು ನೀವು ಆಯ್ಕೆ ಮಾಡುವ ವೈಶಿಷ್ಟ್ಯಕ್ಕಾಗಿ ಮಾತ್ರ ಬಳಸಲಾಗುತ್ತದೆ, ಉದಾಹರಣೆಗೆ ಐಚ್ಛಿಕ ಅಧ್ಯಯನ ಜ್ಞಾಪನೆ ಅಥವಾ ಹೋಮ್-ಸ್ಕ್ರೀನ್ ವಿಜೆಟ್. ನಿಮ್ಮ ಸಾಧನದ ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ನೀವು ಇವುಗಳನ್ನು ಬದಲಾಯಿಸಬಹುದು."
+      },
+      {
+        "h": "ಮಕ್ಕಳು",
+        "p": "Elements ಎಲ್ಲರಿಗೂ ರೇಟ್ ಮಾಡಲಾಗಿದೆ, ಯಾವುದೇ ಆಕ್ಷೇಪಾರ್ಹ ವಿಷಯವನ್ನು ಒಳಗೊಂಡಿಲ್ಲ, ಮತ್ತು ಮಕ್ಕಳು ಸೇರಿದಂತೆ ಯಾರಿಂದಲೂ ಯಾವುದೇ ವೈಯಕ್ತಿಕ ಮಾಹಿತಿಯನ್ನು ಸಂಗ್ರಹಿಸುವುದಿಲ್ಲ."
+      },
+      {
+        "h": "ಬದಲಾವಣೆಗಳು",
+        "p": "ಈ ನೀತಿ ಬದಲಾದರೆ, ನವೀಕರಿಸಿದ ಆವೃತ್ತಿಯನ್ನು ನಾವು ಇಲ್ಲಿ ಪ್ರಕಟಿಸುತ್ತೇವೆ ಮತ್ತು ಮೇಲಿನ ದಿನಾಂಕವನ್ನು ಪರಿಷ್ಕರಿಸುತ್ತೇವೆ."
+      },
+      {
+        "h": "ಟ್ರೇಡ್‌ಮಾರ್ಕ್‌ಗಳು",
+        "p": "Elements ಎಂಬುದು Rizk Corsight, LLC ನ ಟ್ರೇಡ್‌ಮಾರ್ಕ್™ ಆಗಿದೆ. Apple ಮತ್ತು App Store ಗಳು Apple Inc. ನ ಟ್ರೇಡ್‌ಮಾರ್ಕ್‌ಗಳಾಗಿವೆ; Google Play ಮತ್ತು Android ಗಳು Google LLC ನ ಟ್ರೇಡ್‌ಮಾರ್ಕ್‌ಗಳಾಗಿವೆ. ಇತರ ಎಲ್ಲಾ ಉತ್ಪನ್ನ ಮತ್ತು ಕಂಪನಿ ಹೆಸರುಗಳನ್ನು ಗುರುತಿಸುವಿಕೆಗಾಗಿ ಮಾತ್ರ ಬಳಸಲಾಗಿದೆ ಮತ್ತು ಅವು ತಮ್ಮ ಆಯಾ ಮಾಲೀಕರ ಆಸ್ತಿಯಾಗಿ ಉಳಿಯುತ್ತವೆ."
+      }
+    ]
+  },
+  "ko": {
+    "eyebrow": "개인정보 보호",
+    "title": "Elements — 개인정보 처리방침",
+    "updated_label": "최종 업데이트",
+    "note": "이 번역은 편의를 위해 제공됩니다. 내용에 차이가 있는 경우 영어 버전이 우선합니다.",
+    "contact_h": "문의",
+    "sections": [
+      {
+        "h": "개인정보 처리방침",
+        "p": "Elements는 기기에서만 작동하는 주기율표 학습 앱입니다. 계정이 필요 없고, 개인 데이터를 판매하지 않으며, 광고를 표시하지 않고, 분석이나 추적을 사용하지 않습니다. 사용자가 만든 데이터는 기기 내 앱의 비공개 저장 공간에 그대로 보관됩니다. 학습 덱과 플래시카드, 복습 기록과 간격 반복 일정, 즐겨찾기한 원소, 그리고 설정이 여기에 포함됩니다."
+      },
+      {
+        "h": "수집하지 않는 정보",
+        "p": "당사는 사용자의 이름, 이메일, 전화번호, 위치, 광고 식별자, 연락처, 마이크, 사용 데이터를 수집하지 않습니다. 광고, 분석, 어트리뷰션, 추적용 SDK가 일절 없습니다."
+      },
+      {
+        "h": "구매",
+        "p": "Elements는 무료로 다운로드할 수 있으며 3일간 모든 기능을 전체 이용할 수 있습니다. 그 이후에는 선택 사항인 일회성 구매 한 번으로 앱 전체를 영구적으로 잠금 해제합니다. 구독이 없으며, 자동 갱신이나 자동 청구도 발생하지 않습니다. 구매는 App Store(iOS) 또는 Google Play(Android)에서 처리하며, Elements는 사용자의 이름, 결제 카드, 청구 정보를 전혀 확인하지 않습니다."
+      },
+      {
+        "h": "네트워크 사용",
+        "p": "Elements는 사용자의 데이터를 어떤 서버로도 전송하지 않고 작동합니다. 서버 자체가 없습니다. 주기율표 전체가 앱 안에 포함되어 제공되며, 일반적인 사용은 모두 기기 내에서 이루어집니다."
+      },
+      {
+        "h": "기기 내 기능",
+        "p": "원소 이름 음성 읽기는 기기에 내장된 텍스트 음성 변환 기능을 사용합니다(오디오 출력만 사용하며, 마이크를 쓰지 않고 아무것도 녹음하지 않습니다). 선택 사항인 설명 기능은 제공되는 경우 Apple의 기기 내 모델을 사용해 기기에서 실행되며 아무것도 업로드하지 않습니다. Apple Watch 동기화는 사용자의 진행 상황을 iPhone과 Watch 사이에서 직접 주고받으며, 서버를 거치지 않습니다."
+      },
+      {
+        "h": "권한",
+        "p": "모든 권한은 사용자가 선택한 기능에만 사용됩니다. 예를 들어 선택 사항인 학습 알림이나 홈 화면 위젯이 이에 해당합니다. 이러한 권한은 기기 설정에서 변경할 수 있습니다."
+      },
+      {
+        "h": "아동",
+        "p": "Elements는 모든 연령에 적합한 등급을 받았으며, 부적절한 콘텐츠를 포함하지 않고, 아동을 포함한 그 누구로부터도 개인정보를 수집하지 않습니다."
+      },
+      {
+        "h": "변경 사항",
+        "p": "본 방침이 변경되면 업데이트된 버전을 이곳에 게시하고 위의 날짜를 수정합니다."
+      },
+      {
+        "h": "상표",
+        "p": "Elements는 Rizk Corsight, LLC의 상표(™)입니다. Apple과 App Store는 Apple Inc.의 상표이며, Google Play와 Android는 Google LLC의 상표입니다. 그 밖의 모든 제품명과 회사명은 식별 목적으로만 사용되며 각 소유자의 자산으로 남아 있습니다."
+      }
+    ]
+  },
+  "lt": {
+    "eyebrow": "Privatumas",
+    "title": "Elements — privatumo politika",
+    "updated_label": "Paskutinį kartą atnaujinta",
+    "note": "Šis vertimas pateikiamas patogumo sumetimais. Esant bet kokiems neatitikimams, galioja versija anglų kalba.",
+    "contact_h": "Kontaktai",
+    "sections": [
+      {
+        "h": "Privatumo politika",
+        "p": "Elements yra tik įrenginyje veikianti periodinės elementų lentelės mokymosi programa. Jai nereikia paskyros, ji neparduoda jokių asmens duomenų, nerodo reklamos ir nenaudoja jokios analitikos ar sekimo. Jūsų sukurti duomenys lieka jūsų įrenginyje, privačioje programos saugykloje: jūsų mokymosi rinkiniai ir kortelės, jūsų peržiūrų istorija ir kartojimo su intervalais tvarkaraštis, jūsų pažymėti elementai bei jūsų nustatymai."
+      },
+      {
+        "h": "Ko nerenkame",
+        "p": "Nerenkame jūsų vardo, el. pašto, telefono numerio, vietos, reklamos identifikatorių, kontaktų, mikrofono ar naudojimo duomenų. Nėra jokių reklamos, analitikos, priskyrimo ar sekimo SDK."
+      },
+      {
+        "h": "Pirkiniai",
+        "p": "Elements galima atsisiųsti nemokamai su 3 dienų visiška prieiga. Po to vienas pasirenkamas vienkartinis pirkinys visam laikui atrakina visą programą — nėra jokios prenumeratos, niekas automatiškai neatsinaujina ir automatiškai nenuskaito mokesčių. Pirkinį tvarko App Store (iOS) arba Google Play (Android); Elements niekada nemato jūsų vardo, mokėjimo kortelės ar atsiskaitymo duomenų."
+      },
+      {
+        "h": "Tinklo naudojimas",
+        "p": "Elements veikia nesiųsdama jūsų duomenų į jokį serverį — jo ji neturi. Visa periodinė elementų lentelė pateikiama programos viduje, o įprastas naudojimas lieka jūsų įrenginyje."
+      },
+      {
+        "h": "Funkcijos įrenginyje",
+        "p": "Elementų pavadinimai garsiai ištariami naudojant jūsų įrenginyje integruotą teksto skaitymo funkciją (tik garso išvestis — jokio mikrofono, niekas neįrašoma). Pasirenkamas paaiškinimas, kai jis prieinamas, veikia jūsų įrenginyje naudojant Apple modelį įrenginyje ir nieko neįkelia. Apple Watch sinchronizavimas keičiasi jūsų pažanga tiesiogiai tarp jūsų iPhone ir laikrodžio, niekada per serverį."
+      },
+      {
+        "h": "Leidimai",
+        "p": "Bet koks leidimas naudojamas tik jūsų pasirinktai funkcijai, pavyzdžiui, pasirenkamam mokymosi priminimui ar pradžios ekrano valdikliui. Šiuos leidimus galite pakeisti savo įrenginio nustatymuose."
+      },
+      {
+        "h": "Vaikai",
+        "p": "Elements skirta visiems, joje nėra netinkamo turinio ir ji nerenka jokios asmeninės informacijos iš nieko — įskaitant vaikus."
+      },
+      {
+        "h": "Pakeitimai",
+        "p": "Jei ši politika pasikeis, paskelbsime atnaujintą versiją čia ir pakeisime aukščiau nurodytą datą."
+      },
+      {
+        "h": "Prekių ženklai",
+        "p": "Elements yra Rizk Corsight, LLC prekių ženklas™. Apple ir App Store yra Apple Inc. prekių ženklai; Google Play ir Android yra Google LLC prekių ženklai. Visi kiti produktų ir įmonių pavadinimai naudojami tik identifikavimo tikslais ir lieka atitinkamų jų savininkų nuosavybe."
+      }
+    ]
+  },
+  "lv": {
+    "eyebrow": "Konfidencialitāte",
+    "title": "Elements — konfidencialitātes politika",
+    "updated_label": "Pēdējoreiz atjaunināts",
+    "note": "Šis tulkojums ir sniegts ērtības labad. Ja pastāv kādas atšķirības, noteicošā ir versija angļu valodā.",
+    "contact_h": "Kontaktinformācija",
+    "sections": [
+      {
+        "h": "Konfidencialitātes politika",
+        "p": "Elements ir tikai ierīcē darbojoša periodiskās tabulas mācību lietotne. Tai nav nepieciešams konts, tā nepārdod personas datus, nerāda reklāmas un neizmanto analītiku vai izsekošanu. Dati, ko izveidojat, paliek jūsu ierīcē, lietotnes privātajā krātuvē: jūsu mācību kopas un atgādnes, jūsu atkārtošanas vēsture un intervālatkārtošanas grafiks, jūsu atzīmētie elementi un jūsu iestatījumi."
+      },
+      {
+        "h": "Ko mēs nevācam",
+        "p": "Mēs nevācam jūsu vārdu, e-pasta adresi, tālruņa numuru, atrašanās vietu, reklāmas identifikatorus, kontaktpersonas, mikrofonu vai lietošanas datus. Nav nekādu reklāmas, analītikas, attiecinājuma vai izsekošanas SDK."
+      },
+      {
+        "h": "Pirkumi",
+        "p": "Elements ir bez maksas lejupielādējama ar 3 dienu pilnu piekļuvi. Pēc tam viens neobligāts vienreizējs pirkums pastāvīgi atbloķē visu lietotni — nav nekādas abonēšanas, un nekas netiek automātiski atjaunots vai automātiski iekasēts. Pirkumu apstrādā App Store (iOS) vai Google Play (Android); Elements nekad neredz jūsu vārdu, maksājumu karti vai norēķinu informāciju."
+      },
+      {
+        "h": "Tīkla izmantošana",
+        "p": "Elements darbojas, nenosūtot jūsu datus nevienam serverim — tai tāda nav. Visa periodiskā tabula ir iekļauta lietotnē, un parastā lietošana paliek jūsu ierīcē."
+      },
+      {
+        "h": "Funkcijas ierīcē",
+        "p": "Izrunātie elementu nosaukumi izmanto jūsu ierīcē iebūvēto teksta-runas funkciju (tikai audio izvade — nekāda mikrofona, nekas netiek ierakstīts). Neobligātais skaidrotājs, ja pieejams, darbojas jūsu ierīcē, izmantojot Apple ierīcē balstīto modeli, un neko neaugšupielādē. Apple Watch sinhronizācija apmainās ar jūsu progresu tieši starp jūsu iPhone un Watch, nekad caur serveri."
+      },
+      {
+        "h": "Atļaujas",
+        "p": "Jebkura atļauja tiek izmantota tikai jūsu izvēlētajai funkcijai, piemēram, neobligātajam mācību atgādinājumam vai sākuma ekrāna logrīkam. Tās varat mainīt savas ierīces iestatījumos."
+      },
+      {
+        "h": "Bērni",
+        "p": "Elements ir novērtēta kā piemērota ikvienam, nesatur nekādu nevēlamu saturu un nevāc personas informāciju ne no viena — tostarp no bērniem."
+      },
+      {
+        "h": "Izmaiņas",
+        "p": "Ja šī politika mainīsies, mēs šeit publicēsim atjaunināto versiju un labosim iepriekš norādīto datumu."
+      },
+      {
+        "h": "Preču zīmes",
+        "p": "Elements ir Rizk Corsight, LLC preču zīme™. Apple un App Store ir Apple Inc. preču zīmes; Google Play un Android ir Google LLC preču zīmes. Visi pārējie produktu un uzņēmumu nosaukumi tiek izmantoti tikai identificēšanai un paliek attiecīgo īpašnieku īpašums."
+      }
+    ]
+  },
+  "ml": {
+    "eyebrow": "സ്വകാര്യത",
+    "title": "Elements — സ്വകാര്യതാ നയം",
+    "updated_label": "അവസാനം പുതുക്കിയത്",
+    "note": "ഈ വിവർത്തനം സൗകര്യത്തിനായി നൽകിയിരിക്കുന്നു. എന്തെങ്കിലും വ്യത്യാസമുണ്ടെങ്കിൽ, ഇംഗ്ലീഷ് പതിപ്പിന് മുൻഗണനയുണ്ടായിരിക്കും.",
+    "contact_h": "ബന്ധപ്പെടുക",
+    "sections": [
+      {
+        "h": "സ്വകാര്യതാ നയം",
+        "p": "Elements എന്നത് ഉപകരണത്തിൽ മാത്രം പ്രവർത്തിക്കുന്ന ഒരു ആവർത്തനപ്പട്ടിക പഠന ആപ്പാണ്. ഇതിന് അക്കൗണ്ട് ആവശ്യമില്ല, വ്യക്തിഗത വിവരങ്ങൾ വിൽക്കുന്നില്ല, പരസ്യങ്ങൾ കാണിക്കുന്നില്ല, അനലിറ്റിക്സോ ട്രാക്കിംഗോ ഉപയോഗിക്കുന്നില്ല. നിങ്ങൾ സൃഷ്ടിക്കുന്ന ഡാറ്റ നിങ്ങളുടെ ഉപകരണത്തിൽ, ആപ്പിന്റെ സ്വകാര്യ സംഭരണത്തിൽ തന്നെ നിലനിൽക്കുന്നു: നിങ്ങളുടെ പഠന ഡെക്കുകളും ഫ്ലാഷ് കാർഡുകളും, നിങ്ങളുടെ അവലോകന ചരിത്രവും ഇടവിട്ടുള്ള ആവർത്തന ഷെഡ്യൂളും, നിങ്ങൾ നക്ഷത്രമിട്ട മൂലകങ്ങളും, നിങ്ങളുടെ ക്രമീകരണങ്ങളും."
+      },
+      {
+        "h": "ഞങ്ങൾ ശേഖരിക്കാത്തവ",
+        "p": "നിങ്ങളുടെ പേര്, ഇമെയിൽ, ഫോൺ നമ്പർ, സ്ഥാനം, പരസ്യ ഐഡന്റിഫയറുകൾ, കോൺടാക്റ്റുകൾ, മൈക്രോഫോൺ, അല്ലെങ്കിൽ ഉപയോഗ ഡാറ്റ എന്നിവ ഞങ്ങൾ ശേഖരിക്കുന്നില്ല. പരസ്യം, അനലിറ്റിക്സ്, ആട്രിബ്യൂഷൻ, അല്ലെങ്കിൽ ട്രാക്കിംഗ് SDK-കൾ ഇല്ല."
+      },
+      {
+        "h": "വാങ്ങലുകൾ",
+        "p": "Elements 3 ദിവസത്തെ പൂർണ്ണ ആക്സസോടെ സൗജന്യമായി ഡൗൺലോഡ് ചെയ്യാം. അതിനുശേഷം, ഓപ്ഷണലായ ഒറ്റത്തവണ വാങ്ങൽ വഴി മുഴുവൻ ആപ്പും ശാശ്വതമായി അൺലോക്ക് ചെയ്യപ്പെടുന്നു — സബ്സ്ക്രിപ്ഷൻ ഇല്ല, ഒന്നും യാന്ത്രികമായി പുതുക്കുകയോ യാന്ത്രികമായി ഈടാക്കുകയോ ചെയ്യുന്നില്ല. വാങ്ങൽ App Store (iOS) അല്ലെങ്കിൽ Google Play (Android) കൈകാര്യം ചെയ്യുന്നു; Elements നിങ്ങളുടെ പേരോ, പേയ്മെന്റ് കാർഡോ, ബില്ലിംഗ് വിശദാംശങ്ങളോ ഒരിക്കലും കാണുന്നില്ല."
+      },
+      {
+        "h": "നെറ്റ്‌വർക്ക് ഉപയോഗം",
+        "p": "Elements നിങ്ങളുടെ ഡാറ്റ ഏതെങ്കിലും സെർവറിലേക്ക് അയയ്ക്കാതെ പ്രവർത്തിക്കുന്നു — അതിന് സെർവർ ഇല്ല. മുഴുവൻ ആവർത്തനപ്പട്ടികയും ആപ്പിനുള്ളിൽ തന്നെ വരുന്നു, സാധാരണ ഉപയോഗം നിങ്ങളുടെ ഉപകരണത്തിൽ തന്നെ നിലനിൽക്കുന്നു."
+      },
+      {
+        "h": "ഉപകരണത്തിലെ സവിശേഷതകൾ",
+        "p": "സംസാരിക്കുന്ന മൂലകങ്ങളുടെ പേരുകൾ നിങ്ങളുടെ ഉപകരണത്തിൽ ഉൾപ്പെടുത്തിയിട്ടുള്ള ടെക്സ്റ്റ്-ടു-സ്പീച്ച് ഉപയോഗിക്കുന്നു (ഓഡിയോ ഔട്ട്പുട്ട് മാത്രം — മൈക്രോഫോൺ ഇല്ല, ഒന്നും റെക്കോർഡ് ചെയ്യുന്നില്ല). ഓപ്ഷണലായ വിശദീകരണം, ലഭ്യമാകുമ്പോൾ, Apple-ന്റെ ഉപകരണത്തിലെ മോഡൽ ഉപയോഗിച്ച് നിങ്ങളുടെ ഉപകരണത്തിൽ പ്രവർത്തിക്കുന്നു, ഒന്നും അപ്‌ലോഡ് ചെയ്യുന്നില്ല. Apple Watch സമന്വയം നിങ്ങളുടെ പുരോഗതി നിങ്ങളുടെ iPhone-നും Watch-നും ഇടയിൽ നേരിട്ട് കൈമാറുന്നു, ഒരിക്കലും ഒരു സെർവർ വഴിയല്ല."
+      },
+      {
+        "h": "അനുമതികൾ",
+        "p": "ഓപ്ഷണലായ പഠന ഓർമ്മപ്പെടുത്തൽ അല്ലെങ്കിൽ ഹോം-സ്ക്രീൻ വിജറ്റ് പോലെ, നിങ്ങൾ തിരഞ്ഞെടുക്കുന്ന സവിശേഷതയ്ക്ക് മാത്രമേ ഏതെങ്കിലും അനുമതി ഉപയോഗിക്കുന്നുള്ളൂ. നിങ്ങളുടെ ഉപകരണ ക്രമീകരണങ്ങളിൽ ഇവ മാറ്റാം."
+      },
+      {
+        "h": "കുട്ടികൾ",
+        "p": "Elements എല്ലാവർക്കുമായി റേറ്റ് ചെയ്തിരിക്കുന്നു, അനുചിതമായ ഉള്ളടക്കമൊന്നും അടങ്ങിയിട്ടില്ല, കൂടാതെ ആരിൽ നിന്നും — കുട്ടികളിൽ നിന്നുൾപ്പെടെ — വ്യക്തിഗത വിവരങ്ങളൊന്നും ശേഖരിക്കുന്നില്ല."
+      },
+      {
+        "h": "മാറ്റങ്ങൾ",
+        "p": "ഈ നയം മാറുകയാണെങ്കിൽ, പുതുക്കിയ പതിപ്പ് ഞങ്ങൾ ഇവിടെ പോസ്റ്റ് ചെയ്യുകയും മുകളിലെ തീയതി പുതുക്കുകയും ചെയ്യും."
+      },
+      {
+        "h": "വ്യാപാരമുദ്രകൾ",
+        "p": "Elements എന്നത് Rizk Corsight, LLC-ന്റെ ഒരു വ്യാപാരമുദ്ര™ ആണ്. Apple, App Store എന്നിവ Apple Inc.-ന്റെ വ്യാപാരമുദ്രകളാണ്; Google Play, Android എന്നിവ Google LLC-ന്റെ വ്യാപാരമുദ്രകളാണ്. മറ്റെല്ലാ ഉൽപ്പന്ന, കമ്പനി പേരുകളും തിരിച്ചറിയലിനായി മാത്രമാണ് ഉപയോഗിക്കുന്നത്, അവ അതത് ഉടമകളുടെ സ്വത്തായി തുടരുന്നു."
+      }
+    ]
+  },
+  "mr": {
+    "eyebrow": "गोपनीयता",
+    "title": "Elements — गोपनीयता धोरण",
+    "updated_label": "शेवटचे अद्यतन",
+    "note": "हे भाषांतर सोयीसाठी पुरवले आहे. कोणताही फरक असल्यास, इंग्रजी आवृत्ती ग्राह्य धरली जाईल.",
+    "contact_h": "संपर्क",
+    "sections": [
+      {
+        "h": "गोपनीयता धोरण",
+        "p": "Elements हे केवळ-स्थानिक आवर्तसारणी अभ्यास अॅप आहे. याला कोणतेही खाते लागत नाही, कोणताही वैयक्तिक डेटा विकत नाही, कोणत्याही जाहिराती दाखवत नाही, आणि कोणतेही विश्लेषण किंवा मागोवा वापरत नाही. तुम्ही तयार केलेला डेटा तुमच्या डिव्हाइसवर, अॅपच्या खाजगी संचयनात राहतो: तुमचे अभ्यास डेक आणि फ्लॅशकार्ड्स, तुमचा पुनरावलोकन इतिहास आणि अंतराळित-पुनरावृत्ती वेळापत्रक, तुमची तारांकित मूलद्रव्ये, आणि तुमची सेटिंग्ज."
+      },
+      {
+        "h": "आम्ही काय गोळा करत नाही",
+        "p": "आम्ही तुमचे नाव, ईमेल, फोन नंबर, स्थान, जाहिरात ओळखकर्ते, संपर्क, मायक्रोफोन किंवा वापर डेटा गोळा करत नाही. कोणतेही जाहिरात, विश्लेषण, श्रेय किंवा मागोवा घेणारे SDK नाहीत."
+      },
+      {
+        "h": "खरेदी",
+        "p": "Elements 3 दिवसांच्या पूर्ण प्रवेशासह विनामूल्य डाउनलोड करता येते. त्यानंतर, एक एकल ऐच्छिक एकवेळ खरेदी संपूर्ण अॅप कायमस्वरूपी अनलॉक करते — कोणतीही वर्गणी नाही, आणि काहीही आपोआप नूतनीकरण किंवा आपोआप शुल्क आकारत नाही. खरेदी App Store (iOS) किंवा Google Play (Android) हाताळते; Elements तुमचे नाव, पेमेंट कार्ड किंवा बिलिंग तपशील कधीही पाहत नाही."
+      },
+      {
+        "h": "नेटवर्क वापर",
+        "p": "Elements तुमचा डेटा कोणत्याही सर्व्हरवर न पाठवता कार्य करते — त्याला कोणताही सर्व्हर नाही. संपूर्ण आवर्तसारणी अॅपच्या आत येते, आणि सामान्य वापर तुमच्या डिव्हाइसवरच राहतो."
+      },
+      {
+        "h": "डिव्हाइसवरील वैशिष्ट्ये",
+        "p": "उच्चारलेली मूलद्रव्यांची नावे तुमच्या डिव्हाइसच्या अंगभूत मजकूर-ते-वाणी (केवळ ऑडिओ आउटपुट — कोणताही मायक्रोफोन नाही, काहीही रेकॉर्ड केले जात नाही) वापरतात. ऐच्छिक स्पष्टीकरणकर्ता, उपलब्ध असल्यास, Apple च्या डिव्हाइसवरील मॉडेलचा वापर करून तुमच्या डिव्हाइसवर चालतो आणि काहीही अपलोड करत नाही. Apple Watch सिंक तुमची प्रगती तुमच्या iPhone आणि Watch दरम्यान थेट देवाणघेवाण करते, कधीही सर्व्हरमार्फत नाही."
+      },
+      {
+        "h": "परवानग्या",
+        "p": "कोणतीही परवानगी फक्त तुम्ही निवडलेल्या वैशिष्ट्यासाठी वापरली जाते, जसे की ऐच्छिक अभ्यास स्मरणपत्र किंवा होम-स्क्रीन विजेट. तुम्ही या तुमच्या डिव्हाइस सेटिंग्जमध्ये बदलू शकता."
+      },
+      {
+        "h": "मुले",
+        "p": "Elements प्रत्येकासाठी मानांकित आहे, यात कोणताही आक्षेपार्ह मजकूर नाही, आणि मुलांसह कोणाकडूनही कोणतीही वैयक्तिक माहिती गोळा करत नाही."
+      },
+      {
+        "h": "बदल",
+        "p": "हे धोरण बदलल्यास, आम्ही अद्यतनित आवृत्ती येथे प्रकाशित करू आणि वरील तारीख सुधारित करू."
+      },
+      {
+        "h": "व्यापारचिन्हे",
+        "p": "Elements हे Rizk Corsight, LLC चे व्यापारचिन्ह (™) आहे. Apple आणि App Store ही Apple Inc. ची व्यापारचिन्हे आहेत; Google Play आणि Android ही Google LLC ची व्यापारचिन्हे आहेत. इतर सर्व उत्पादन आणि कंपनी नावे केवळ ओळखीसाठी वापरली जातात आणि त्यांच्या संबंधित मालकांची मालमत्ता राहतात."
+      }
+    ]
+  },
+  "ms": {
+    "eyebrow": "Privasi",
+    "title": "Elements — Dasar Privasi",
+    "updated_label": "Kemas kini terakhir",
+    "note": "Terjemahan ini disediakan untuk kemudahan. Jika terdapat sebarang perbezaan, versi bahasa Inggeris yang akan dipakai.",
+    "contact_h": "Hubungi",
+    "sections": [
+      {
+        "h": "Dasar privasi",
+        "p": "Elements ialah aplikasi pembelajaran jadual berkala yang beroperasi setempat sahaja. Ia tidak memerlukan akaun, tidak menjual data peribadi, tidak memaparkan iklan, dan tidak menggunakan sebarang analitik atau penjejakan. Data yang anda cipta kekal pada peranti anda, dalam storan peribadi aplikasi: dek pembelajaran dan kad imbas anda, sejarah ulang kaji dan jadual ulangan berkala anda, unsur yang anda tandakan bintang, serta tetapan anda."
+      },
+      {
+        "h": "Apa yang kami tidak kumpulkan",
+        "p": "Kami tidak mengumpulkan nama, e-mel, nombor telefon, lokasi, pengecam pengiklanan, kenalan, mikrofon, atau data penggunaan anda. Tiada sebarang SDK pengiklanan, analitik, atribusi, atau penjejakan."
+      },
+      {
+        "h": "Pembelian",
+        "p": "Elements percuma untuk dimuat turun dengan 3 hari akses penuh. Selepas itu, satu pembelian sekali sahaja yang pilihan akan membuka kunci keseluruhan aplikasi secara kekal — tiada langganan, dan tiada apa-apa yang diperbaharui secara automatik atau dicaj secara automatik. App Store (iOS) atau Google Play (Android) yang mengendalikan pembelian; Elements tidak pernah melihat nama, kad pembayaran, atau butiran pengebilan anda."
+      },
+      {
+        "h": "Penggunaan rangkaian",
+        "p": "Elements berfungsi tanpa menghantar data anda ke mana-mana pelayan — ia tiada pelayan. Keseluruhan jadual berkala disertakan di dalam aplikasi, dan penggunaan biasa kekal pada peranti anda."
+      },
+      {
+        "h": "Ciri pada peranti",
+        "p": "Nama unsur yang dituturkan menggunakan teks-ke-pertuturan terbina dalam peranti anda (output audio sahaja — tiada mikrofon, tiada apa-apa yang dirakam). Penerang pilihan, apabila tersedia, berjalan pada peranti anda menggunakan model atas-peranti Apple dan tidak memuat naik apa-apa. Penyegerakan Apple Watch bertukar kemajuan anda secara terus antara iPhone dan Watch anda, tidak pernah melalui pelayan."
+      },
+      {
+        "h": "Kebenaran",
+        "p": "Sebarang kebenaran hanya digunakan untuk ciri yang anda pilih, seperti peringatan pembelajaran pilihan atau widget skrin utama. Anda boleh menukar perkara ini dalam tetapan peranti anda."
+      },
+      {
+        "h": "Kanak-kanak",
+        "p": "Elements dinilai untuk semua orang, tidak mengandungi kandungan yang tidak senonoh, dan tidak mengumpulkan sebarang maklumat peribadi daripada sesiapa pun — termasuk kanak-kanak."
+      },
+      {
+        "h": "Perubahan",
+        "p": "Jika dasar ini berubah, kami akan menyiarkan versi yang dikemas kini di sini dan menyemak semula tarikh di atas."
+      },
+      {
+        "h": "Tanda dagangan",
+        "p": "Elements ialah tanda dagangan™ Rizk Corsight, LLC. Apple dan App Store ialah tanda dagangan Apple Inc.; Google Play dan Android ialah tanda dagangan Google LLC. Semua nama produk dan syarikat lain digunakan untuk pengenalan sahaja dan kekal sebagai hak milik pemilik masing-masing."
+      }
+    ]
+  },
+  "nl": {
+    "eyebrow": "Privacy",
+    "title": "Elements — Privacybeleid",
+    "updated_label": "Laatst bijgewerkt",
+    "note": "Deze vertaling wordt ter informatie aangeboden. Bij verschillen is de Engelse versie doorslaggevend.",
+    "contact_h": "Contact",
+    "sections": [
+      {
+        "h": "Privacybeleid",
+        "p": "Elements is een studieapp voor het periodiek systeem die volledig lokaal werkt. De app heeft geen account nodig, verkoopt geen persoonsgegevens, toont geen advertenties en gebruikt geen analyse of tracking. De gegevens die je aanmaakt, blijven op je apparaat staan, in de privéopslag van de app: je studiedecks en flashcards, je herhalingsgeschiedenis en spaced-repetitionschema, je elementen met ster, en je instellingen."
+      },
+      {
+        "h": "Wat we niet verzamelen",
+        "p": "We verzamelen niet je naam, e-mailadres, telefoonnummer, locatie, advertentie-identificatoren, contacten, microfoon of gebruiksgegevens. Er zijn geen SDK's voor advertenties, analyse, attributie of tracking."
+      },
+      {
+        "h": "Aankopen",
+        "p": "Elements is gratis te downloaden met 3 dagen volledige toegang. Daarna ontgrendelt één optionele eenmalige aankoop de hele app permanent — er is geen abonnement en niets wordt automatisch verlengd of automatisch in rekening gebracht. De App Store (iOS) of Google Play (Android) verwerkt de aankoop; Elements ziet nooit je naam, betaalkaart of factuurgegevens."
+      },
+      {
+        "h": "Netwerkgebruik",
+        "p": "Elements werkt zonder je gegevens naar een server te sturen — er is er geen. Het volledige periodiek systeem zit in de app zelf, en bij normaal gebruik blijft alles op je apparaat."
+      },
+      {
+        "h": "Functies op het apparaat",
+        "p": "Uitgesproken elementnamen gebruiken de ingebouwde tekst-naar-spraak van je apparaat (alleen audio-uitvoer — geen microfoon, niets wordt opgenomen). De optionele uitleg, indien beschikbaar, draait op je apparaat met het apparaatgebonden model van Apple en uploadt niets. De synchronisatie met Apple Watch wisselt je voortgang rechtstreeks uit tussen je iPhone en Watch, nooit via een server."
+      },
+      {
+        "h": "Machtigingen",
+        "p": "Een machtiging wordt alleen gebruikt voor de functie die je kiest, zoals de optionele studieherinnering of de widget op het beginscherm. Je kunt deze wijzigen in de instellingen van je apparaat."
+      },
+      {
+        "h": "Kinderen",
+        "p": "Elements heeft een leeftijdsclassificatie voor iedereen, bevat geen aanstootgevende inhoud en verzamelt van niemand persoonlijke informatie — ook niet van kinderen."
+      },
+      {
+        "h": "Wijzigingen",
+        "p": "Als dit beleid verandert, plaatsen we de bijgewerkte versie hier en passen we de datum hierboven aan."
+      },
+      {
+        "h": "Handelsmerken",
+        "p": "Elements is een handelsmerk™ van Rizk Corsight, LLC. Apple en App Store zijn handelsmerken van Apple Inc.; Google Play en Android zijn handelsmerken van Google LLC. Alle andere product- en bedrijfsnamen worden uitsluitend ter identificatie gebruikt en blijven eigendom van hun respectieve eigenaren."
+      }
+    ]
+  },
+  "no": {
+    "eyebrow": "Personvern",
+    "title": "Elements — Personvernerklæring",
+    "updated_label": "Sist oppdatert",
+    "note": "Denne oversettelsen er kun ment som en hjelp. Ved eventuelle avvik er det den engelske versjonen som gjelder.",
+    "contact_h": "Kontakt",
+    "sections": [
+      {
+        "h": "Personvernerklæring",
+        "p": "Elements er en studieapp for det periodiske systemet som kun lagrer data lokalt. Den krever ingen konto, selger ingen personopplysninger, viser ingen annonser og bruker ingen analyse eller sporing. Dataene du oppretter, blir værende på enheten din, i appens private lagring: studiestablene og lærekortene dine, repetisjonshistorikken og den fordelte gjentakelsesplanen din, elementene du har stjernemerket, og innstillingene dine."
+      },
+      {
+        "h": "Hva vi ikke samler inn",
+        "p": "Vi samler ikke inn navnet ditt, e-postadressen din, telefonnummeret ditt, posisjonen din, annonseidentifikatorer, kontakter, mikrofon eller bruksdata. Det finnes ingen SDK-er for annonsering, analyse, attribusjon eller sporing."
+      },
+      {
+        "h": "Kjøp",
+        "p": "Elements er gratis å laste ned med 3 dagers full tilgang. Etter det låser et enkelt valgfritt engangskjøp opp hele appen permanent — det finnes ingen abonnement, og ingenting fornyes eller belastes automatisk. App Store (iOS) eller Google Play (Android) håndterer kjøpet; Elements ser aldri navnet ditt, betalingskortet ditt eller faktureringsopplysningene dine."
+      },
+      {
+        "h": "Nettverksbruk",
+        "p": "Elements fungerer uten å sende dataene dine til noen server — den har ingen. Hele det periodiske systemet følger med inni appen, og normal bruk forblir på enheten din."
+      },
+      {
+        "h": "Funksjoner på enheten",
+        "p": "Opplesing av elementnavn bruker enhetens innebygde tekst-til-tale (kun lydutgang — ingen mikrofon, ingenting blir tatt opp). Den valgfrie forklaringen kjører, når den er tilgjengelig, på enheten din ved hjelp av Apples modell på enheten og laster ikke opp noe. Apple Watch-synkronisering utveksler fremgangen din direkte mellom iPhone og Watch, aldri via en server."
+      },
+      {
+        "h": "Tillatelser",
+        "p": "Enhver tillatelse brukes kun til funksjonen du velger, som den valgfrie studiepåminnelsen eller modulen på startskjermen. Du kan endre disse i enhetsinnstillingene dine."
+      },
+      {
+        "h": "Barn",
+        "p": "Elements er aldersmerket for alle, inneholder ikke noe støtende innhold og samler ikke inn personopplysninger fra noen — heller ikke fra barn."
+      },
+      {
+        "h": "Endringer",
+        "p": "Hvis denne erklæringen endres, legger vi ut den oppdaterte versjonen her og reviderer datoen ovenfor."
+      },
+      {
+        "h": "Varemerker",
+        "p": "Elements er et varemerke™ tilhørende Rizk Corsight, LLC. Apple og App Store er varemerker tilhørende Apple Inc.; Google Play og Android er varemerker tilhørende Google LLC. Alle andre produkt- og firmanavn brukes kun til identifikasjon og forblir eiendommen til sine respektive eiere."
+      }
+    ]
+  },
+  "pl": {
+    "eyebrow": "Prywatność",
+    "title": "Elements — Polityka prywatności",
+    "updated_label": "Ostatnia aktualizacja",
+    "note": "To tłumaczenie ma charakter informacyjny. W razie jakichkolwiek rozbieżności wiążąca jest wersja angielska.",
+    "contact_h": "Kontakt",
+    "sections": [
+      {
+        "h": "Polityka prywatności",
+        "p": "Elements to aplikacja do nauki układu okresowego działająca wyłącznie lokalnie. Nie wymaga konta, nie sprzedaje danych osobowych, nie wyświetla reklam ani nie korzysta z analityki czy śledzenia. Tworzone przez Ciebie dane pozostają na Twoim urządzeniu, w prywatnej pamięci aplikacji: Twoje talie do nauki i fiszki, historia powtórek i harmonogram powtórek rozłożonych w czasie, oznaczone gwiazdką pierwiastki oraz Twoje ustawienia."
+      },
+      {
+        "h": "Czego nie zbieramy",
+        "p": "Nie zbieramy Twojego imienia i nazwiska, adresu e-mail, numeru telefonu, lokalizacji, identyfikatorów reklamowych, kontaktów, mikrofonu ani danych o użytkowaniu. Nie ma żadnych zestawów SDK reklamowych, analitycznych, atrybucyjnych ani śledzących."
+      },
+      {
+        "h": "Zakupy",
+        "p": "Aplikację Elements można pobrać bezpłatnie z 3 dniami pełnego dostępu. Po tym czasie pojedynczy opcjonalny, jednorazowy zakup odblokowuje całą aplikację na stałe — nie ma subskrypcji, nic nie odnawia się ani nie jest pobierane automatycznie. Zakupem zajmuje się App Store (iOS) lub Google Play (Android); Elements nigdy nie widzi Twojego imienia i nazwiska, karty płatniczej ani danych rozliczeniowych."
+      },
+      {
+        "h": "Korzystanie z sieci",
+        "p": "Elements działa bez wysyłania Twoich danych na jakikolwiek serwer — żadnego nie ma. Cały układ okresowy znajduje się w aplikacji, a zwykłe użytkowanie pozostaje na Twoim urządzeniu."
+      },
+      {
+        "h": "Funkcje działające na urządzeniu",
+        "p": "Wymawiane nazwy pierwiastków korzystają z wbudowanej w urządzenie syntezy mowy (tylko sygnał dźwiękowy — bez mikrofonu, nic nie jest nagrywane). Opcjonalne objaśnienie, gdy jest dostępne, działa na Twoim urządzeniu z wykorzystaniem modelu Apple działającego na urządzeniu i niczego nie przesyła. Synchronizacja z Apple Watch wymienia Twoje postępy bezpośrednio między Twoim iPhone a zegarkiem, nigdy za pośrednictwem serwera."
+      },
+      {
+        "h": "Uprawnienia",
+        "p": "Każde uprawnienie jest wykorzystywane wyłącznie do wybranej przez Ciebie funkcji, takiej jak opcjonalne przypomnienie o nauce czy widżet na ekranie głównym. Możesz je zmienić w ustawieniach swojego urządzenia."
+      },
+      {
+        "h": "Dzieci",
+        "p": "Elements ma kategorię wiekową dla wszystkich, nie zawiera treści budzących zastrzeżenia i nie zbiera żadnych danych osobowych od nikogo — w tym od dzieci."
+      },
+      {
+        "h": "Zmiany",
+        "p": "Jeśli niniejsza polityka ulegnie zmianie, opublikujemy tutaj zaktualizowaną wersję i poprawimy datę podaną powyżej."
+      },
+      {
+        "h": "Znaki towarowe",
+        "p": "Elements jest znakiem towarowym™ Rizk Corsight, LLC. Apple i App Store są znakami towarowymi Apple Inc.; Google Play i Android są znakami towarowymi Google LLC. Wszystkie pozostałe nazwy produktów i firm są używane wyłącznie w celach identyfikacyjnych i pozostają własnością ich odpowiednich właścicieli."
+      }
+    ]
+  },
+  "pt-BR": {
+    "eyebrow": "Privacidade",
+    "title": "Elements — Política de Privacidade",
+    "updated_label": "Última atualização",
+    "note": "Esta tradução é fornecida por conveniência. Em caso de qualquer divergência, prevalece a versão em inglês.",
+    "contact_h": "Contato",
+    "sections": [
+      {
+        "h": "Política de privacidade",
+        "p": "O Elements é um aplicativo de estudo da tabela periódica que funciona somente localmente. Não exige conta, não vende dados pessoais, não exibe anúncios e não usa análise nem rastreamento. Os dados que você cria permanecem no seu dispositivo, no armazenamento privado do aplicativo: seus baralhos de estudo e flashcards, seu histórico de revisão e seu cronograma de repetição espaçada, os elementos que você marcou com estrela e suas configurações."
+      },
+      {
+        "h": "O que não coletamos",
+        "p": "Não coletamos seu nome, e-mail, número de telefone, localização, identificadores de publicidade, contatos, microfone nem dados de uso. Não há SDKs de publicidade, análise, atribuição ou rastreamento."
+      },
+      {
+        "h": "Compras",
+        "p": "O Elements é gratuito para baixar, com 3 dias de acesso completo. Depois disso, uma única compra opcional, paga uma só vez, desbloqueia o aplicativo inteiro de forma permanente — não há assinatura e nada se renova nem é cobrado automaticamente. A App Store (iOS) ou o Google Play (Android) processa a compra; o Elements nunca tem acesso ao seu nome, cartão de pagamento ou dados de cobrança."
+      },
+      {
+        "h": "Uso de rede",
+        "p": "O Elements funciona sem enviar seus dados a nenhum servidor — ele não tem servidor algum. Toda a tabela periódica vem incluída no aplicativo, e o uso normal permanece no seu dispositivo."
+      },
+      {
+        "h": "Recursos no dispositivo",
+        "p": "Os nomes falados dos elementos usam a conversão de texto em fala integrada do seu dispositivo (apenas saída de áudio — sem microfone, sem nada gravado). O explicador opcional, quando disponível, é executado no seu dispositivo usando o modelo on-device da Apple e não envia nada. A sincronização com o Apple Watch troca seu progresso diretamente entre o seu iPhone e o Watch, nunca por meio de um servidor."
+      },
+      {
+        "h": "Permissões",
+        "p": "Qualquer permissão é usada apenas para o recurso que você escolher, como o lembrete de estudo opcional ou o widget na tela de início. Você pode alterar essas opções nas configurações do seu dispositivo."
+      },
+      {
+        "h": "Crianças",
+        "p": "O Elements é classificado como livre para todos, não contém conteúdo censurável e não coleta informações pessoais de ninguém — inclusive crianças."
+      },
+      {
+        "h": "Alterações",
+        "p": "Se esta política mudar, publicaremos a versão atualizada aqui e revisaremos a data acima."
+      },
+      {
+        "h": "Marcas comerciais",
+        "p": "Elements é uma marca comercial™ da Rizk Corsight, LLC. Apple e App Store são marcas comerciais da Apple Inc.; Google Play e Android são marcas comerciais da Google LLC. Todos os demais nomes de produtos e empresas são usados apenas para fins de identificação e permanecem propriedade de seus respectivos titulares."
+      }
+    ]
+  },
+  "pt-PT": {
+    "eyebrow": "Privacidade",
+    "title": "Elements — Política de Privacidade",
+    "updated_label": "Última atualização",
+    "note": "Esta tradução é fornecida por conveniência. Em caso de qualquer divergência, prevalece a versão em inglês.",
+    "contact_h": "Contacto",
+    "sections": [
+      {
+        "h": "Política de privacidade",
+        "p": "O Elements é uma aplicação de estudo da tabela periódica que funciona apenas localmente. Não necessita de conta, não vende dados pessoais, não mostra publicidade e não utiliza qualquer análise ou rastreamento. Os dados que cria permanecem no seu dispositivo, no armazenamento privado da aplicação: os seus baralhos de estudo e cartões, o seu histórico de revisões e o calendário de repetição espaçada, os elementos que marcou como favoritos e as suas definições."
+      },
+      {
+        "h": "O que não recolhemos",
+        "p": "Não recolhemos o seu nome, e-mail, número de telefone, localização, identificadores de publicidade, contactos, microfone nem dados de utilização. Não existem SDKs de publicidade, de análise, de atribuição nem de rastreamento."
+      },
+      {
+        "h": "Compras",
+        "p": "O Elements é gratuito para descarregar, com 3 dias de acesso total. Após esse período, uma única compra opcional, paga uma só vez, desbloqueia toda a aplicação de forma permanente — não há subscrição, e nada se renova nem é cobrado automaticamente. A App Store (iOS) ou o Google Play (Android) processa a compra; o Elements nunca tem acesso ao seu nome, cartão de pagamento ou dados de faturação."
+      },
+      {
+        "h": "Utilização da rede",
+        "p": "O Elements funciona sem enviar os seus dados para qualquer servidor — não tem nenhum. A tabela periódica completa está incluída na aplicação, e a utilização normal permanece no seu dispositivo."
+      },
+      {
+        "h": "Funcionalidades no dispositivo",
+        "p": "Os nomes dos elementos ditados em voz utilizam a síntese de voz incorporada do seu dispositivo (apenas saída de áudio — sem microfone, nada é gravado). A explicação opcional, quando disponível, é executada no seu dispositivo utilizando o modelo no dispositivo da Apple e não carrega nada. A sincronização com o Apple Watch troca o seu progresso diretamente entre o seu iPhone e o Watch, nunca através de um servidor."
+      },
+      {
+        "h": "Permissões",
+        "p": "Qualquer permissão é utilizada apenas para a funcionalidade que escolher, como o lembrete de estudo opcional ou o widget do ecrã principal. Pode alterá-las nas definições do seu dispositivo."
+      },
+      {
+        "h": "Crianças",
+        "p": "O Elements tem classificação para todos, não contém conteúdo censurável e não recolhe informações pessoais de ninguém — incluindo crianças."
+      },
+      {
+        "h": "Alterações",
+        "p": "Se esta política for alterada, publicaremos aqui a versão atualizada e reveremos a data indicada acima."
+      },
+      {
+        "h": "Marcas comerciais",
+        "p": "Elements é uma marca comercial da Rizk Corsight, LLC. Apple e App Store são marcas comerciais da Apple Inc.; Google Play e Android são marcas comerciais da Google LLC. Todos os outros nomes de produtos e empresas são utilizados apenas para fins de identificação e permanecem propriedade dos respetivos titulares."
+      }
+    ]
+  },
+  "ro": {
+    "eyebrow": "Confidențialitate",
+    "title": "Elements — Politica de confidențialitate",
+    "updated_label": "Ultima actualizare",
+    "note": "Această traducere este oferită pentru comoditate. În caz de diferențe, versiunea în limba engleză prevalează.",
+    "contact_h": "Contact",
+    "sections": [
+      {
+        "h": "Politica de confidențialitate",
+        "p": "Elements este o aplicație de studiu al tabelului periodic care funcționează exclusiv local. Nu necesită niciun cont, nu vinde date personale, nu afișează reclame și nu folosește analize sau urmărire. Datele pe care le creezi rămân pe dispozitivul tău, în spațiul de stocare privat al aplicației: pachetele tale de studiu și cardurile de memorie, istoricul recapitulărilor și programul de repetiție eșalonată, elementele tale marcate cu stea și setările tale."
+      },
+      {
+        "h": "Ce nu colectăm",
+        "p": "Nu colectăm numele, adresa de e-mail, numărul de telefon, locația, identificatorii publicitari, contactele, microfonul sau datele de utilizare. Nu există SDK-uri de publicitate, analiză, atribuire sau urmărire."
+      },
+      {
+        "h": "Achiziții",
+        "p": "Elements se descarcă gratuit, cu acces complet timp de 3 zile. Ulterior, o singură achiziție unică opțională deblochează permanent întreaga aplicație — nu există abonament și nimic nu se reînnoiește sau nu se taxează automat. App Store (iOS) sau Google Play (Android) gestionează achiziția; Elements nu vede niciodată numele tău, cardul de plată sau datele de facturare."
+      },
+      {
+        "h": "Utilizarea rețelei",
+        "p": "Elements funcționează fără a trimite datele tale către vreun server — nu are niciunul. Întregul tabel periodic este inclus în aplicație, iar utilizarea obișnuită rămâne pe dispozitivul tău."
+      },
+      {
+        "h": "Funcții pe dispozitiv",
+        "p": "Numele rostite ale elementelor folosesc funcția de sinteză vocală încorporată în dispozitivul tău (doar ieșire audio — fără microfon, nimic nu se înregistrează). Explicația opțională, atunci când este disponibilă, rulează pe dispozitivul tău folosind modelul de la Apple care funcționează pe dispozitiv și nu încarcă nimic. Sincronizarea cu Apple Watch face schimbul de progres direct între iPhone și Watch, niciodată printr-un server."
+      },
+      {
+        "h": "Permisiuni",
+        "p": "Orice permisiune este utilizată doar pentru funcția pe care o alegi, cum ar fi mementoul de studiu opțional sau widgetul de pe ecranul principal. Le poți modifica în setările dispozitivului tău."
+      },
+      {
+        "h": "Copii",
+        "p": "Elements este clasificată pentru toți utilizatorii, nu conține conținut inadecvat și nu colectează nicio informație personală de la nimeni — inclusiv de la copii."
+      },
+      {
+        "h": "Modificări",
+        "p": "Dacă această politică se modifică, vom publica aici versiunea actualizată și vom revizui data de mai sus."
+      },
+      {
+        "h": "Mărci comerciale",
+        "p": "Elements este o marcă comercială™ a Rizk Corsight, LLC. Apple și App Store sunt mărci comerciale ale Apple Inc.; Google Play și Android sunt mărci comerciale ale Google LLC. Toate celelalte nume de produse și companii sunt utilizate doar în scop de identificare și rămân proprietatea deținătorilor lor respectivi."
+      }
+    ]
+  },
+  "ru": {
+    "eyebrow": "Конфиденциальность",
+    "title": "Elements — Политика конфиденциальности",
+    "updated_label": "Последнее обновление",
+    "note": "Этот перевод предоставлен для удобства. При наличии расхождений приоритет имеет версия на английском языке.",
+    "contact_h": "Контакты",
+    "sections": [
+      {
+        "h": "Политика конфиденциальности",
+        "p": "Elements — это приложение для изучения периодической таблицы, работающее только на устройстве. Ему не нужна учётная запись, оно не продаёт персональные данные, не показывает рекламу и не использует аналитику или отслеживание. Данные, которые вы создаёте, остаются на вашем устройстве, в личном хранилище приложения: ваши учебные колоды и карточки, история повторений и расписание интервальных повторений, отмеченные звёздочкой элементы, а также ваши настройки."
+      },
+      {
+        "h": "Что мы не собираем",
+        "p": "Мы не собираем ваше имя, адрес электронной почты, номер телефона, местоположение, рекламные идентификаторы, контакты, данные микрофона или сведения об использовании. Здесь нет рекламных, аналитических, атрибуционных или отслеживающих SDK."
+      },
+      {
+        "h": "Покупки",
+        "p": "Elements можно скачать бесплатно с 3 днями полного доступа. После этого одна необязательная разовая покупка навсегда открывает всё приложение — нет никакой подписки, и ничего не продлевается и не списывается автоматически. Покупку обрабатывает App Store (iOS) или Google Play (Android); Elements никогда не видит ваше имя, платёжную карту или платёжные реквизиты."
+      },
+      {
+        "h": "Использование сети",
+        "p": "Elements работает, не отправляя ваши данные ни на какой сервер — у него их нет. Вся периодическая таблица поставляется внутри приложения, и при обычном использовании всё остаётся на вашем устройстве."
+      },
+      {
+        "h": "Функции на устройстве",
+        "p": "Озвучивание названий элементов использует встроенный в ваше устройство синтез речи (только аудиовывод — без микрофона, ничего не записывается). Необязательное пояснение, когда оно доступно, выполняется на вашем устройстве с помощью модели Apple, работающей на устройстве, и ничего не загружает. Синхронизация с Apple Watch обменивается вашим прогрессом напрямую между вашим iPhone и Watch, никогда через сервер."
+      },
+      {
+        "h": "Разрешения",
+        "p": "Любое разрешение используется только для выбранной вами функции, например для необязательного напоминания об учёбе или виджета на главном экране. Вы можете изменить их в настройках вашего устройства."
+      },
+      {
+        "h": "Дети",
+        "p": "Elements имеет рейтинг для всех, не содержит нежелательного контента и не собирает персональные данные ни от кого — включая детей."
+      },
+      {
+        "h": "Изменения",
+        "p": "Если эта политика изменится, мы опубликуем обновлённую версию здесь и обновим дату выше."
+      },
+      {
+        "h": "Товарные знаки",
+        "p": "Elements является товарным знаком™ Rizk Corsight, LLC. Apple и App Store являются товарными знаками Apple Inc.; Google Play и Android являются товарными знаками Google LLC. Все остальные названия продуктов и компаний используются только для идентификации и остаются собственностью их соответствующих владельцев."
+      }
+    ]
+  },
+  "sk": {
+    "eyebrow": "Súkromie",
+    "title": "Elements — Zásady ochrany súkromia",
+    "updated_label": "Posledná aktualizácia",
+    "note": "Tento preklad je poskytnutý pre pohodlie. V prípade akýchkoľvek rozdielov je rozhodujúca anglická verzia.",
+    "contact_h": "Kontakt",
+    "sections": [
+      {
+        "h": "Zásady ochrany súkromia",
+        "p": "Elements je aplikácia na štúdium periodickej tabuľky, ktorá funguje výlučne lokálne. Nevyžaduje žiadny účet, nepredáva žiadne osobné údaje, nezobrazuje reklamy a nepoužíva žiadnu analytiku ani sledovanie. Údaje, ktoré vytvoríte, zostávajú vo vašom zariadení v súkromnom úložisku aplikácie: vaše študijné balíčky a kartičky, vaša história opakovania a rozvrh rozloženého opakovania, vaše označené prvky a vaše nastavenia."
+      },
+      {
+        "h": "Čo nezhromažďujeme",
+        "p": "Nezhromažďujeme vaše meno, e-mail, telefónne číslo, polohu, reklamné identifikátory, kontakty, mikrofón ani údaje o používaní. Nie sú tu žiadne reklamné, analytické, atribučné ani sledovacie SDK."
+      },
+      {
+        "h": "Nákupy",
+        "p": "Aplikáciu Elements si môžete stiahnuť zadarmo s 3 dňami plného prístupu. Potom jediný voliteľný jednorazový nákup natrvalo odomkne celú aplikáciu — neexistuje žiadne predplatné a nič sa automaticky neobnovuje ani automaticky neúčtuje. Nákup spracúva App Store (iOS) alebo Google Play (Android); Elements nikdy nevidí vaše meno, platobnú kartu ani fakturačné údaje."
+      },
+      {
+        "h": "Používanie siete",
+        "p": "Elements funguje bez odosielania vašich údajov na akýkoľvek server — žiadny nemá. Celá periodická tabuľka je súčasťou aplikácie a bežné používanie zostáva vo vašom zariadení."
+      },
+      {
+        "h": "Funkcie v zariadení",
+        "p": "Vyslovené názvy prvkov používajú vstavanú syntézu reči vášho zariadenia (iba zvukový výstup — žiadny mikrofón, nič sa nenahráva). Voliteľné vysvetlenie, ak je k dispozícii, beží vo vašom zariadení pomocou modelu Apple bežiaceho priamo v zariadení a nič neodosiela. Synchronizácia s Apple Watch vymieňa váš pokrok priamo medzi vaším iPhone a Watch, nikdy nie cez server."
+      },
+      {
+        "h": "Povolenia",
+        "p": "Akékoľvek povolenie sa používa iba pre funkciu, ktorú si vyberiete, napríklad voliteľnú študijnú pripomienku alebo widget na domovskej obrazovke. Tieto môžete zmeniť v nastaveniach svojho zariadenia."
+      },
+      {
+        "h": "Deti",
+        "p": "Elements má vekové hodnotenie pre všetkých, neobsahuje žiadny nevhodný obsah a nezhromažďuje žiadne osobné informácie od nikoho — vrátane detí."
+      },
+      {
+        "h": "Zmeny",
+        "p": "Ak sa tieto zásady zmenia, uverejníme tu aktualizovanú verziu a upravíme dátum uvedený vyššie."
+      },
+      {
+        "h": "Ochranné známky",
+        "p": "Elements je ochranná známka™ spoločnosti Rizk Corsight, LLC. Apple a App Store sú ochranné známky spoločnosti Apple Inc.; Google Play a Android sú ochranné známky spoločnosti Google LLC. Všetky ostatné názvy produktov a spoločností sa používajú len na účely identifikácie a zostávajú vlastníctvom svojich príslušných vlastníkov."
+      }
+    ]
+  },
+  "sl": {
+    "eyebrow": "Zasebnost",
+    "title": "Elements — Pravilnik o zasebnosti",
+    "updated_label": "Zadnja posodobitev",
+    "note": "Ta prevod je na voljo zaradi lažjega razumevanja. V primeru kakršnega koli odstopanja velja angleška različica.",
+    "contact_h": "Stik",
+    "sections": [
+      {
+        "h": "Pravilnik o zasebnosti",
+        "p": "Elements je aplikacija za učenje periodnega sistema, ki deluje izključno lokalno. Ne potrebuje računa, ne prodaja osebnih podatkov, ne prikazuje oglasov in ne uporablja analitike ali sledenja. Podatki, ki jih ustvarite, ostanejo v vaši napravi, v zasebni shrambi aplikacije: vaši učni kompleti in slovarske kartice, vaša zgodovina ponavljanja in urnik časovno razporejenega ponavljanja, vaši elementi z zvezdico ter vaše nastavitve."
+      },
+      {
+        "h": "Česa ne zbiramo",
+        "p": "Ne zbiramo vašega imena, e-poštnega naslova, telefonske številke, lokacije, oglaševalskih identifikatorjev, stikov, podatkov z mikrofona ali podatkov o uporabi. Ni nobenih oglaševalskih, analitičnih, atribucijskih ali sledilnih kompletov SDK."
+      },
+      {
+        "h": "Nakupi",
+        "p": "Aplikacijo Elements lahko prenesete brezplačno s 3 dnevi polnega dostopa. Po tem en sam izbirni enkratni nakup trajno odklene celotno aplikacijo — ni naročnine in nič se ne podaljša ali zaračuna samodejno. Nakup obravnava App Store (iOS) ali Google Play (Android); Elements nikoli ne vidi vašega imena, plačilne kartice ali podatkov za obračun."
+      },
+      {
+        "h": "Uporaba omrežja",
+        "p": "Elements deluje, ne da bi vaše podatke pošiljal kateremu koli strežniku — nima ga. Celoten periodni sistem je vključen v aplikacijo, običajna uporaba pa ostane v vaši napravi."
+      },
+      {
+        "h": "Funkcije v napravi",
+        "p": "Izgovorjava imen elementov uporablja v napravo vgrajeno pretvorbo besedila v govor (samo zvočni izhod — brez mikrofona, nič se ne snema). Izbirna razlaga, kadar je na voljo, se izvaja v vaši napravi z uporabo Applovega modela v napravi in ničesar ne nalaga. Sinhronizacija z napravo Apple Watch izmenjuje vaš napredek neposredno med vašim iPhonom in uro Watch, nikoli prek strežnika."
+      },
+      {
+        "h": "Dovoljenja",
+        "p": "Vsako dovoljenje se uporablja le za funkcijo, ki jo izberete, na primer izbirni opomnik za učenje ali pripomoček na začetnem zaslonu. Te lahko spremenite v nastavitvah svoje naprave."
+      },
+      {
+        "h": "Otroci",
+        "p": "Aplikacija Elements je ocenjena kot primerna za vse, ne vsebuje spornih vsebin in od nikogar — vključno z otroki — ne zbira osebnih podatkov."
+      },
+      {
+        "h": "Spremembe",
+        "p": "Če se ta pravilnik spremeni, bomo tukaj objavili posodobljeno različico in popravili zgornji datum."
+      },
+      {
+        "h": "Blagovne znamke",
+        "p": "Elements je blagovna znamka™ družbe Rizk Corsight, LLC. Apple in App Store sta blagovni znamki družbe Apple Inc.; Google Play in Android sta blagovni znamki družbe Google LLC. Vsa druga imena izdelkov in podjetij se uporabljajo zgolj za identifikacijo in ostajajo last svojih lastnikov."
+      }
+    ]
+  },
+  "sr": {
+    "eyebrow": "Приватност",
+    "title": "Elements — Политика приватности",
+    "updated_label": "Последње ажурирање",
+    "note": "Овај превод је дат ради лакшег разумевања. У случају било какве разлике, меродавна је верзија на енглеском језику.",
+    "contact_h": "Контакт",
+    "sections": [
+      {
+        "h": "Политика приватности",
+        "p": "Elements је апликација за учење периодног система елемената која ради искључиво локално. Не захтева налог, не продаје личне податке, не приказује огласе и не користи аналитику нити праћење. Подаци које креирате остају на вашем уређају, у приватној меморији апликације: ваши скупови за учење и флеш-картице, историја понављања и распоред размакнутог понављања, означени елементи и ваша подешавања."
+      },
+      {
+        "h": "Шта не прикупљамо",
+        "p": "Не прикупљамо ваше име, имејл, број телефона, локацију, рекламне идентификаторе, контакте, микрофон нити податке о коришћењу. Не постоје SDK-ови за оглашавање, аналитику, атрибуцију нити праћење."
+      },
+      {
+        "h": "Куповине",
+        "p": "Elements се преузима бесплатно уз 3 дана пуног приступа. Након тога, једна опциона једнократна куповина трајно откључава целу апликацију — нема претплате и ништа се не обнавља нити наплаћује аутоматски. Куповину обрађује App Store (iOS) или Google Play (Android); Elements никада не види ваше име, платну картицу нити податке о наплати."
+      },
+      {
+        "h": "Коришћење мреже",
+        "p": "Elements ради без слања ваших података на било који сервер — сервера ни нема. Цео периодни систем елемената се испоручује унутар апликације, а уобичајено коришћење остаје на вашем уређају."
+      },
+      {
+        "h": "Функције на уређају",
+        "p": "Изговор назива елемената користи уграђену претварач текста у говор вашег уређаја (само звучни излаз — без микрофона, ништа се не снима). Опционо објашњење, када је доступно, ради на вашем уређају користећи Apple-ов модел на уређају и ништа не отпрема. Синхронизација са Apple Watch уређајем размењује ваш напредак директно између вашег iPhone уређаја и Watch уређаја, никада преко сервера."
+      },
+      {
+        "h": "Дозволе",
+        "p": "Свака дозвола се користи само за функцију коју изаберете, попут опционог подсетника за учење или виџета на почетном екрану. Ове поставке можете променити у подешавањима свог уређаја."
+      },
+      {
+        "h": "Деца",
+        "p": "Elements има оцену за све узрасте, не садржи непримерен садржај и не прикупља личне податке ни од кога — укључујући децу."
+      },
+      {
+        "h": "Измене",
+        "p": "Ако се ова политика промени, овде ћемо објавити ажурирану верзију и изменити горе наведени датум."
+      },
+      {
+        "h": "Заштитни знаци",
+        "p": "Elements је заштитни знак™ компаније Rizk Corsight, LLC. Apple и App Store су заштитни знаци компаније Apple Inc.; Google Play и Android су заштитни знаци компаније Google LLC. Сви остали називи производа и компанија користе се само ради идентификације и остају власништво својих одговарајућих власника."
+      }
+    ]
+  },
+  "sv": {
+    "eyebrow": "Integritet",
+    "title": "Elements — Integritetspolicy",
+    "updated_label": "Senast uppdaterad",
+    "note": "Den här översättningen tillhandahålls för bekvämlighets skull. Vid eventuella skillnader gäller den engelska versionen.",
+    "contact_h": "Kontakt",
+    "sections": [
+      {
+        "h": "Integritetspolicy",
+        "p": "Elements är en studieapp för det periodiska systemet som enbart fungerar lokalt. Den kräver inget konto, säljer inga personuppgifter, visar inga annonser och använder ingen analys eller spårning. De data du skapar stannar på din enhet, i appens privata lagring: dina studielekar och flashkort, din repetitionshistorik och ditt schema för spaced repetition, dina stjärnmarkerade grundämnen och dina inställningar."
+      },
+      {
+        "h": "Vad vi inte samlar in",
+        "p": "Vi samlar inte in ditt namn, din e-postadress, ditt telefonnummer, din plats, annons-id:n, kontakter, mikrofon eller användningsdata. Det finns inga SDK:er för annonsering, analys, attribuering eller spårning."
+      },
+      {
+        "h": "Köp",
+        "p": "Elements är gratis att ladda ner med 3 dagars full åtkomst. Därefter låser ett enda valfritt engångsköp upp hela appen permanent — det finns ingen prenumeration, och inget förnyas eller debiteras automatiskt. App Store (iOS) eller Google Play (Android) hanterar köpet; Elements ser aldrig ditt namn, ditt betalkort eller dina faktureringsuppgifter."
+      },
+      {
+        "h": "Nätverksanvändning",
+        "p": "Elements fungerar utan att skicka dina data till någon server — den har ingen. Hela det periodiska systemet ingår i appen, och normal användning stannar på din enhet."
+      },
+      {
+        "h": "Funktioner på enheten",
+        "p": "Uppläsning av grundämnesnamn använder enhetens inbyggda text-till-tal (endast ljuduppspelning — ingen mikrofon, inget spelas in). Den valfria förklaringen körs, när den är tillgänglig, på din enhet med Apples modell på enheten och laddar inte upp någonting. Synkronisering med Apple Watch utbyter dina framsteg direkt mellan din iPhone och din Watch, aldrig via en server."
+      },
+      {
+        "h": "Behörigheter",
+        "p": "Varje behörighet används endast för den funktion du väljer, till exempel den valfria studiepåminnelsen eller widgeten på hemskärmen. Du kan ändra dessa i din enhets inställningar."
+      },
+      {
+        "h": "Barn",
+        "p": "Elements är klassad för alla, innehåller inget olämpligt innehåll och samlar inte in några personuppgifter från någon — inklusive barn."
+      },
+      {
+        "h": "Ändringar",
+        "p": "Om den här policyn ändras publicerar vi den uppdaterade versionen här och justerar datumet ovan."
+      },
+      {
+        "h": "Varumärken",
+        "p": "Elements är ett varumärke (™) som tillhör Rizk Corsight, LLC. Apple och App Store är varumärken som tillhör Apple Inc.; Google Play och Android är varumärken som tillhör Google LLC. Alla andra produkt- och företagsnamn används endast för identifiering och förblir respektive ägares egendom."
+      }
+    ]
+  },
+  "ta": {
+    "eyebrow": "தனியுரிமை",
+    "title": "Elements — தனியுரிமைக் கொள்கை",
+    "updated_label": "கடைசியாகப் புதுப்பிக்கப்பட்டது",
+    "note": "இந்த மொழிபெயர்ப்பு வசதிக்காக வழங்கப்படுகிறது. ஏதேனும் வேறுபாடு இருந்தால், ஆங்கிலப் பதிப்பே செல்லுபடியாகும்.",
+    "contact_h": "தொடர்பு",
+    "sections": [
+      {
+        "h": "தனியுரிமைக் கொள்கை",
+        "p": "Elements என்பது சாதனத்தில் மட்டும் இயங்கும் தனிம அட்டவணை படிப்பு செயலி. இதற்கு கணக்கு தேவையில்லை, தனிப்பட்ட தரவை விற்பதில்லை, விளம்பரங்களைக் காட்டுவதில்லை, மேலும் எந்த பகுப்பாய்வு அல்லது கண்காணிப்பையும் பயன்படுத்துவதில்லை. நீங்கள் உருவாக்கும் தரவு உங்கள் சாதனத்திலேயே, செயலியின் தனிப்பட்ட சேமிப்பகத்தில் இருக்கும்: உங்கள் படிப்பு அடுக்குகள் மற்றும் அட்டை குறிப்புகள், உங்கள் மீள்பார்வை வரலாறு மற்றும் இடைவெளி-மீளுருவாக்க அட்டவணை, நீங்கள் நட்சத்திரமிட்ட தனிமங்கள், மேலும் உங்கள் அமைப்புகள்."
+      },
+      {
+        "h": "நாங்கள் சேகரிக்காதவை",
+        "p": "உங்கள் பெயர், மின்னஞ்சல், தொலைபேசி எண், இருப்பிடம், விளம்பர அடையாளங்காட்டிகள், தொடர்புகள், ஒலிவாங்கி, அல்லது பயன்பாட்டுத் தரவு ஆகியவற்றை நாங்கள் சேகரிக்கவில்லை. எந்த விளம்பர, பகுப்பாய்வு, ஒப்படைப்பு (attribution) அல்லது கண்காணிப்பு SDK-களும் இல்லை."
+      },
+      {
+        "h": "கொள்முதல்கள்",
+        "p": "Elements-ஐ பதிவிறக்குவது இலவசம், 3 நாட்களுக்கு முழு அணுகலுடன். அதன் பிறகு, ஒரே ஒரு விருப்பத் தெரிவான ஒருமுறை கொள்முதல் முழு செயலியையும் நிரந்தரமாகத் திறக்கிறது — சந்தா எதுவும் இல்லை, மேலும் எதுவும் தானாக புதுப்பிக்கப்படவோ தானாக கட்டணம் விதிக்கப்படவோ இல்லை. App Store (iOS) அல்லது Google Play (Android) கொள்முதலைக் கையாளுகிறது; உங்கள் பெயர், கட்டண அட்டை, அல்லது பில்லிங் விவரங்களை Elements ஒருபோதும் காண்பதில்லை."
+      },
+      {
+        "h": "வலையமைப்பு பயன்பாடு",
+        "p": "Elements உங்கள் தரவை எந்த சேவையகத்திற்கும் அனுப்பாமல் இயங்குகிறது — அதற்கு சேவையகம் எதுவும் இல்லை. முழு தனிம அட்டவணையும் செயலிக்குள்ளேயே வழங்கப்படுகிறது, மேலும் சாதாரண பயன்பாடு உங்கள் சாதனத்திலேயே இருக்கும்."
+      },
+      {
+        "h": "சாதனத்தில் இயங்கும் அம்சங்கள்",
+        "p": "பேசப்படும் தனிமப் பெயர்கள் உங்கள் சாதனத்தின் உள்ளமைந்த உரை-முதல்-பேச்சு வசதியைப் பயன்படுத்துகின்றன (ஒலி வெளியீடு மட்டுமே — ஒலிவாங்கி இல்லை, எதுவும் பதிவு செய்யப்படவில்லை). கிடைக்கும் போது, விருப்பத் தெரிவான விளக்க அம்சம் உங்கள் சாதனத்தில் Apple-இன் சாதனத்தில் இயங்கும் மாதிரியைப் பயன்படுத்தி இயங்குகிறது மற்றும் எதையும் பதிவேற்றுவதில்லை. Apple Watch ஒத்திசைவு உங்கள் முன்னேற்றத்தை உங்கள் iPhone மற்றும் Watch இடையே நேரடியாகப் பரிமாறுகிறது, ஒருபோதும் சேவையகம் வழியாக அல்ல."
+      },
+      {
+        "h": "அனுமதிகள்",
+        "p": "எந்த அனுமதியும் நீங்கள் தேர்ந்தெடுக்கும் அம்சத்திற்காக மட்டுமே பயன்படுத்தப்படுகிறது, எடுத்துக்காட்டாக விருப்பத் தெரிவான படிப்பு நினைவூட்டல் அல்லது முகப்புத்திரை விட்ஜெட். உங்கள் சாதன அமைப்புகளில் இவற்றை நீங்கள் மாற்றலாம்."
+      },
+      {
+        "h": "குழந்தைகள்",
+        "p": "Elements அனைவருக்கும் தரப்படுத்தப்பட்டுள்ளது, ஆட்சேபனைக்குரிய உள்ளடக்கம் எதுவும் இல்லை, மேலும் குழந்தைகள் உட்பட எவரிடமிருந்தும் தனிப்பட்ட தகவலைச் சேகரிப்பதில்லை."
+      },
+      {
+        "h": "மாற்றங்கள்",
+        "p": "இந்தக் கொள்கை மாறினால், புதுப்பிக்கப்பட்ட பதிப்பை இங்கே வெளியிட்டு, மேலே உள்ள தேதியைத் திருத்துவோம்."
+      },
+      {
+        "h": "வர்த்தக முத்திரைகள்",
+        "p": "Elements என்பது Rizk Corsight, LLC நிறுவனத்தின் வர்த்தக முத்திரை™ ஆகும். Apple மற்றும் App Store ஆகியவை Apple Inc. நிறுவனத்தின் வர்த்தக முத்திரைகள்; Google Play மற்றும் Android ஆகியவை Google LLC நிறுவனத்தின் வர்த்தக முத்திரைகள். மற்ற அனைத்து தயாரிப்பு மற்றும் நிறுவனப் பெயர்களும் அடையாளம் காண்பதற்காக மட்டுமே பயன்படுத்தப்படுகின்றன, மேலும் அவை அந்தந்த உரிமையாளர்களின் சொத்தாகவே இருக்கின்றன."
+      }
+    ]
+  },
+  "te": {
+    "eyebrow": "గోప్యత",
+    "title": "Elements — గోప్యతా విధానం",
+    "updated_label": "చివరిగా నవీకరించబడింది",
+    "note": "ఈ అనువాదం సౌకర్యం కోసం అందించబడింది. ఏదైనా తేడా ఉంటే, ఆంగ్ల వెర్షన్ ప్రామాణికం.",
+    "contact_h": "సంప్రదింపు",
+    "sections": [
+      {
+        "h": "గోప్యతా విధానం",
+        "p": "Elements అనేది పూర్తిగా పరికరంలోనే పనిచేసే ఆవర్తన పట్టిక అధ్యయన యాప్. దీనికి ఏ ఖాతా అవసరం లేదు, వ్యక్తిగత డేటాను అమ్మదు, ప్రకటనలు చూపించదు, ఎటువంటి విశ్లేషణలు లేదా ట్రాకింగ్‌ను ఉపయోగించదు. మీరు సృష్టించే డేటా మీ పరికరంలో, యాప్ యొక్క ప్రైవేట్ నిల్వలో ఉంటుంది: మీ అధ్యయన డెక్‌లు మరియు ఫ్లాష్‌కార్డులు, మీ సమీక్షా చరిత్ర మరియు అంతరాల-పునరావృత షెడ్యూల్, మీరు గుర్తు పెట్టుకున్న మూలకాలు, మరియు మీ సెట్టింగ్‌లు."
+      },
+      {
+        "h": "మేము సేకరించనివి",
+        "p": "మేము మీ పేరు, ఇమెయిల్, ఫోన్ నంబర్, స్థానం, ప్రకటనల గుర్తింపుదారులు, పరిచయాలు, మైక్రోఫోన్, లేదా వినియోగ డేటాను సేకరించము. ఎటువంటి ప్రకటనల, విశ్లేషణ, అట్రిబ్యూషన్, లేదా ట్రాకింగ్ SDKలు లేవు."
+      },
+      {
+        "h": "కొనుగోళ్లు",
+        "p": "Elements డౌన్‌లోడ్ చేసుకోవడం ఉచితం, 3 రోజుల పూర్తి యాక్సెస్‌తో. ఆ తర్వాత, ఒక ఐచ్ఛిక ఒకేసారి కొనుగోలు మొత్తం యాప్‌ను శాశ్వతంగా అన్‌లాక్ చేస్తుంది — చందా ఏదీ లేదు, ఏదీ స్వయంచాలకంగా పునరుద్ధరించబడదు లేదా స్వయంచాలకంగా ఛార్జ్ చేయబడదు. App Store (iOS) లేదా Google Play (Android) ఈ కొనుగోలును నిర్వహిస్తుంది; Elements మీ పేరు, చెల్లింపు కార్డు, లేదా బిల్లింగ్ వివరాలను ఎప్పుడూ చూడదు."
+      },
+      {
+        "h": "నెట్‌వర్క్ వినియోగం",
+        "p": "Elements మీ డేటాను ఏ సర్వర్‌కూ పంపకుండానే పనిచేస్తుంది — దానికి ఏ సర్వరూ లేదు. మొత్తం ఆవర్తన పట్టిక యాప్ లోపలే వస్తుంది, మరియు సాధారణ వినియోగం మీ పరికరంలోనే ఉంటుంది."
+      },
+      {
+        "h": "పరికరంలోని ఫీచర్లు",
+        "p": "మూలకాల పేర్లను పలకడానికి మీ పరికరంలో అంతర్నిర్మితమైన టెక్స్ట్-టు-స్పీచ్ ఉపయోగించబడుతుంది (కేవలం ఆడియో అవుట్‌పుట్ మాత్రమే — మైక్రోఫోన్ లేదు, ఏదీ రికార్డ్ చేయబడదు). ఐచ్ఛిక వివరణ, అందుబాటులో ఉన్నప్పుడు, Apple యొక్క పరికరంలోని మోడల్‌ను ఉపయోగించి మీ పరికరంలోనే నడుస్తుంది మరియు ఏదీ అప్‌లోడ్ చేయదు. Apple Watch సమకాలీకరణ మీ పురోగతిని మీ iPhone మరియు Watch మధ్య నేరుగా మార్పిడి చేస్తుంది, ఎప్పుడూ సర్వర్ ద్వారా కాదు."
+      },
+      {
+        "h": "అనుమతులు",
+        "p": "ఏ అనుమతి అయినా మీరు ఎంచుకున్న ఫీచర్ కోసం మాత్రమే ఉపయోగించబడుతుంది, ఉదాహరణకు ఐచ్ఛిక అధ్యయన రిమైండర్ లేదా హోమ్-స్క్రీన్ విడ్జెట్. మీరు వీటిని మీ పరికర సెట్టింగ్‌లలో మార్చుకోవచ్చు."
+      },
+      {
+        "h": "పిల్లలు",
+        "p": "Elements అందరికీ రేటింగ్ ఇవ్వబడింది, ఏ అభ్యంతరకర కంటెంట్‌ను కలిగి ఉండదు, మరియు ఎవరి నుండి — పిల్లలతో సహా — ఎటువంటి వ్యక్తిగత సమాచారాన్ని సేకరించదు."
+      },
+      {
+        "h": "మార్పులు",
+        "p": "ఈ విధానం మారితే, మేము నవీకరించిన వెర్షన్‌ను ఇక్కడ పోస్ట్ చేస్తాము మరియు పైన ఉన్న తేదీని సవరిస్తాము."
+      },
+      {
+        "h": "ట్రేడ్‌మార్క్‌లు",
+        "p": "Elements అనేది Rizk Corsight, LLC యొక్క ఒక ట్రేడ్‌మార్క్™. Apple మరియు App Store అనేవి Apple Inc. యొక్క ట్రేడ్‌మార్క్‌లు; Google Play మరియు Android అనేవి Google LLC యొక్క ట్రేడ్‌మార్క్‌లు. అన్ని ఇతర ఉత్పత్తి మరియు సంస్థ పేర్లు గుర్తింపు కోసం మాత్రమే ఉపయోగించబడ్డాయి మరియు వాటి సంబంధిత యజమానుల ఆస్తిగానే ఉంటాయి."
+      }
+    ]
+  },
+  "th": {
+    "eyebrow": "ความเป็นส่วนตัว",
+    "title": "Elements — นโยบายความเป็นส่วนตัว",
+    "updated_label": "อัปเดตล่าสุด",
+    "note": "คำแปลนี้จัดทำขึ้นเพื่อความสะดวกในการอ่าน หากมีข้อความใดแตกต่างกัน ให้ยึดถือฉบับภาษาอังกฤษเป็นหลัก",
+    "contact_h": "ติดต่อ",
+    "sections": [
+      {
+        "h": "นโยบายความเป็นส่วนตัว",
+        "p": "Elements เป็นแอปสำหรับเรียนรู้ตารางธาตุที่ทำงานบนเครื่องของคุณเท่านั้น ไม่ต้องใช้บัญชี ไม่ขายข้อมูลส่วนบุคคล ไม่แสดงโฆษณา และไม่ใช้การวิเคราะห์ข้อมูลหรือการติดตามใด ๆ ข้อมูลที่คุณสร้างขึ้นจะถูกเก็บไว้บนอุปกรณ์ของคุณ ในพื้นที่จัดเก็บส่วนตัวของแอป ได้แก่ ชุดบทเรียนและบัตรคำของคุณ ประวัติการทบทวนและตารางการทบทวนแบบเว้นระยะของคุณ ธาตุที่คุณติดดาว และการตั้งค่าของคุณ"
+      },
+      {
+        "h": "สิ่งที่เราไม่เก็บรวบรวม",
+        "p": "เราไม่เก็บรวบรวมชื่อ อีเมล หมายเลขโทรศัพท์ ตำแหน่งที่ตั้ง ตัวระบุเพื่อการโฆษณา รายชื่อผู้ติดต่อ ไมโครโฟน หรือข้อมูลการใช้งานของคุณ ไม่มี SDK สำหรับการโฆษณา การวิเคราะห์ข้อมูล การระบุที่มา หรือการติดตามใด ๆ"
+      },
+      {
+        "h": "การซื้อ",
+        "p": "Elements สามารถดาวน์โหลดได้ฟรีพร้อมการเข้าถึงเต็มรูปแบบเป็นเวลา 3 วัน หลังจากนั้น การซื้อแบบครั้งเดียวที่เป็นทางเลือกเพียงครั้งเดียวจะปลดล็อกแอปทั้งหมดอย่างถาวร — ไม่มีการสมัครสมาชิก และไม่มีการต่ออายุอัตโนมัติหรือเรียกเก็บเงินอัตโนมัติใด ๆ App Store (iOS) หรือ Google Play (Android) เป็นผู้จัดการการซื้อ Elements จะไม่เห็นชื่อ บัตรชำระเงิน หรือรายละเอียดการเรียกเก็บเงินของคุณเลย"
+      },
+      {
+        "h": "การใช้งานเครือข่าย",
+        "p": "Elements ทำงานได้โดยไม่ส่งข้อมูลของคุณไปยังเซิร์ฟเวอร์ใด ๆ — เพราะแอปไม่มีเซิร์ฟเวอร์ ตารางธาตุทั้งหมดมาพร้อมกับตัวแอป และการใช้งานตามปกติจะอยู่บนอุปกรณ์ของคุณ"
+      },
+      {
+        "h": "ฟีเจอร์ที่ทำงานบนอุปกรณ์",
+        "p": "การออกเสียงชื่อธาตุใช้ระบบแปลงข้อความเป็นเสียงที่ติดตั้งมาในอุปกรณ์ของคุณ (เป็นการส่งออกเสียงเท่านั้น — ไม่มีการใช้ไมโครโฟน ไม่มีการบันทึกใด ๆ) คำอธิบายเสริมที่เป็นทางเลือก เมื่อใช้งานได้ จะทำงานบนอุปกรณ์ของคุณโดยใช้โมเดลบนอุปกรณ์ของ Apple และไม่อัปโหลดข้อมูลใด ๆ การซิงค์กับ Apple Watch จะแลกเปลี่ยนความคืบหน้าของคุณโดยตรงระหว่าง iPhone และ Watch ของคุณ ไม่ผ่านเซิร์ฟเวอร์ใด ๆ ทั้งสิ้น"
+      },
+      {
+        "h": "การอนุญาต",
+        "p": "การอนุญาตใด ๆ จะถูกใช้เฉพาะกับฟีเจอร์ที่คุณเลือกเท่านั้น เช่น การแจ้งเตือนให้เรียนแบบเสริมที่เป็นทางเลือก หรือวิดเจ็ตบนหน้าจอหลัก คุณสามารถเปลี่ยนแปลงสิ่งเหล่านี้ได้ในการตั้งค่าอุปกรณ์ของคุณ"
+      },
+      {
+        "h": "เด็ก",
+        "p": "Elements ได้รับการจัดเรตสำหรับทุกคน ไม่มีเนื้อหาที่ไม่เหมาะสม และไม่เก็บรวบรวมข้อมูลส่วนบุคคลจากผู้ใดทั้งสิ้น — รวมถึงเด็กด้วย"
+      },
+      {
+        "h": "การเปลี่ยนแปลง",
+        "p": "หากนโยบายนี้มีการเปลี่ยนแปลง เราจะเผยแพร่ฉบับที่อัปเดตไว้ที่นี่ และปรับวันที่ด้านบนให้ตรงกัน"
+      },
+      {
+        "h": "เครื่องหมายการค้า",
+        "p": "Elements เป็นเครื่องหมายการค้า™ ของ Rizk Corsight, LLC. Apple และ App Store เป็นเครื่องหมายการค้าของ Apple Inc.; Google Play และ Android เป็นเครื่องหมายการค้าของ Google LLC. ชื่อผลิตภัณฑ์และชื่อบริษัทอื่น ๆ ทั้งหมดใช้เพื่อการระบุเท่านั้น และยังคงเป็นทรัพย์สินของเจ้าของแต่ละราย"
+      }
+    ]
+  },
+  "tr": {
+    "eyebrow": "Gizlilik",
+    "title": "Elements — Gizlilik Politikası",
+    "updated_label": "Son güncelleme",
+    "note": "Bu çeviri yalnızca kolaylık sağlamak amacıyla sunulmuştur. Herhangi bir farklılık olması durumunda İngilizce sürüm geçerlidir.",
+    "contact_h": "İletişim",
+    "sections": [
+      {
+        "h": "Gizlilik politikası",
+        "p": "Elements, yalnızca cihazda çalışan bir periyodik tablo çalışma uygulamasıdır. Hesap gerektirmez, kişisel veri satmaz, reklam göstermez ve hiçbir analiz veya izleme kullanmaz. Oluşturduğunuz veriler cihazınızda, uygulamanın özel deposunda kalır: çalışma desteleriniz ve bilgi kartlarınız, tekrar geçmişiniz ve aralıklı tekrar programınız, yıldızladığınız elementler ve ayarlarınız."
+      },
+      {
+        "h": "Toplamadıklarımız",
+        "p": "Adınızı, e-postanızı, telefon numaranızı, konumunuzu, reklam tanımlayıcılarını, kişilerinizi, mikrofonunuzu veya kullanım verilerinizi toplamayız. Hiçbir reklam, analiz, atıf veya izleme SDK'sı yoktur."
+      },
+      {
+        "h": "Satın alımlar",
+        "p": "Elements'in indirilmesi ücretsizdir ve 3 günlük tam erişim sunar. Bunun ardından, isteğe bağlı tek seferlik bir satın alma işlemiyle uygulamanın tamamı kalıcı olarak açılır — abonelik yoktur ve hiçbir şey otomatik olarak yenilenmez veya otomatik ücretlendirilmez. Satın alma işlemini App Store (iOS) veya Google Play (Android) yürütür; Elements adınızı, ödeme kartınızı veya fatura bilgilerinizi asla görmez."
+      },
+      {
+        "h": "Ağ kullanımı",
+        "p": "Elements, verilerinizi herhangi bir sunucuya göndermeden çalışır — hiçbir sunucusu yoktur. Periyodik tablonun tamamı uygulamanın içinde gelir ve normal kullanım cihazınızda kalır."
+      },
+      {
+        "h": "Cihaz üzerindeki özellikler",
+        "p": "Element adlarının seslendirilmesi, cihazınızın yerleşik metin okuma özelliğini kullanır (yalnızca ses çıkışı — mikrofon yok, hiçbir şey kaydedilmez). İsteğe bağlı açıklayıcı, mevcut olduğunda, cihazınızda Apple'ın cihaz üzerindeki modelini kullanarak çalışır ve hiçbir şey yüklemez. Apple Watch eşitlemesi, ilerlemenizi doğrudan iPhone'unuz ile Watch'unuz arasında, hiçbir zaman bir sunucu üzerinden geçmeden alışverişini yapar."
+      },
+      {
+        "h": "İzinler",
+        "p": "Herhangi bir izin, yalnızca seçtiğiniz özellik için kullanılır; örneğin isteğe bağlı çalışma hatırlatıcısı veya ana ekran widget'ı gibi. Bunları cihaz ayarlarınızdan değiştirebilirsiniz."
+      },
+      {
+        "h": "Çocuklar",
+        "p": "Elements herkese uygun olarak derecelendirilmiştir, hiçbir sakıncalı içerik barındırmaz ve çocuklar dahil hiç kimseden kişisel bilgi toplamaz."
+      },
+      {
+        "h": "Değişiklikler",
+        "p": "Bu politika değişirse, güncellenmiş sürümü burada yayımlar ve yukarıdaki tarihi gözden geçiririz."
+      },
+      {
+        "h": "Ticari markalar",
+        "p": "Elements, Rizk Corsight, LLC şirketinin bir ticari markasıdır™. Apple ve App Store, Apple Inc. şirketinin ticari markalarıdır; Google Play ve Android, Google LLC şirketinin ticari markalarıdır. Diğer tüm ürün ve şirket adları yalnızca tanımlama amacıyla kullanılmaktadır ve ilgili sahiplerinin mülkiyetinde kalır."
+      }
+    ]
+  },
+  "uk": {
+    "eyebrow": "Конфіденційність",
+    "title": "Elements — Політика конфіденційності",
+    "updated_label": "Останнє оновлення",
+    "note": "Цей переклад надано для зручності. У разі будь-яких розбіжностей вирішальною є англомовна версія.",
+    "contact_h": "Контакти",
+    "sections": [
+      {
+        "h": "Політика конфіденційності",
+        "p": "Elements — це застосунок для вивчення періодичної таблиці, який працює лише локально. Він не потребує облікового запису, не продає персональних даних, не показує реклами та не використовує аналітики чи відстеження. Дані, які ви створюєте, залишаються на вашому пристрої, у приватному сховищі застосунку: ваші навчальні колоди й картки, історія повторень і графік інтервального повторення, позначені зірочкою елементи та ваші налаштування."
+      },
+      {
+        "h": "Що ми не збираємо",
+        "p": "Ми не збираємо ваше ім'я, електронну адресу, номер телефону, місцезнаходження, рекламні ідентифікатори, контакти, дані з мікрофона чи дані про використання. У застосунку немає жодних рекламних, аналітичних, атрибуційних SDK або SDK для відстеження."
+      },
+      {
+        "h": "Покупки",
+        "p": "Elements можна завантажити безкоштовно з 3 днями повного доступу. Після цього єдина необов'язкова одноразова покупка назавжди відкриває весь застосунок — немає жодної підписки, нічого не поновлюється й не списується автоматично. Покупку обробляє App Store (iOS) або Google Play (Android); Elements ніколи не бачить вашого імені, платіжної картки чи платіжних реквізитів."
+      },
+      {
+        "h": "Використання мережі",
+        "p": "Elements працює, не надсилаючи ваших даних на жоден сервер — їх просто немає. Уся періодична таблиця постачається всередині застосунку, і звичайне користування залишається на вашому пристрої."
+      },
+      {
+        "h": "Функції на пристрої",
+        "p": "Озвучення назв елементів використовує вбудований синтез мовлення вашого пристрою (лише виведення звуку — без мікрофона, нічого не записується). Необов'язкове пояснення, коли воно доступне, виконується на вашому пристрої за допомогою моделі Apple на пристрої й нічого не вивантажує. Синхронізація з Apple Watch обмінюється вашим прогресом безпосередньо між вашим iPhone і Watch, ніколи через сервер."
+      },
+      {
+        "h": "Дозволи",
+        "p": "Будь-який дозвіл використовується лише для функції, яку ви обираєте, наприклад для необов'язкового нагадування про навчання чи віджета на головному екрані. Ви можете змінити їх у налаштуваннях свого пристрою."
+      },
+      {
+        "h": "Діти",
+        "p": "Elements має віковий рейтинг для всіх, не містить неприйнятного вмісту й не збирає персональної інформації ні від кого — зокрема й від дітей."
+      },
+      {
+        "h": "Зміни",
+        "p": "Якщо ця політика зміниться, ми опублікуємо тут оновлену версію та змінимо дату вгорі."
+      },
+      {
+        "h": "Торгові марки",
+        "p": "Elements є торговою маркою™ Rizk Corsight, LLC. Apple та App Store є торговими марками Apple Inc.; Google Play та Android є торговими марками Google LLC. Усі інші назви продуктів і компаній використовуються лише для ідентифікації та залишаються власністю їхніх відповідних власників."
+      }
+    ]
+  },
+  "ur": {
+    "eyebrow": "پرائیویسی",
+    "title": "Elements — پرائیویسی پالیسی",
+    "updated_label": "آخری بار اپ ڈیٹ کیا گیا",
+    "note": "یہ ترجمہ سہولت کے لیے فراہم کیا گیا ہے۔ اگر کوئی فرق ہو تو انگریزی نسخہ معتبر ہوگا۔",
+    "contact_h": "رابطہ",
+    "sections": [
+      {
+        "h": "پرائیویسی پالیسی",
+        "p": "Elements ایک صرف مقامی (local-only) متواتر جدول (periodic-table) مطالعے کی ایپ ہے۔ اسے کسی اکاؤنٹ کی ضرورت نہیں، یہ کوئی ذاتی ڈیٹا فروخت نہیں کرتی، کوئی اشتہار نہیں دکھاتی، اور نہ ہی کوئی اینالیٹکس یا ٹریکنگ استعمال کرتی ہے۔ آپ جو ڈیٹا بناتے ہیں وہ آپ کے آلے پر ہی، ایپ کی نجی اسٹوریج میں رہتا ہے: آپ کے مطالعاتی ڈیک اور فلیش کارڈز، آپ کی نظرِ ثانی کی تاریخ اور وقفہ دار اعادے (spaced-repetition) کا شیڈول، آپ کے ستارہ زدہ عناصر، اور آپ کی ترتیبات۔"
+      },
+      {
+        "h": "ہم کیا جمع نہیں کرتے",
+        "p": "ہم آپ کا نام، ای میل، فون نمبر، مقام، اشتہاری شناخت کنندگان، رابطے، مائیکروفون، یا استعمال کا ڈیٹا جمع نہیں کرتے۔ یہاں کوئی اشتہاری، اینالیٹکس، انتساب (attribution)، یا ٹریکنگ SDKs نہیں ہیں۔"
+      },
+      {
+        "h": "خریداریاں",
+        "p": "Elements ڈاؤن لوڈ کرنے کے لیے مفت ہے اور 3 دن کی مکمل رسائی کے ساتھ آتی ہے۔ اس کے بعد، ایک واحد اختیاری یک بار خریداری پوری ایپ کو مستقل طور پر کھول دیتی ہے — نہ کوئی سبسکرپشن ہے، اور نہ ہی کوئی چیز خودکار طور پر تجدید یا چارج ہوتی ہے۔ خریداری کو App Store (iOS) یا Google Play (Android) سنبھالتا ہے؛ Elements کبھی بھی آپ کا نام، ادائیگی کا کارڈ، یا بلنگ کی تفصیلات نہیں دیکھتی۔"
+      },
+      {
+        "h": "نیٹ ورک کا استعمال",
+        "p": "Elements آپ کا ڈیٹا کسی سرور کو بھیجے بغیر کام کرتی ہے — اس کا کوئی سرور ہے ہی نہیں۔ پورا متواتر جدول (periodic table) ایپ کے اندر ہی موجود ہوتا ہے، اور عام استعمال آپ کے آلے پر ہی رہتا ہے۔"
+      },
+      {
+        "h": "آلے پر موجود خصوصیات",
+        "p": "عناصر کے بولے جانے والے نام آپ کے آلے کی بلٹ اِن ٹیکسٹ ٹو اسپیچ (text-to-speech) سہولت استعمال کرتے ہیں (صرف آڈیو آؤٹ پٹ — کوئی مائیکروفون نہیں، کچھ بھی ریکارڈ نہیں ہوتا)۔ اختیاری وضاحت کنندہ، جب دستیاب ہو، آپ کے آلے پر Apple کے آن ڈیوائس ماڈل کا استعمال کرتے ہوئے چلتا ہے اور کچھ بھی اپ لوڈ نہیں کرتا۔ Apple Watch سِنک آپ کی پیش رفت کو براہِ راست آپ کے iPhone اور Watch کے درمیان منتقل کرتی ہے، کبھی کسی سرور کے ذریعے نہیں۔"
+      },
+      {
+        "h": "اجازتیں",
+        "p": "کوئی بھی اجازت صرف اسی خصوصیت کے لیے استعمال ہوتی ہے جسے آپ منتخب کرتے ہیں، جیسے اختیاری مطالعاتی یاد دہانی یا ہوم اسکرین ویجٹ۔ آپ انہیں اپنے آلے کی ترتیبات میں تبدیل کر سکتے ہیں۔"
+      },
+      {
+        "h": "بچے",
+        "p": "Elements ہر کسی کے لیے درجہ بند ہے، اس میں کوئی قابلِ اعتراض مواد نہیں، اور یہ کسی سے بھی کوئی ذاتی معلومات جمع نہیں کرتی — بشمول بچوں کے۔"
+      },
+      {
+        "h": "تبدیلیاں",
+        "p": "اگر یہ پالیسی تبدیل ہوتی ہے، تو ہم اپ ڈیٹ شدہ نسخہ یہاں شائع کریں گے اور اوپر دی گئی تاریخ پر نظرِ ثانی کریں گے۔"
+      },
+      {
+        "h": "ٹریڈ مارکس",
+        "p": "Elements، Rizk Corsight, LLC کا ایک ٹریڈ مارک™ ہے۔ Apple اور App Store، Apple Inc. کے ٹریڈ مارکس ہیں؛ Google Play اور Android، Google LLC کے ٹریڈ مارکس ہیں۔ دیگر تمام مصنوعات اور کمپنیوں کے نام صرف شناخت کے لیے استعمال کیے گئے ہیں اور اپنے متعلقہ مالکان کی ملکیت رہتے ہیں۔"
+      }
+    ]
+  },
+  "vi": {
+    "eyebrow": "Quyền riêng tư",
+    "title": "Elements — Chính sách quyền riêng tư",
+    "updated_label": "Cập nhật lần cuối",
+    "note": "Bản dịch này được cung cấp nhằm mục đích thuận tiện. Nếu có bất kỳ khác biệt nào, bản tiếng Anh sẽ là bản có giá trị quyết định.",
+    "contact_h": "Liên hệ",
+    "sections": [
+      {
+        "h": "Chính sách quyền riêng tư",
+        "p": "Elements là một ứng dụng học bảng tuần hoàn chỉ hoạt động cục bộ trên thiết bị. Ứng dụng không cần tài khoản, không bán dữ liệu cá nhân, không hiển thị quảng cáo, và không sử dụng phân tích hay theo dõi. Dữ liệu bạn tạo ra luôn được lưu trên thiết bị của bạn, trong bộ nhớ riêng tư của ứng dụng: các bộ thẻ học và thẻ ghi nhớ, lịch sử ôn tập và lịch lặp lại ngắt quãng, các nguyên tố bạn đã đánh dấu sao, và các cài đặt của bạn."
+      },
+      {
+        "h": "Những gì chúng tôi không thu thập",
+        "p": "Chúng tôi không thu thập tên, email, số điện thoại, vị trí, mã định danh quảng cáo, danh bạ, micrô, hay dữ liệu sử dụng của bạn. Không có bất kỳ SDK quảng cáo, phân tích, phân bổ hay theo dõi nào."
+      },
+      {
+        "h": "Mua hàng",
+        "p": "Elements miễn phí khi tải về với 3 ngày sử dụng đầy đủ. Sau đó, một lần mua duy nhất tùy chọn sẽ mở khóa toàn bộ ứng dụng vĩnh viễn — không có gói đăng ký, và không có gì tự động gia hạn hay tự động tính phí. App Store (iOS) hoặc Google Play (Android) sẽ xử lý việc mua hàng; Elements không bao giờ thấy tên, thẻ thanh toán hay thông tin thanh toán của bạn."
+      },
+      {
+        "h": "Sử dụng mạng",
+        "p": "Elements hoạt động mà không gửi dữ liệu của bạn đến bất kỳ máy chủ nào — ứng dụng không có máy chủ nào cả. Toàn bộ bảng tuần hoàn được tích hợp sẵn bên trong ứng dụng, và việc sử dụng thông thường luôn diễn ra trên thiết bị của bạn."
+      },
+      {
+        "h": "Tính năng trên thiết bị",
+        "p": "Tên các nguyên tố được đọc bằng tính năng chuyển văn bản thành giọng nói tích hợp sẵn trong thiết bị của bạn (chỉ phát âm thanh ra — không dùng micrô, không ghi lại gì cả). Phần giải thích tùy chọn, khi khả dụng, chạy ngay trên thiết bị của bạn bằng mô hình trên thiết bị của Apple và không tải lên bất cứ thứ gì. Việc đồng bộ với Apple Watch trao đổi tiến trình của bạn trực tiếp giữa iPhone và Watch, không bao giờ thông qua máy chủ."
+      },
+      {
+        "h": "Quyền truy cập",
+        "p": "Mọi quyền truy cập chỉ được dùng cho tính năng mà bạn lựa chọn, chẳng hạn như lời nhắc học tùy chọn hoặc tiện ích trên màn hình chính. Bạn có thể thay đổi những quyền này trong phần cài đặt thiết bị của mình."
+      },
+      {
+        "h": "Trẻ em",
+        "p": "Elements được xếp hạng phù hợp với mọi lứa tuổi, không chứa nội dung phản cảm, và không thu thập thông tin cá nhân từ bất kỳ ai — kể cả trẻ em."
+      },
+      {
+        "h": "Thay đổi",
+        "p": "Nếu chính sách này thay đổi, chúng tôi sẽ đăng phiên bản cập nhật tại đây và sửa lại ngày tháng ở phía trên."
+      },
+      {
+        "h": "Nhãn hiệu",
+        "p": "Elements là nhãn hiệu của Rizk Corsight, LLC. Apple và App Store là nhãn hiệu của Apple Inc.; Google Play và Android là nhãn hiệu của Google LLC. Tất cả tên sản phẩm và tên công ty khác chỉ được sử dụng nhằm mục đích nhận diện và vẫn thuộc quyền sở hữu của các chủ sở hữu tương ứng."
+      }
+    ]
+  },
+  "zh-Hans": {
+    "eyebrow": "隐私",
+    "title": "Elements — 隐私政策",
+    "updated_label": "最后更新",
+    "note": "本译文仅供参考。如有任何差异，以英文版本为准。",
+    "contact_h": "联系方式",
+    "sections": [
+      {
+        "h": "隐私政策",
+        "p": "Elements 是一款仅在本地运行的元素周期表学习应用。它无需账户、不出售任何个人数据、不展示广告，也不使用任何分析或追踪工具。你创建的数据全部保存在你的设备上，存放于应用的私有存储空间内：你的学习卡组与抽认卡、你的复习记录与间隔重复计划、你收藏的元素，以及你的设置。"
+      },
+      {
+        "h": "我们不收集的内容",
+        "p": "我们不收集你的姓名、电子邮箱、电话号码、位置、广告标识符、通讯录、麦克风或使用数据。本应用不含任何广告、分析、归因或追踪 SDK。"
+      },
+      {
+        "h": "购买",
+        "p": "Elements 可免费下载，并提供 3 天的完整使用权限。之后，只需一次可选的一次性购买，即可永久解锁整个应用——没有订阅，也不会自动续期或自动扣费。购买由 App Store（iOS）或 Google Play（Android）处理；Elements 绝不会看到你的姓名、付款卡或账单信息。"
+      },
+      {
+        "h": "网络使用",
+        "p": "Elements 无需将你的数据发送到任何服务器即可运行——它根本没有服务器。整张元素周期表都内置于应用之中，日常使用始终留在你的设备上。"
+      },
+      {
+        "h": "设备端功能",
+        "p": "朗读元素名称使用你设备内置的文字转语音功能（仅为音频输出——不使用麦克风，也不进行任何录音）。可选的讲解功能在可用时会借助 Apple 的设备端模型在你的设备上运行，不会上传任何内容。Apple Watch 同步会在你的 iPhone 与 Apple Watch 之间直接交换你的进度，绝不经过任何服务器。"
+      },
+      {
+        "h": "权限",
+        "p": "任何权限都只用于你选择启用的功能，例如可选的学习提醒或主屏幕小组件。你可以在设备设置中更改这些权限。"
+      },
+      {
+        "h": "儿童",
+        "p": "Elements 适合所有人，不含任何不良内容，也不会向任何人收集个人信息——包括儿童。"
+      },
+      {
+        "h": "变更",
+        "p": "如本政策有所变更，我们会在此发布更新后的版本，并修订上方的日期。"
+      },
+      {
+        "h": "商标",
+        "p": "Elements 是 Rizk Corsight, LLC 的商标™。Apple 与 App Store 是 Apple Inc. 的商标™；Google Play 与 Android 是 Google LLC 的商标™。所有其他产品和公司名称仅用于标识目的，其权利仍归各自所有者所有。"
+      }
+    ]
+  },
+  "zh-Hant": {
+    "eyebrow": "隱私權",
+    "title": "Elements — 隱私權政策",
+    "updated_label": "最後更新",
+    "note": "本翻譯僅為方便閱讀而提供。如有任何差異，概以英文版本為準。",
+    "contact_h": "聯絡方式",
+    "sections": [
+      {
+        "h": "隱私權政策",
+        "p": "Elements 是一款純本機運作的週期表學習應用程式。它不需要帳號、不販售任何個人資料、不顯示廣告，也不使用任何分析或追蹤工具。你建立的資料會保留在你的裝置上，存放於應用程式的私有儲存空間中：包括你的學習牌組與字卡、你的複習紀錄與間隔重複排程、你標記星號的元素，以及你的設定。"
+      },
+      {
+        "h": "我們不會蒐集的資料",
+        "p": "我們不會蒐集你的姓名、電子郵件、電話號碼、位置、廣告識別碼、聯絡人、麥克風或使用資料。本應用程式不含任何廣告、分析、歸因或追蹤 SDK。"
+      },
+      {
+        "h": "購買",
+        "p": "Elements 可免費下載，並提供 3 天的完整使用權限。在此之後，只需一次選擇性的單次購買，即可永久解鎖整個應用程式——沒有訂閱，也不會自動續訂或自動扣款。購買流程由 App Store（iOS）或 Google Play（Android）處理；Elements 絕不會看到你的姓名、付款卡片或帳單資訊。"
+      },
+      {
+        "h": "網路使用",
+        "p": "Elements 無需將你的資料傳送到任何伺服器即可運作——它根本沒有伺服器。整份週期表都隨應用程式一同提供，日常使用都在你的裝置上進行。"
+      },
+      {
+        "h": "裝置端功能",
+        "p": "元素名稱的語音朗讀使用你裝置內建的文字轉語音功能（僅輸出音訊——不使用麥克風，也不會錄製任何內容）。在可用的情況下，選擇性的說明功能會使用 Apple 的裝置端模型在你的裝置上執行，不會上傳任何資料。Apple Watch 同步會直接在你的 iPhone 與 Apple Watch 之間交換你的進度，絕不經過伺服器。"
+      },
+      {
+        "h": "權限",
+        "p": "任何權限都僅用於你所選擇的功能，例如選擇性的學習提醒或主畫面小工具。你可以在裝置設定中變更這些權限。"
+      },
+      {
+        "h": "兒童",
+        "p": "Elements 適合所有人使用，不含任何不當內容，也不會向任何人蒐集個人資訊——包括兒童在內。"
+      },
+      {
+        "h": "變更",
+        "p": "如果本政策有所變更，我們會在此張貼更新後的版本，並修改上方的日期。"
+      },
+      {
+        "h": "商標",
+        "p": "Elements 是 Rizk Corsight, LLC 的商標™。Apple 與 App Store 是 Apple Inc. 的商標；Google Play 與 Android 是 Google LLC 的商標。所有其他產品與公司名稱僅供識別之用，其權利仍屬於各自所有人所有。"
+      }
+    ]
+  }
+}

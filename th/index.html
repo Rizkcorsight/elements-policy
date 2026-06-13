@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<title>Elements — นโยบายความเป็นส่วนตัว · Elements</title>
+<style>
+:root{--parchment:#f4efe6;--parchment-deep:#ece5d9;--ink:#1b1f29;--ink-soft:#50586d;--ink-faint:#8d949d;--rule:#d4cabb;--accent:#3f6e7e}
+@media (prefers-color-scheme:dark){:root{--parchment:#14161b;--parchment-deep:#1d2027;--ink:#f1ece2;--ink-soft:#b7bccb;--ink-faint:#8a909c;--rule:#343a45;--accent:#8fc2d0}}
+*{box-sizing:border-box}html,body{margin:0;padding:0;background:var(--parchment);color:var(--ink);font-family:ui-rounded,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,system-ui,sans-serif;font-size:16px;line-height:1.65;-webkit-font-smoothing:antialiased}
+.wrap{max-width:720px;padding:64px 24px 96px;margin:0 auto}header{margin-bottom:40px}
+.eyebrow{font-size:11px;letter-spacing:1.4px;text-transform:uppercase;color:var(--accent);font-weight:600;margin-bottom:8px}
+h1{font-family:"Iowan Old Style","Palatino Linotype",Palatino,"Hoefler Text",Georgia,serif;font-size:36px;font-weight:600;letter-spacing:-.4px;margin:0 0 12px;line-height:1.15}
+.lede{color:var(--ink-soft);font-size:17px;margin:8px 0 0}
+.rule{height:1px;background:var(--rule);margin:32px 0}
+h2{font-family:"Iowan Old Style","Palatino Linotype",Palatino,"Hoefler Text",Georgia,serif;font-size:22px;font-weight:600;letter-spacing:-.2px;margin:40px 0 12px}
+p{margin:0 0 16px}ul,ol{margin:0 0 20px;padding-left:22px}[dir=rtl] ul,[dir=rtl] ol{padding-left:0;padding-right:22px}li{margin:6px 0}strong{color:var(--ink)}
+a{color:var(--accent);text-decoration:underline;text-underline-offset:2px;text-decoration-thickness:.5px}a:hover{text-decoration-thickness:1px}
+.meta{color:var(--ink-faint);font-size:13px;margin-top:8px}
+.note{margin:0 0 28px;padding:14px 16px;border:1px solid var(--rule);border-radius:10px;background:var(--parchment-deep);color:var(--ink-soft);font-size:.95em}
+.langs{margin:0 0 26px;padding:14px 16px;border:1px solid var(--rule);border-radius:10px;font-size:.93em;color:var(--ink-soft)}
+.langs a{display:inline-block;margin:0 10px 6px 0}[dir=rtl] .langs a{margin:0 0 6px 10px}
+footer{margin-top:64px;padding-top:24px;border-top:1px solid var(--rule);color:var(--ink-faint);font-size:13px}
+@media(max-width:600px){.wrap{padding:40px 20px 64px}h1{font-size:30px}h2{font-size:20px}}
+</style>
+</head>
+<body>
+<main class="wrap">
+
+<header>
+<div class="eyebrow">ความเป็นส่วนตัว</div>
+<h1>Elements — นโยบายความเป็นส่วนตัว</h1>
+<p class="meta">อัปเดตล่าสุด: 2026-06-13</p>
+</header>
+<nav class="langs"><strong>Languages:</strong> <a href="../">English</a> <a href="../ar/">العربية</a> <a href="../bg/">Български</a> <a href="../bn/">বাংলা</a> <a href="../ca/">Català</a> <a href="../cs/">Čeština</a> <a href="../da/">Dansk</a> <a href="../de/">Deutsch</a> <a href="../el/">Ελληνικά</a> <a href="../en-GB/">English (UK)</a> <a href="../es/">Español</a> <a href="../es-419/">Español (Latinoamérica)</a> <a href="../et/">Eesti</a> <a href="../fa/">فارسی</a> <a href="../fi/">Suomi</a> <a href="../fil/">Filipino</a> <a href="../fr/">Français</a> <a href="../fr-CA/">Français (Canada)</a> <a href="../gu/">ગુજરાતી</a> <a href="../he/">עברית</a> <a href="../hi/">हिन्दी</a> <a href="../hr/">Hrvatski</a> <a href="../hu/">Magyar</a> <a href="../id/">Indonesia</a> <a href="../it/">Italiano</a> <a href="../ja/">日本語</a> <a href="../kn/">ಕನ್ನಡ</a> <a href="../ko/">한국어</a> <a href="../lt/">Lietuvių</a> <a href="../lv/">Latviešu</a> <a href="../ml/">മലയാളം</a> <a href="../mr/">मराठी</a> <a href="../ms/">Melayu</a> <a href="../nl/">Nederlands</a> <a href="../no/">Norsk</a> <a href="../pl/">Polski</a> <a href="../pt-BR/">Português (Brasil)</a> <a href="../pt-PT/">Português (Portugal)</a> <a href="../ro/">Română</a> <a href="../ru/">Русский</a> <a href="../sk/">Slovenčina</a> <a href="../sl/">Slovenščina</a> <a href="../sr/">Српски</a> <a href="../sv/">Svenska</a> <a href="../ta/">தமிழ்</a> <a href="../te/">తెలుగు</a> <a href="../th/">ไทย</a> <a href="../tr/">Türkçe</a> <a href="../uk/">Українська</a> <a href="../ur/">اردو</a> <a href="../vi/">Tiếng Việt</a> <a href="../zh-Hans/">简体中文</a> <a href="../zh-Hant/">繁體中文</a></nav>
+<p class="note">คำแปลนี้จัดทำขึ้นเพื่อความสะดวกในการอ่าน หากมีข้อความใดแตกต่างกัน ให้ยึดถือฉบับภาษาอังกฤษเป็นหลัก <a href="../">English</a></p>
+<div class="rule"></div>
+<h2>นโยบายความเป็นส่วนตัว</h2>
+<p>Elements เป็นแอปสำหรับเรียนรู้ตารางธาตุที่ทำงานบนเครื่องของคุณเท่านั้น ไม่ต้องใช้บัญชี ไม่ขายข้อมูลส่วนบุคคล ไม่แสดงโฆษณา และไม่ใช้การวิเคราะห์ข้อมูลหรือการติดตามใด ๆ ข้อมูลที่คุณสร้างขึ้นจะถูกเก็บไว้บนอุปกรณ์ของคุณ ในพื้นที่จัดเก็บส่วนตัวของแอป ได้แก่ ชุดบทเรียนและบัตรคำของคุณ ประวัติการทบทวนและตารางการทบทวนแบบเว้นระยะของคุณ ธาตุที่คุณติดดาว และการตั้งค่าของคุณ</p>
+<h2>สิ่งที่เราไม่เก็บรวบรวม</h2>
+<p>เราไม่เก็บรวบรวมชื่อ อีเมล หมายเลขโทรศัพท์ ตำแหน่งที่ตั้ง ตัวระบุเพื่อการโฆษณา รายชื่อผู้ติดต่อ ไมโครโฟน หรือข้อมูลการใช้งานของคุณ ไม่มี SDK สำหรับการโฆษณา การวิเคราะห์ข้อมูล การระบุที่มา หรือการติดตามใด ๆ</p>
+<h2>การซื้อ</h2>
+<p>Elements สามารถดาวน์โหลดได้ฟรีพร้อมการเข้าถึงเต็มรูปแบบเป็นเวลา 3 วัน หลังจากนั้น การซื้อแบบครั้งเดียวที่เป็นทางเลือกเพียงครั้งเดียวจะปลดล็อกแอปทั้งหมดอย่างถาวร — ไม่มีการสมัครสมาชิก และไม่มีการต่ออายุอัตโนมัติหรือเรียกเก็บเงินอัตโนมัติใด ๆ App Store (iOS) หรือ Google Play (Android) เป็นผู้จัดการการซื้อ Elements จะไม่เห็นชื่อ บัตรชำระเงิน หรือรายละเอียดการเรียกเก็บเงินของคุณเลย</p>
+<h2>การใช้งานเครือข่าย</h2>
+<p>Elements ทำงานได้โดยไม่ส่งข้อมูลของคุณไปยังเซิร์ฟเวอร์ใด ๆ — เพราะแอปไม่มีเซิร์ฟเวอร์ ตารางธาตุทั้งหมดมาพร้อมกับตัวแอป และการใช้งานตามปกติจะอยู่บนอุปกรณ์ของคุณ</p>
+<h2>ฟีเจอร์ที่ทำงานบนอุปกรณ์</h2>
+<p>การออกเสียงชื่อธาตุใช้ระบบแปลงข้อความเป็นเสียงที่ติดตั้งมาในอุปกรณ์ของคุณ (เป็นการส่งออกเสียงเท่านั้น — ไม่มีการใช้ไมโครโฟน ไม่มีการบันทึกใด ๆ) คำอธิบายเสริมที่เป็นทางเลือก เมื่อใช้งานได้ จะทำงานบนอุปกรณ์ของคุณโดยใช้โมเดลบนอุปกรณ์ของ Apple และไม่อัปโหลดข้อมูลใด ๆ การซิงค์กับ Apple Watch จะแลกเปลี่ยนความคืบหน้าของคุณโดยตรงระหว่าง iPhone และ Watch ของคุณ ไม่ผ่านเซิร์ฟเวอร์ใด ๆ ทั้งสิ้น</p>
+<h2>การอนุญาต</h2>
+<p>การอนุญาตใด ๆ จะถูกใช้เฉพาะกับฟีเจอร์ที่คุณเลือกเท่านั้น เช่น การแจ้งเตือนให้เรียนแบบเสริมที่เป็นทางเลือก หรือวิดเจ็ตบนหน้าจอหลัก คุณสามารถเปลี่ยนแปลงสิ่งเหล่านี้ได้ในการตั้งค่าอุปกรณ์ของคุณ</p>
+<h2>เด็ก</h2>
+<p>Elements ได้รับการจัดเรตสำหรับทุกคน ไม่มีเนื้อหาที่ไม่เหมาะสม และไม่เก็บรวบรวมข้อมูลส่วนบุคคลจากผู้ใดทั้งสิ้น — รวมถึงเด็กด้วย</p>
+<h2>การเปลี่ยนแปลง</h2>
+<p>หากนโยบายนี้มีการเปลี่ยนแปลง เราจะเผยแพร่ฉบับที่อัปเดตไว้ที่นี่ และปรับวันที่ด้านบนให้ตรงกัน</p>
+<h2>เครื่องหมายการค้า</h2>
+<p>Elements เป็นเครื่องหมายการค้า™ ของ Rizk Corsight, LLC. Apple และ App Store เป็นเครื่องหมายการค้าของ Apple Inc.; Google Play และ Android เป็นเครื่องหมายการค้าของ Google LLC. ชื่อผลิตภัณฑ์และชื่อบริษัทอื่น ๆ ทั้งหมดใช้เพื่อการระบุเท่านั้น และยังคงเป็นทรัพย์สินของเจ้าของแต่ละราย</p>
+<h2>ติดต่อ</h2>
+<p><a href="mailto:rizkcorsight@rizkcorsight.com">rizkcorsight@rizkcorsight.com</a></p>
+<footer>Elements — นโยบายความเป็นส่วนตัว</footer>
+</main>
+</body>
+</html>
