@@ -6,11 +6,20 @@ English root = full policy. Locale pages = condensed convenience translations
 Run with no args to (re)build index.html. If translations.json exists, also
 writes every <locale>/index.html.
 """
-import json, os, pathlib
+import json, os, pathlib, re
 
 ROOT = pathlib.Path(__file__).parent
 EMAIL = "rizkcorsight@rizkcorsight.com"
 UPDATED = "2026-06-13"
+# App name. STORE_TITLE is the full listing title; BRAND is the distinctive
+# short form used throughout the policy body + trademark (and across locales,
+# verbatim — brand names are not translated).
+STORE_TITLE = "Periodic Table: Elements in the Making"
+BRAND = "Elements in the Making"
+
+def brandize(s):
+    """Substitute the placeholder app token 'Elements' with the real brand."""
+    return re.sub(r"\bElements\b", BRAND, s)
 
 # (code, native name) — every language the app ships in. en is the root.
 LOCALES = [
@@ -143,16 +152,16 @@ def build_english():
     head = (
         '<header>\n'
         '<div class="eyebrow">Privacy</div>\n'
-        '<h1>Elements — Privacy Policy</h1>\n'
-        '<p class="lede">Elements is a local-only periodic-table study app. The architecture '
-        'below is the policy — the app cannot do otherwise, because the code does not contain '
-        'the means to.</p>\n'
+        f'<h1>{STORE_TITLE} — Privacy Policy</h1>\n'
+        f'<p class="lede">{STORE_TITLE} (&ldquo;{BRAND}&rdquo;) is a local-only '
+        'periodic-table study app. The architecture below is the policy — the app cannot '
+        'do otherwise, because the code does not contain the means to.</p>\n'
         f'<p class="meta">Last updated: {UPDATED} · Rizk Corsight · '
         f'<a href="mailto:{EMAIL}">{EMAIL}</a></p>\n'
         '</header>\n' + nav("")
     )
-    html = page("en", False, "Elements · Privacy Policy", head, ENGLISH_BODY,
-                "Elements · Periodic table study · No accounts · No analytics · No cloud · Everything on your device")
+    html = page("en", False, f"{STORE_TITLE} · Privacy Policy", head, brandize(ENGLISH_BODY),
+                f"{BRAND} · Periodic table study · No accounts · No analytics · No cloud · Everything on your device")
     (ROOT / "index.html").write_text(html, encoding="utf-8")
     print("wrote index.html (English)")
 
@@ -171,6 +180,15 @@ def build_locales():
         if not t:
             print(f"  ! no translation for {code}")
             continue
+        # Substitute the placeholder app token with the real brand (verbatim across
+        # locales) in every translated field.
+        t = {
+            **t,
+            "title": brandize(t["title"]), "note": brandize(t["note"]),
+            "eyebrow": brandize(t["eyebrow"]), "contact_h": brandize(t["contact_h"]),
+            "updated_label": t["updated_label"],
+            "sections": [{"h": brandize(s["h"]), "p": brandize(s["p"])} for s in t["sections"]],
+        }
         rtl = code.split("-")[0] in RTL
         secs = "\n".join(
             f"<h2>{s['h']}</h2>\n<p>{s['p']}</p>" for s in t["sections"]
@@ -185,7 +203,7 @@ def build_locales():
             + secs
             + f'\n<h2>{t["contact_h"]}</h2>\n<p><a href="mailto:{EMAIL}">{EMAIL}</a></p>'
         )
-        html = page(code, rtl, f'{t["title"]} · Elements', "", body, t["title"])
+        html = page(code, rtl, t["title"], "", body, t["title"])
         d = ROOT / code
         d.mkdir(exist_ok=True)
         (d / "index.html").write_text(html, encoding="utf-8")
