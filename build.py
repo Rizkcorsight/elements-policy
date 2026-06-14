@@ -10,7 +10,7 @@ import json, os, pathlib, re
 
 ROOT = pathlib.Path(__file__).parent
 EMAIL = "rizkcorsight@rizkcorsight.com"
-UPDATED = "2026-06-13"
+UPDATED = "2026-06-14"
 # App name. STORE_TITLE is the full listing title; BRAND is the distinctive
 # short form used throughout the policy body + trademark (and across locales,
 # verbatim — brand names are not translated).
@@ -98,14 +98,14 @@ ENGLISH_BODY = f"""<div class="rule"></div>
 <h2>Notifications</h2>
 <p>If you turn on the optional study reminder, Elements schedules a local notification on your device at the time you choose. It is scheduled and delivered entirely on-device — no notification content leaves your device, and Elements sends no push notifications from any server.</p>
 
-<h2>Apple Watch</h2>
-<p>If you use the Apple Watch app, your study progress is exchanged directly between your iPhone and your paired Watch using Apple&rsquo;s on-device device-to-device connection. This sync does not pass through any server or cloud belonging to the developer.</p>
+<h2>Watch apps</h2>
+<p>If you use the Apple Watch app, your study progress is exchanged directly between your iPhone and your paired Watch using Apple&rsquo;s on-device device-to-device connection. This sync does not pass through any server or cloud belonging to the developer. The Wear OS app uses bundled element data on the watch and does not use a developer server or cloud sync.</p>
 
 <h2>On-device explainer (Apple Foundation Models)</h2>
 <p>On a device that supports Apple&rsquo;s Foundation Models framework (iOS 26+ with Apple Intelligence enabled, on a capable iPhone), Elements may use the on-device model to phrase a short plain-language explanation of an element. This processing happens entirely on your device: your request is not uploaded, and the result is not stored or sent. If Apple Intelligence is not available, Elements simply uses its bundled written content instead — no network is involved either way.</p>
 
 <h2>Purchases</h2>
-<p>Elements is free to download with <strong>3 days of full access</strong>. After the 3 days, a single optional <strong>one-time purchase</strong> unlocks the whole app permanently — there is no subscription and nothing auto-renews or auto-charges. That purchase is handled entirely by <strong>Apple&rsquo;s App Store</strong> (iOS) or <strong>Google Play</strong> (Android) through their own in-app purchase systems — when you start the trial or buy the unlock, the store contacts Apple&rsquo;s or Google&rsquo;s servers to record and verify it. Elements never sees or receives your name, payment card, or billing details. The developer receives only anonymous, aggregate sales figures from Apple and Google — never anything tied to you. Apple&rsquo;s and Google&rsquo;s handling of the transaction is governed by their own privacy policies.</p>
+<p>Elements is free to download with <strong>3 days of full access</strong>. Starting that 3-day access window happens locally on your device and does not create a subscription or charge. After the 3 days, a single optional <strong>one-time purchase</strong> unlocks the whole app permanently — there is no subscription and nothing auto-renews or auto-charges. That purchase or restore action is handled entirely by <strong>Apple&rsquo;s App Store</strong> (iOS) or <strong>Google Play</strong> (Android) through their own in-app purchase systems. Elements never sees or receives your name, payment card, or billing details. The developer receives only anonymous, aggregate sales figures from Apple and Google — never anything tied to you. Apple&rsquo;s and Google&rsquo;s handling of the transaction is governed by their own privacy policies.</p>
 
 <h2>Children</h2>
 <p>Elements does not knowingly collect any data from anyone of any age, because it collects nothing. The app contains no objectionable content and is rated 4+ (and the equivalent &ldquo;everyone&rdquo; rating on Google Play).</p>
@@ -118,7 +118,7 @@ ENGLISH_BODY = f"""<div class="rule"></div>
 
 <!-- trademarks -->
 <h2>Trademarks</h2>
-<p>Elements is a trademark of Rizk Corsight, LLC. Apple and App Store are trademarks of Apple Inc.; Google Play and Android are trademarks of Google LLC. All other product and company names are used for identification only and remain the property of their respective owners.</p>
+<p>Elements is a trademark of Rizk Corsight, LLC. Apple and App Store are trademarks of Apple Inc.; Google Play, Android, and Wear OS are trademarks of Google LLC. All other product and company names are used for identification only and remain the property of their respective owners.</p>
 
 <h2>Contact</h2>
 <p>Privacy questions or requests:<br>
