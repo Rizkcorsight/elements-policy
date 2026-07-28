@@ -11,12 +11,16 @@
         "p": "Elements تطبيق لدراسة الجدول الدوري يعمل محليًا فقط. لا يحتاج إلى حساب، ولا يبيع أي بيانات شخصية، ولا يعرض إعلانات، ولا يستخدم أي تحليلات أو تتبُّع. تبقى البيانات التي تنشئها على جهازك، داخل وحدة التخزين الخاصة بالتطبيق: مجموعات الدراسة والبطاقات التعليمية الخاصة بك، وسجل المراجعة وجدول التكرار المتباعد، والعناصر التي ميَّزتها بنجمة، وإعداداتك."
       },
       {
+        "h": "الحذف وإعادة التثبيت",
+        "p": "يؤدي حذف المجموعة إلى إزالتها. يؤدي إلغاء تثبيت Elements إلى إزالة محتوى الدراسة والسجل والمفضلات والإعدادات من وضع حماية التطبيق. لمنع الاستخدام المتكرر لفترة الوصول التمهيدية، قد تظل علامات الأهلية الصغيرة الخاصة بالجهاز فقط في مساحة تخزين النظام الآمنة بعد إلغاء التثبيت وإعادة التثبيت. وهي تحتوي على توقيت الوصول وحالته فقط - وليس هويتك أو محتوى الدراسة - ولا يتم إرسالها مطلقًا إلى المطور."
+      },
+      {
         "h": "ما لا نجمعه",
         "p": "لا نجمع اسمك أو بريدك الإلكتروني أو رقم هاتفك أو موقعك أو معرِّفات الإعلانات أو جهات اتصالك أو الميكروفون أو بيانات الاستخدام. لا توجد أي حزم تطوير برمجية (SDK) للإعلانات أو التحليلات أو الإسناد أو التتبُّع."
       },
       {
         "h": "المشتريات",
-        "p": "تنزيل Elements مجاني مع 3 أيام من الوصول الكامل. وبعد ذلك، يؤدي شراء واحد اختياري لمرة واحدة فقط إلى فتح التطبيق بالكامل بشكل دائم — لا يوجد اشتراك، ولا شيء يتجدد تلقائيًا أو يُحصَّل تلقائيًا. يتولى App Store (على iOS/macOS) أو Google Play (على Android) عملية الشراء؛ ولا يطّلع Elements أبدًا على اسمك أو بطاقة الدفع أو تفاصيل الفوترة الخاصة بك. يبدأ تفعيل نافذة الوصول هذه لمدة 3 أيام محليًا على جهازك، ولا ينشئ اشتراكًا أو يفرض أي رسوم؛ ولا يتم الاتصال بالمتجر إلا إذا اخترت شراء الفتح أو استعادته."
+        "p": "Elements يتضمن 3 أيام من الوصول الكامل. يتم بدء فترة الوصول هذه محليًا على جهازك ولا يؤدي إلى إنشاء اشتراك أو رسوم. بعد 3 أيام، تؤدي عملية شراء اختيارية واحدة لمرة واحدة إلى فتح التطبيق بالكامل بشكل دائم - لا يوجد اشتراك ولا يتم تجديد أي شيء أو تحصيل رسوم تلقائيًا. يتولى App Store (iOS وmacOS) أو Google Play (Android) عملية الشراء؛ Elements لا يرى أبدًا اسمك أو بطاقة الدفع أو تفاصيل الفواتير. يتم الاتصال بالمتجر فقط إذا اخترت شراء إلغاء القفل أو استعادته."
       },
       {
         "h": "استخدام الشبكة",
@@ -56,12 +60,16 @@
         "p": "Elements е приложение за изучаване на периодичната таблица, което работи изцяло локално. То не изисква акаунт, не продава лични данни, не показва реклами и не използва анализ или проследяване. Данните, които създавате, остават на вашето устройство, в частното хранилище на приложението: вашите учебни тестета и флашкарти, вашата история на повторенията и графикът за интервално повторение, вашите отбелязани със звезда елементи и вашите настройки."
       },
       {
+        "h": "Изтриване и повторно инсталиране",
+        "p": "Изтриването на тесте го премахва. Деинсталирането на Elements премахва учебно съдържание, история, любими и настройки от пясъчната среда на приложението. За да се предотврати повторното използване на въвеждащия период на достъп, малки маркери за допустимост само за устройства може да останат в защитено системно хранилище след деинсталиране и повторно инсталиране. Те съдържат само времето за достъп и състоянието – не вашата самоличност или учебно съдържание – и никога не се изпращат на разработчика."
+      },
+      {
         "h": "Какво не събираме",
         "p": "Не събираме вашето име, имейл, телефонен номер, местоположение, рекламни идентификатори, контакти, микрофон или данни за използване. Няма рекламни, аналитични, атрибуционни или проследяващи SDK-та."
       },
       {
         "h": "Покупки",
-        "p": "Elements е безплатно за изтегляне с 3 дни пълен достъп. След това една незадължителна еднократна покупка отключва цялото приложение завинаги — няма абонамент и нищо не се подновява или таксува автоматично. App Store (iOS/macOS) или Google Play (Android) обработва покупката; Elements никога не вижда вашето име, платежна карта или данни за фактуриране. Стартирането на този 3-дневен достъп става локално на устройството ви и не създава абонамент или такса; магазинът се използва само ако изберете да купите или възстановите отключването."
+        "p": "Elements включва 3 дни пълен достъп. Стартирането на този период на достъп се случва локално на вашето устройство и не създава абонамент или такса. След 3 дни една незадължителна еднократна покупка отключва цялото приложение за постоянно - няма абонамент и нищо не се подновява или таксува автоматично. App Store (iOS и macOS) или Google Play (Android) обработва покупката; Elements никога не вижда вашето име, платежна карта или данни за плащане. С магазина се свързва само ако изберете да купите или възстановите отключването."
       },
       {
         "h": "Използване на мрежата",
@@ -101,12 +109,16 @@
         "p": "Elements একটি শুধুমাত্র-স্থানীয় পর্যায় সারণি অধ্যয়ন অ্যাপ। এর জন্য কোনো অ্যাকাউন্ট প্রয়োজন হয় না, কোনো ব্যক্তিগত তথ্য বিক্রি করে না, কোনো বিজ্ঞাপন দেখায় না, এবং কোনো বিশ্লেষণ বা ট্র্যাকিং ব্যবহার করে না। আপনি যে তথ্য তৈরি করেন তা আপনার ডিভাইসেই থাকে, অ্যাপের ব্যক্তিগত স্টোরেজে: আপনার অধ্যয়ন ডেক ও ফ্ল্যাশকার্ড, আপনার পর্যালোচনার ইতিহাস ও দূরত্বযুক্ত-পুনরাবৃত্তির সময়সূচি, আপনার তারকাচিহ্নিত মৌল, এবং আপনার সেটিংস।"
       },
       {
+        "h": "মুছে ফেলুন এবং পুনরায় ইনস্টল করুন",
+        "p": "একটি ডেক মুছে ফেলা এটিকে সরিয়ে দেয়। Elements আনইনস্টল করলে অ্যাপ স্যান্ডবক্স থেকে অধ্যয়নের বিষয়বস্তু, ইতিহাস, পছন্দ এবং সেটিংস মুছে যায়। প্রারম্ভিক অ্যাক্সেস পিরিয়ডের বারবার ব্যবহার রোধ করতে, ছোট ডিভাইস-শুধু যোগ্যতা মার্কারগুলি আনইনস্টল এবং পুনরায় ইনস্টল করার পরে সুরক্ষিত সিস্টেম স্টোরেজে থাকতে পারে। এগুলিতে অ্যাক্সেসের সময় এবং স্থিতি শুধুমাত্র থাকে—আপনার পরিচয় বা অধ্যয়নের সামগ্রী নয়—এবং কখনই বিকাশকারীকে পাঠানো হয় না৷"
+      },
+      {
         "h": "আমরা যা সংগ্রহ করি না",
         "p": "আমরা আপনার নাম, ইমেল, ফোন নম্বর, অবস্থান, বিজ্ঞাপন শনাক্তকারী, পরিচিতি, মাইক্রোফোন, বা ব্যবহারের তথ্য সংগ্রহ করি না। কোনো বিজ্ঞাপন, বিশ্লেষণ, অ্যাট্রিবিউশন, বা ট্র্যাকিং SDK নেই।"
       },
       {
         "h": "কেনাকাটা",
-        "p": "Elements ৩ দিনের সম্পূর্ণ অ্যাক্সেস সহ বিনামূল্যে ডাউনলোড করা যায়। এর পরে, একটি একক ঐচ্ছিক এককালীন কেনাকাটা পুরো অ্যাপটিকে স্থায়ীভাবে আনলক করে — কোনো সাবস্ক্রিপশন নেই, এবং কিছুই স্বয়ংক্রিয়ভাবে নবায়ন বা স্বয়ংক্রিয়ভাবে চার্জ হয় না। App Store (iOS/macOS) বা Google Play (Android) কেনাকাটাটি পরিচালনা করে; Elements কখনোই আপনার নাম, পেমেন্ট কার্ড, বা বিলিং বিবরণ দেখে না। এই ৩ দিনের অ্যাক্সেস শুরু হওয়া আপনার ডিভাইসেই স্থানীয়ভাবে ঘটে এবং কোনো সাবস্ক্রিপশন বা চার্জ তৈরি করে না; আপনি আনলকটি কিনতে বা পুনরুদ্ধার করতে বেছে নিলেই কেবল স্টোরের সঙ্গে যোগাযোগ করা হয়।"
+        "p": "Elements পূর্ণ অ্যাক্সেসের 3 দিনের অন্তর্ভুক্ত। এই অ্যাক্সেসের সময়কাল শুরু করা আপনার ডিভাইসে স্থানীয়ভাবে ঘটবে এবং একটি সদস্যতা বা চার্জ তৈরি করে না। 3 দিন পর, একটি একক ঐচ্ছিক এক-সময়ের কেনাকাটা পুরো অ্যাপটিকে স্থায়ীভাবে আনলক করে—কোন সাবস্ক্রিপশন নেই এবং কিছুই স্বয়ংক্রিয়ভাবে রিনিউ বা চার্জ হয় না। App Store (iOS এবং macOS) বা Google Play (Android) ক্রয় পরিচালনা করে; Elements কখনই আপনার নাম, পেমেন্ট কার্ড বা বিলিং বিশদ দেখতে পায় না। আপনি যদি আনলক কিনতে বা পুনরুদ্ধার করতে চান তবেই দোকানের সাথে যোগাযোগ করা হয়।"
       },
       {
         "h": "নেটওয়ার্ক ব্যবহার",
@@ -146,12 +158,16 @@
         "p": "Elements és una aplicació d'estudi de la taula periòdica que funciona només en local. No necessita cap compte, no ven cap dada personal, no mostra anuncis i no fa servir cap mena d'analítica ni seguiment. Les dades que crees es queden al teu dispositiu, a l'emmagatzematge privat de l'aplicació: les teves baralles d'estudi i targetes, el teu historial de repàs i la teva planificació de repetició espaiada, els elements que has marcat amb una estrella i la teva configuració."
       },
       {
+        "h": "Eliminació i reinstal·lació",
+        "p": "L'eliminació d'una plataforma s'elimina. En desinstal·lar Elements, s'elimina el contingut de l'estudi, l'historial, els preferits i la configuració de la zona de proves de l'aplicació. Per evitar l'ús repetit del període d'accés introductori, els marcadors d'elegibilitat només per a dispositius petits poden romandre a l'emmagatzematge segur del sistema després de la desinstal·lació i la reinstal·lació. Contenen només el temps i l'estat d'accés, no la vostra identitat ni el contingut de l'estudi, i mai s'envien al desenvolupador."
+      },
+      {
         "h": "Què no recollim",
         "p": "No recollim el teu nom, correu electrònic, número de telèfon, ubicació, identificadors publicitaris, contactes, micròfon ni dades d'ús. No hi ha cap SDK de publicitat, analítica, atribució ni seguiment."
       },
       {
         "h": "Compres",
-        "p": "Elements es pot baixar gratuïtament amb 3 dies d'accés complet. Després, una única compra opcional, d'un sol pagament, desbloqueja tota l'aplicació de manera permanent: no hi ha cap subscripció, i res no es renova ni es cobra automàticament. L'App Store (iOS/macOS) o Google Play (Android) gestiona la compra; Elements mai no veu el teu nom, la teva targeta de pagament ni les teves dades de facturació. L’inici d’aquesta finestra d’accés de 3 dies es fa localment al dispositiu i no crea cap subscripció ni cap càrrec; només es contacta amb la botiga si decideixes comprar o restaurar el desbloqueig."
+        "p": "Elements inclou 3 dies d'accés complet. L'inici d'aquest període d'accés es fa localment al dispositiu i no crea cap subscripció ni càrrec. Després de 3 dies, una única compra opcional única desbloqueja tota l'aplicació de manera permanent; no hi ha cap subscripció i res es renova ni es cobra automàticament. El App Store (iOS i macOS) o Google Play (Android) s'encarrega de la compra; Elements no veu mai el vostre nom, targeta de pagament o detalls de facturació. Només es contacta amb la botiga si decidiu comprar o restaurar el desbloqueig."
       },
       {
         "h": "Ús de la xarxa",
@@ -191,12 +207,16 @@
         "p": "Elements je aplikace pro studium periodické tabulky, která funguje výhradně lokálně. Nevyžaduje žádný účet, neprodává žádné osobní údaje, nezobrazuje žádné reklamy a nepoužívá žádné analytické ani sledovací nástroje. Data, která vytvoříte, zůstávají ve vašem zařízení, v soukromém úložišti aplikace: vaše studijní balíčky a kartičky, vaše historie opakování a plán rozloženého opakování, vaše označené prvky a vaše nastavení."
       },
       {
+        "h": "Odstranění a přeinstalace",
+        "p": "Smazáním balíček odstraníte. Odinstalování Elements odstraní studijní obsah, historii, oblíbené položky a nastavení z karantény aplikace. Aby se zabránilo opakovanému použití úvodního období přístupu, mohou po odinstalaci a opětovné instalaci zůstat v zabezpečeném systémovém úložišti malé značky způsobilosti pouze pro zařízení. Obsahují pouze časování a stav přístupu – nikoli vaši identitu nebo studijní obsah – a nikdy se neodesílají vývojáři."
+      },
+      {
         "h": "Co neshromažďujeme",
         "p": "Neshromažďujeme vaše jméno, e-mail, telefonní číslo, polohu, reklamní identifikátory, kontakty, mikrofon ani údaje o používání. Nejsou zde žádné reklamní, analytické, atribuční ani sledovací SDK."
       },
       {
         "h": "Nákupy",
-        "p": "Aplikaci Elements lze stáhnout zdarma se 3 dny plného přístupu. Poté jediný volitelný jednorázový nákup trvale odemkne celou aplikaci — neexistuje žádné předplatné a nic se automaticky neobnovuje ani automaticky neúčtuje. Nákup zpracovává App Store (iOS/macOS) nebo Google Play (Android); Elements nikdy nevidí vaše jméno, platební kartu ani fakturační údaje. Spuštění tohoto 3denního přístupu probíhá místně ve vašem zařízení a nevytváří předplatné ani poplatek; obchod se kontaktuje pouze tehdy, když se rozhodnete odemčení koupit nebo obnovit."
+        "p": "Elements zahrnuje 3 dny plného přístupu. Zahájení tohoto období přístupu se děje místně ve vašem zařízení a nevytváří předplatné ani poplatek. Po 3 dnech jeden volitelný jednorázový nákup odemkne celou aplikaci trvale – neexistuje žádné předplatné a nic se automaticky neobnovuje ani neúčtuje. Nákup zajišťuje App Store (iOS a macOS) nebo Google Play (Android); Elements nikdy neuvidí vaše jméno, platební kartu ani fakturační údaje. Obchod je kontaktován pouze v případě, že se rozhodnete koupit nebo obnovit odemknutí."
       },
       {
         "h": "Používání sítě",
@@ -236,12 +256,16 @@
         "p": "Elements er en studieapp om det periodiske system, der udelukkende fungerer lokalt. Den kræver ingen konto, sælger ingen personoplysninger, viser ingen annoncer og bruger hverken analyse eller sporing. De data, du opretter, forbliver på din enhed i appens private lagerplads: dine studiebunker og flashcards, din gennemgangshistorik og dit skema for spaced repetition, dine markerede grundstoffer og dine indstillinger."
       },
       {
+        "h": "Slet og geninstaller",
+        "p": "Sletning af et kortspil fjerner det. Afinstallation af Elements fjerner studieindhold, historie, favoritter og indstillinger fra app-sandkassen. For at forhindre gentagen brug af den indledende adgangsperiode kan små berettigelsesmarkører, der kun er enheder, forblive i et sikkert systemlager efter afinstallation og geninstallation. De indeholder kun adgangstiming og status – ikke din identitet eller studieindhold – og sendes aldrig til udvikleren."
+      },
+      {
         "h": "Hvad vi ikke indsamler",
         "p": "Vi indsamler ikke dit navn, din e-mail, dit telefonnummer, din placering, annonce-id'er, dine kontakter, mikrofon eller brugsdata. Der er ingen SDK'er til annoncering, analyse, attribution eller sporing."
       },
       {
         "h": "Køb",
-        "p": "Elements er gratis at downloade med 3 dages fuld adgang. Derefter låser et enkelt valgfrit engangskøb hele appen op permanent — der er intet abonnement, og intet fornyes eller opkræves automatisk. App Store (iOS/macOS) eller Google Play (Android) håndterer købet; Elements ser aldrig dit navn, dit betalingskort eller dine faktureringsoplysninger. Starten af denne 3-dages adgang sker lokalt på din enhed og opretter ikke et abonnement eller en betaling; butikken kontaktes kun, hvis du vælger at købe eller gendanne oplåsningen."
+        "p": "Elements inkluderer 3 dages fuld adgang. Start af denne adgangsperiode sker lokalt på din enhed og opretter ikke et abonnement eller opkrævning. Efter 3 dage låser et enkelt valgfrit engangskøb hele appen op permanent - der er intet abonnement, og intet fornyes eller opkræves automatisk. App Store (iOS og macOS) eller Google Play (Android) håndterer købet; Elements ser aldrig dit navn, betalingskort eller faktureringsoplysninger. Butikken kontaktes kun, hvis du vælger at købe eller gendanne oplåsningen."
       },
       {
         "h": "Netværksbrug",
@@ -281,12 +305,16 @@
         "p": "Elements ist eine Lern-App zum Periodensystem, die ausschließlich lokal arbeitet. Sie benötigt kein Konto, verkauft keine personenbezogenen Daten, zeigt keine Werbung und verwendet keine Analyse oder kein Tracking. Die von Ihnen erstellten Daten verbleiben auf Ihrem Gerät, im privaten Speicher der App: Ihre Lernstapel und Lernkarten, Ihr Wiederholungsverlauf und Ihr Zeitplan für verteiltes Wiederholen, Ihre markierten Elemente sowie Ihre Einstellungen."
       },
       {
+        "h": "Löschen und neu installieren",
+        "p": "Durch das Löschen eines Decks wird es entfernt. Durch die Deinstallation von Elements werden Lerninhalte, Verlauf, Favoriten und Einstellungen aus der App-Sandbox entfernt. Um eine wiederholte Nutzung des Einführungszugriffszeitraums zu verhindern, können kleine, nur für Geräte bestimmte Berechtigungsmarkierungen nach der Deinstallation und Neuinstallation im sicheren Systemspeicher verbleiben. Sie enthalten nur Zugriffszeit und -status – nicht Ihre Identität oder Studieninhalte – und werden niemals an den Entwickler gesendet."
+      },
+      {
         "h": "Was wir nicht erfassen",
         "p": "Wir erfassen weder Ihren Namen, Ihre E-Mail-Adresse, Ihre Telefonnummer, Ihren Standort, Werbe-Identifikatoren, Ihre Kontakte, Ihr Mikrofon noch Nutzungsdaten. Es gibt keine SDKs für Werbung, Analyse, Attribution oder Tracking."
       },
       {
         "h": "Käufe",
-        "p": "Elements kann kostenlos heruntergeladen werden und bietet 3 Tage lang vollen Zugriff. Danach schaltet ein einziger optionaler Einmalkauf die gesamte App dauerhaft frei — es gibt kein Abonnement, und nichts verlängert sich oder wird automatisch berechnet. Der Kauf wird vom App Store (iOS/macOS) oder von Google Play (Android) abgewickelt; Elements sieht niemals Ihren Namen, Ihre Zahlungskarte oder Ihre Rechnungsdaten. Der Start dieses 3-tägigen Zugriffs erfolgt lokal auf Ihrem Gerät und erzeugt weder ein Abonnement noch eine Gebühr; der Store wird nur kontaktiert, wenn Sie die Freischaltung kaufen oder wiederherstellen."
+        "p": "Elements beinhaltet 3 Tage vollen Zugriff. Der Beginn dieses Zugriffszeitraums erfolgt lokal auf Ihrem Gerät und führt weder zu einem Abonnement noch zu einer Gebühr. Nach 3 Tagen wird durch einen einzigen optionalen Einmalkauf die gesamte App dauerhaft freigeschaltet – es gibt kein Abonnement und nichts wird automatisch verlängert oder aufgeladen. Der App Store (iOS und macOS) oder Google Play (Android) wickelt den Kauf ab; Elements sieht niemals Ihren Namen, Ihre Zahlungskarte oder Ihre Rechnungsdaten. Der Shop wird nur dann kontaktiert, wenn Sie sich für den Kauf oder die Wiederherstellung der Entsperrung entscheiden."
       },
       {
         "h": "Netzwerknutzung",
@@ -326,12 +354,16 @@
         "p": "Το Elements είναι μια εφαρμογή μελέτης του περιοδικού πίνακα που λειτουργεί αποκλειστικά τοπικά. Δεν απαιτεί λογαριασμό, δεν πουλά προσωπικά δεδομένα, δεν εμφανίζει διαφημίσεις και δεν χρησιμοποιεί αναλυτικά στοιχεία ή παρακολούθηση. Τα δεδομένα που δημιουργείτε παραμένουν στη συσκευή σας, στον ιδιωτικό χώρο αποθήκευσης της εφαρμογής: οι τράπουλες μελέτης και οι κάρτες σας, το ιστορικό επανάληψης και το πρόγραμμα διαστηματικής επανάληψης, τα στοιχεία που έχετε επισημάνει με αστέρι και οι ρυθμίσεις σας."
       },
       {
+        "h": "Διαγραφή και επανεγκατάσταση",
+        "p": "Η διαγραφή ενός καταστρώματος το καταργεί. Η απεγκατάσταση του Elements καταργεί το περιεχόμενο μελέτης, το ιστορικό, τα αγαπημένα και τις ρυθμίσεις από το sandbox της εφαρμογής. Για να αποφευχθεί η επαναλαμβανόμενη χρήση της εισαγωγικής περιόδου πρόσβασης, οι μικροί δείκτες καταλληλότητας μόνο για συσκευές ενδέχεται να παραμείνουν σε ασφαλή αποθήκευση συστήματος μετά την απεγκατάσταση και την επανεγκατάσταση. Περιέχουν μόνο χρόνο πρόσβασης και κατάσταση—όχι την ταυτότητά σας ή το περιεχόμενο μελέτης—και δεν αποστέλλονται ποτέ στον προγραμματιστή."
+      },
+      {
         "h": "Τι δεν συλλέγουμε",
         "p": "Δεν συλλέγουμε το όνομά σας, το email, τον αριθμό τηλεφώνου, την τοποθεσία, τα διαφημιστικά αναγνωριστικά, τις επαφές, το μικρόφωνο ή δεδομένα χρήσης. Δεν υπάρχουν SDK διαφήμισης, αναλυτικών στοιχείων, απόδοσης ή παρακολούθησης."
       },
       {
         "h": "Αγορές",
-        "p": "Το Elements είναι δωρεάν για λήψη με 3 ημέρες πλήρους πρόσβασης. Στη συνέχεια, μία προαιρετική εφάπαξ αγορά ξεκλειδώνει μόνιμα ολόκληρη την εφαρμογή — δεν υπάρχει συνδρομή και τίποτα δεν ανανεώνεται ή δεν χρεώνεται αυτόματα. Η αγορά διεκπεραιώνεται από το App Store (iOS/macOS) ή το Google Play (Android)· το Elements δεν βλέπει ποτέ το όνομά σας, την κάρτα πληρωμής ή τα στοιχεία χρέωσής σας. Η έναρξη αυτού του παραθύρου πρόσβασης 3 ημερών γίνεται τοπικά στη συσκευή σας και δεν δημιουργεί συνδρομή ή χρέωση· το κατάστημα επικοινωνείται μόνο αν επιλέξετε να αγοράσετε ή να επαναφέρετε το ξεκλείδωμα."
+        "p": "Το Elements περιλαμβάνει 3 ημέρες πλήρους πρόσβασης. Η έναρξη αυτής της περιόδου πρόσβασης πραγματοποιείται τοπικά στη συσκευή σας και δεν δημιουργεί συνδρομή ή χρέωση. Μετά από 3 ημέρες, μια προαιρετική εφάπαξ αγορά ξεκλειδώνει μόνιμα ολόκληρη την εφαρμογή—δεν υπάρχει συνδρομή και τίποτα δεν ανανεώνεται ή χρεώνεται αυτόματα. Το App Store (iOS και macOS) ή το Google Play (Android) χειρίζεται την αγορά. Το Elements δεν βλέπει ποτέ το όνομά σας, την κάρτα πληρωμής ή τα στοιχεία χρέωσης. Επικοινωνήστε με το κατάστημα μόνο εάν επιλέξετε να αγοράσετε ή να επαναφέρετε το ξεκλείδωμα."
       },
       {
         "h": "Χρήση δικτύου",
@@ -371,12 +403,16 @@
         "p": "Elements is a local-only periodic-table study app. It needs no account, sells no personal data, shows no adverts, and uses no analytics or tracking. The data you create stays on your device, in the app's private storage: your study decks and flashcards, your revision history and spaced-repetition schedule, your starred elements, and your settings."
       },
       {
+        "h": "Deletion and reinstall",
+        "p": "Deleting a deck removes it. Uninstalling Elements removes study content, history, favorites, and settings from the app sandbox. To prevent repeated use of the introductory access period, small device-only eligibility markers may remain in secure system storage after uninstall and reinstall. They contain access timing and status only—not your identity or study content—and are never sent to the developer."
+      },
+      {
         "h": "What we don't collect",
         "p": "We don't collect your name, email, phone number, location, advertising identifiers, contacts, microphone, or usage data. There are no advertising, analytics, attribution, or tracking SDKs."
       },
       {
         "h": "Purchases",
-        "p": "Elements is free to download with 3 days of full access. After that, a single optional one-off purchase unlocks the whole app permanently — there is no subscription, and nothing auto-renews or auto-charges. The App Store (iOS/macOS) or Google Play (Android) handles the purchase; Elements never sees your name, payment card, or billing details. Starting that 3-day access window happens locally on your device and does not create a subscription or charge; the store is contacted only if you choose to buy or restore the unlock."
+        "p": "Elements includes 3 days of full access. Starting this access period happens locally on your device and does not create a subscription or charge. After 3 days, a single optional one-time purchase unlocks the whole app permanently—there is no subscription and nothing renews or charges automatically. The App Store (iOS and macOS) or Google Play (Android) handles the purchase; Elements never sees your name, payment card, or billing details. The store is contacted only if you choose to buy or restore the unlock."
       },
       {
         "h": "Network use",
@@ -416,12 +452,16 @@
         "p": "Elements es una aplicación de estudio de la tabla periódica que funciona únicamente en local. No requiere ninguna cuenta, no vende datos personales, no muestra anuncios y no utiliza analíticas ni seguimiento. Los datos que creas permanecen en tu dispositivo, en el almacenamiento privado de la aplicación: tus barajas de estudio y tarjetas, tu historial de repaso y tu calendario de repetición espaciada, los elementos que has marcado con estrella y tus ajustes."
       },
       {
+        "h": "Eliminación y reinstalación",
+        "p": "Al eliminar un mazo, se elimina. La desinstalación de Elements elimina el contenido del estudio, el historial, los favoritos y la configuración del entorno de pruebas de la aplicación. Para evitar el uso repetido del período de acceso introductorio, pequeños marcadores de elegibilidad exclusivos del dispositivo pueden permanecer en el almacenamiento seguro del sistema después de la desinstalación y reinstalación. Contienen únicamente el tiempo y el estado del acceso (no su identidad ni el contenido del estudio) y nunca se envían al desarrollador."
+      },
+      {
         "h": "Lo que no recopilamos",
         "p": "No recopilamos tu nombre, correo electrónico, número de teléfono, ubicación, identificadores publicitarios, contactos, micrófono ni datos de uso. No hay SDK de publicidad, analíticas, atribución ni seguimiento."
       },
       {
         "h": "Compras",
-        "p": "Elements es de descarga gratuita con 3 días de acceso completo. Después, una única compra opcional, de pago por una sola vez, desbloquea toda la aplicación de forma permanente: no hay suscripción y nada se renueva ni se cobra automáticamente. La compra la gestiona el App Store (iOS/macOS) o Google Play (Android); Elements nunca ve tu nombre, tu tarjeta de pago ni tus datos de facturación. El inicio de esa ventana de acceso de 3 días ocurre localmente en tu dispositivo y no crea una suscripción ni un cargo; solo se contacta con la tienda si decides comprar o restaurar el desbloqueo."
+        "p": "Elements incluye 3 días de acceso completo. El inicio de este período de acceso ocurre localmente en su dispositivo y no crea una suscripción ni un cargo. Después de 3 días, una única compra opcional desbloquea toda la aplicación de forma permanente: no hay suscripción y nada se renueva ni se cobra automáticamente. El App Store (iOS y macOS) o Google Play (Android) se encarga de la compra; Elements nunca ve su nombre, tarjeta de pago ni datos de facturación. Se contacta a la tienda solo si elige comprar o restaurar el desbloqueo."
       },
       {
         "h": "Uso de la red",
@@ -461,12 +501,16 @@
         "p": "Elements es una aplicación de estudio de la tabla periódica que funciona únicamente en tu dispositivo. No necesita cuenta, no vende datos personales, no muestra anuncios y no usa analíticas ni rastreo. Los datos que creas permanecen en tu dispositivo, en el almacenamiento privado de la aplicación: tus mazos de estudio y tarjetas, tu historial de repaso y tu calendario de repetición espaciada, los elementos que marcaste con estrella y tu configuración."
       },
       {
+        "h": "Eliminación y reinstalación",
+        "p": "Al eliminar un mazo, se elimina. La desinstalación de Elements elimina el contenido del estudio, el historial, los favoritos y la configuración del entorno de pruebas de la aplicación. Para evitar el uso repetido del período de acceso introductorio, pequeños marcadores de elegibilidad exclusivos del dispositivo pueden permanecer en el almacenamiento seguro del sistema después de la desinstalación y reinstalación. Contienen únicamente el tiempo y el estado del acceso (no su identidad ni el contenido del estudio) y nunca se envían al desarrollador."
+      },
+      {
         "h": "Lo que no recopilamos",
         "p": "No recopilamos tu nombre, correo electrónico, número de teléfono, ubicación, identificadores publicitarios, contactos, micrófono ni datos de uso. No hay SDK de publicidad, analíticas, atribución ni rastreo."
       },
       {
         "h": "Compras",
-        "p": "Elements es gratis para descargar y ofrece 3 días de acceso completo. Después de eso, una única compra opcional por pago único desbloquea toda la aplicación de forma permanente: no hay suscripción, y nada se renueva ni se cobra automáticamente. La App Store (iOS/macOS) o Google Play (Android) se encarga de la compra; Elements nunca ve tu nombre, tu tarjeta de pago ni tus datos de facturación. El inicio de esa ventana de acceso de 3 días ocurre localmente en tu dispositivo y no crea una suscripción ni un cargo; solo se contacta con la tienda si decides comprar o restaurar el desbloqueo."
+        "p": "Elements incluye 3 días de acceso completo. El inicio de este período de acceso ocurre localmente en su dispositivo y no crea una suscripción ni un cargo. Después de 3 días, una única compra opcional desbloquea toda la aplicación de forma permanente: no hay suscripción y nada se renueva ni se cobra automáticamente. El App Store (iOS y macOS) o Google Play (Android) se encarga de la compra; Elements nunca ve su nombre, tarjeta de pago ni datos de facturación. Se contacta a la tienda solo si elige comprar o restaurar el desbloqueo."
       },
       {
         "h": "Uso de la red",
@@ -506,12 +550,16 @@
         "p": "Elements on ainult seadmes töötav perioodilisustabeli õpirakendus. See ei vaja kontot, ei müü isikuandmeid, ei kuva reklaame ega kasuta analüütikat ega jälgimist. Sinu loodud andmed jäävad sinu seadmesse rakenduse privaatsesse salvestusruumi: sinu õpikaardikomplektid ja sõnakaardid, sinu kordamisajalugu ja vahekorduste ajakava, sinu tärniga märgitud elemendid ning sinu seaded."
       },
       {
+        "h": "Kustutamine ja uuesti installimine",
+        "p": "Teki kustutamine eemaldab selle. Elements desinstallimine eemaldab rakenduse liivakastist õppesisu, ajaloo, lemmikud ja seaded. Sissejuhatava juurdepääsuperioodi korduva kasutamise vältimiseks võivad väikesed ainult seadmetele mõeldud sobilikkuse markerid pärast desinstallimist ja uuesti installimist jääda süsteemi turvalisse salvestusruumi. Need sisaldavad ainult juurdepääsu ajastust ja olekut – mitte teie identiteeti ega õppesisu – ning neid ei saadeta kunagi arendajale."
+      },
+      {
         "h": "Mida me ei kogu",
         "p": "Me ei kogu sinu nime, e-posti aadressi, telefoninumbrit, asukohta, reklaamitunnuseid, kontakte, mikrofoni ega kasutusandmeid. Puuduvad reklaami-, analüütika-, omistamis- ja jälgimis-SDK-d."
       },
       {
         "h": "Ostud",
-        "p": "Elementsi saab tasuta alla laadida koos 3-päevase täisjuurdepääsuga. Pärast seda avab üksainus valikuline ühekordne ost kogu rakenduse jäädavalt — puudub tellimus ning miski ei uuene ega arvelda automaatselt. Ostu haldab App Store (iOS/macOS) või Google Play (Android); Elements ei näe kunagi sinu nime, maksekaarti ega arveldusandmeid. Selle 3-päevase juurdepääsu alustamine toimub kohalikult sinu seadmes ega loo tellimust ega tasu; poodi võetakse ühendust ainult siis, kui valid avamise ostmise või taastamise."
+        "p": "Elements sisaldab 3-päevast täielikku juurdepääsu. Selle juurdepääsuperioodi algus toimub teie seadmes kohapeal ja see ei loo tellimust ega tasu. Kolme päeva pärast avab üks valikuline ühekordne ost jäädavalt kogu rakenduse – tellimust ei ole ning midagi ei uuendata ega tasu automaatselt. Ostmisega tegeleb App Store (iOS ja macOS) või Google Play (Android); Elements ei näe kunagi teie nime, maksekaarti ega arveldusandmeid. Poega võetakse ühendust ainult siis, kui otsustate avamise osta või taastada."
       },
       {
         "h": "Võrgukasutus",
@@ -551,12 +599,16 @@
         "p": "Elements یک برنامهٔ مطالعهٔ جدول تناوبی است که کاملاً به‌صورت محلی کار می‌کند. به هیچ حسابی نیاز ندارد، هیچ داده‌ای شخصی نمی‌فروشد، هیچ تبلیغی نمایش نمی‌دهد و از هیچ ابزار تحلیلی یا ردیابی استفاده نمی‌کند. داده‌هایی که می‌سازید روی دستگاه شما و در فضای ذخیره‌سازی خصوصی برنامه باقی می‌مانند: دسته‌های مطالعه و فلش‌کارت‌های شما، سابقهٔ مرور و برنامهٔ تکرار با فاصلهٔ زمانی شما، عناصر ستاره‌دار شما و تنظیمات شما."
       },
       {
+        "h": "حذف و نصب مجدد",
+        "p": "حذف یک عرشه آن را حذف می کند. حذف نصب Elements محتوای مطالعه، تاریخچه، موارد دلخواه و تنظیمات را از جعبه ایمنی برنامه حذف می کند. برای جلوگیری از استفاده مکرر از دوره دسترسی مقدماتی، نشانگرهای واجد شرایط بودن دستگاه کوچک ممکن است پس از حذف نصب و نصب مجدد در فضای ذخیره سازی امن سیستم باقی بمانند. آنها فقط شامل زمان و وضعیت دسترسی هستند - نه هویت یا محتوای مطالعه شما - و هرگز برای توسعه دهنده ارسال نمی شوند."
+      },
+      {
         "h": "آنچه جمع‌آوری نمی‌کنیم",
         "p": "ما نام، ایمیل، شمارهٔ تلفن، موقعیت مکانی، شناسه‌های تبلیغاتی، مخاطبین، میکروفون یا داده‌های استفادهٔ شما را جمع‌آوری نمی‌کنیم. هیچ SDK تبلیغاتی، تحلیلی، انتساب یا ردیابی وجود ندارد."
       },
       {
         "h": "خریدها",
-        "p": "دانلود Elements رایگان است و ۳ روز دسترسی کامل دارید. پس از آن، یک خرید اختیاری یک‌بار برای همیشه، کل برنامه را به‌طور دائمی باز می‌کند — هیچ اشتراکی وجود ندارد و هیچ‌چیز به‌طور خودکار تمدید یا از حساب کسر نمی‌شود. App Store (در iOS/macOS) یا Google Play (در Android) خرید را مدیریت می‌کند؛ Elements هرگز نام، کارت پرداخت یا جزئیات صورت‌حساب شما را نمی‌بیند. شروع این دورهٔ ۳ روزهٔ دسترسی به‌صورت محلی روی دستگاه شما انجام می‌شود و هیچ اشتراک یا هزینه‌ای ایجاد نمی‌کند؛ فروشگاه فقط وقتی تماس گرفته می‌شود که خودتان خرید یا بازیابی قفل‌گشایی را انتخاب کنید."
+        "p": "Elements شامل 3 روز دسترسی کامل است. شروع این دوره دسترسی به صورت محلی در دستگاه شما اتفاق می افتد و اشتراک یا هزینه ای ایجاد نمی کند. پس از 3 روز، یک خرید یک بار اختیاری، کل برنامه را برای همیشه باز می‌کند—هیچ اشتراکی وجود ندارد و هیچ چیز به‌طور خودکار تمدید یا شارژ نمی‌شود. App Store (iOS و macOS) یا Google Play (Android) خرید را انجام می دهد. Elements هرگز نام، کارت پرداخت یا جزئیات صورتحساب شما را نمی بیند. تنها در صورتی با فروشگاه تماس گرفته می شود که بخواهید قفل را بخرید یا بازیابی کنید."
       },
       {
         "h": "استفاده از شبکه",
@@ -596,12 +648,16 @@
         "p": "Elements on pelkästään laitteella toimiva jaksollisen järjestelmän opiskelusovellus. Se ei vaadi tiliä, ei myy henkilötietoja, ei näytä mainoksia eikä käytä analytiikkaa tai seurantaa. Luomasi tiedot pysyvät laitteellasi, sovelluksen yksityisessä tallennustilassa: opiskelupakkasi ja muistikorttisi, kertaushistoriasi ja kertausvälien aikataulusi, tähdellä merkitsemäsi alkuaineet sekä asetuksesi."
       },
       {
+        "h": "Poista ja asenna uudelleen",
+        "p": "Pakan poistaminen poistaa sen. Elements:n asennuksen poistaminen poistaa opiskelusisällön, historian, suosikit ja asetukset sovelluksen hiekkalaatikosta. Jotta johdattelevaa käyttöaikaa ei käytetä toistuvasti, pienet vain laitteille sopivat kelpoisuusmerkit voivat jäädä suojattuun järjestelmän tallennustilaan asennuksen poistamisen ja uudelleenasennuksen jälkeen. Ne sisältävät vain käyttöajan ja tilan – eivät henkilöllisyyttäsi tai opiskelusisältöäsi – eikä niitä koskaan lähetetä kehittäjälle."
+      },
+      {
         "h": "Mitä emme kerää",
         "p": "Emme kerää nimeäsi, sähköpostiosoitettasi, puhelinnumeroasi, sijaintiasi, mainostunnisteitasi, yhteystietojasi, mikrofonia emmekä käyttötietoja. Sovelluksessa ei ole mainos-, analytiikka-, attribuutio- tai seuranta-SDK:ita."
       },
       {
         "h": "Ostot",
-        "p": "Elements on ilmainen ladata, ja siihen sisältyy 3 päivän täysi käyttöoikeus. Sen jälkeen yksittäinen valinnainen kertaosto avaa koko sovelluksen pysyvästi — tilausta ei ole, eikä mitään uusiudu tai veloiteta automaattisesti. App Store (iOS/macOS) tai Google Play (Android) hoitaa oston; Elements ei koskaan näe nimeäsi, maksukorttiasi eikä laskutustietojasi. Tämän 3 päivän käyttöoikeusjakson aloittaminen tapahtuu paikallisesti laitteellasi eikä luo tilausta tai veloitusta; kauppaan otetaan yhteys vain, jos päätät ostaa tai palauttaa lukituksen avauksen."
+        "p": "Elements sisältää 3 päivän täyden käyttöoikeuden. Tämän käyttöajan alkaminen tapahtuu paikallisesti laitteellasi, eikä se aiheuta tilausta tai veloitusta. Kolmen päivän kuluttua yksi valinnainen kertaostos avaa koko sovelluksen lukituksen pysyvästi – tilausta ei ole, eikä mikään uusiudu tai veloittaa automaattisesti. App Store (iOS ja macOS) tai Google Play (Android) hoitaa oston. Elements ei koskaan näe nimeäsi, maksukorttiasi tai laskutustietojasi. Kauppaan otetaan yhteyttä vain, jos päätät ostaa tai palauttaa lukituksen."
       },
       {
         "h": "Verkon käyttö",
@@ -641,12 +697,16 @@
         "p": "Ang Elements ay isang app para sa pag-aaral ng periodic table na nasa-device lamang. Hindi ito nangangailangan ng account, hindi nagbebenta ng personal na data, hindi nagpapakita ng mga ad, at hindi gumagamit ng anumang analytics o pagsubaybay. Ang data na nilikha mo ay nananatili sa iyong device, sa pribadong storage ng app: ang iyong mga study deck at flashcard, ang iyong kasaysayan ng pagrerepaso at iskedyul ng spaced-repetition, ang iyong mga elementong na-star, at ang iyong mga setting."
       },
       {
+        "h": "Pagtanggal at muling pag-install",
+        "p": "Ang pagtanggal ng deck ay nag-aalis nito. Ang pag-uninstall ng Elements ay nag-aalis ng nilalaman ng pag-aaral, kasaysayan, mga paborito, at mga setting mula sa sandbox ng app. Upang maiwasan ang paulit-ulit na paggamit ng panimulang panahon ng pag-access, ang maliliit na device-only eligibility marker ay maaaring manatili sa secure na storage ng system pagkatapos i-uninstall at muling i-install. Naglalaman ang mga ito ng timing at status ng pag-access lamang—hindi ang iyong pagkakakilanlan o nilalaman ng pag-aaral—at hindi kailanman ipinadala sa developer.\nKasama sa"
+      },
+      {
         "h": "Ano ang hindi namin kinokolekta",
         "p": "Hindi namin kinokolekta ang iyong pangalan, email, numero ng telepono, lokasyon, mga advertising identifier, mga contact, mikropono, o data ng paggamit. Walang mga SDK para sa advertising, analytics, attribution, o pagsubaybay."
       },
       {
         "h": "Mga pagbili",
-        "p": "Libre ang pag-download ng Elements na may 3 araw na buong access. Pagkatapos noon, isang opsyonal na isahang pagbili lamang ang permanenteng nagbubukas sa buong app — walang subscription, at walang awtomatikong nagre-renew o awtomatikong nagsisingil. Ang App Store (iOS/macOS) o Google Play (Android) ang humahawak sa pagbili; hindi nakikita ng Elements ang iyong pangalan, payment card, o mga detalye ng pagsingil. Ang pagsisimula ng 3-araw na access na ito ay nangyayari nang lokal sa iyong device at hindi gumagawa ng subscription o singil; nakikipag-ugnayan lang sa store kung pipiliin mong bilhin o i-restore ang unlock."
+        "p": "Elements ang 3 araw ng ganap na pag-access. Ang pagsisimula sa panahon ng pag-access na ito ay nangyayari nang lokal sa iyong device at hindi gumagawa ng subscription o singil. Pagkatapos ng 3 araw, permanenteng maa-unlock ng isang opsyonal na isang beses na pagbili ang buong app—walang subscription at walang nagre-renew o awtomatikong naniningil. Ang App Store (iOS at macOS) o Google Play (Android) ang humahawak sa pagbili; Hindi kailanman nakikita ng Elements ang iyong pangalan, card sa pagbabayad, o mga detalye ng pagsingil. Makikipag-ugnayan lang ang tindahan kung pipiliin mong bilhin o ibalik ang pag-unlock."
       },
       {
         "h": "Paggamit ng network",
@@ -686,12 +746,16 @@
         "p": "Elements est une application d'étude du tableau périodique fonctionnant entièrement en local. Elle ne nécessite aucun compte, ne vend aucune donnée personnelle, n'affiche aucune publicité et n'utilise ni analyse ni suivi. Les données que vous créez restent sur votre appareil, dans le stockage privé de l'application : vos paquets d'étude et vos cartes mémoire, votre historique de révision et votre programme de répétition espacée, vos éléments favoris ainsi que vos réglages."
       },
       {
+        "h": "Suppression et réinstallation",
+        "p": "Supprimer un deck le supprime. La désinstallation de Elements supprime le contenu de l'étude, l'historique, les favoris et les paramètres du bac à sable de l'application. Pour éviter une utilisation répétée de la période d'accès d'introduction, de petits marqueurs d'éligibilité réservés aux appareils peuvent rester dans le stockage système sécurisé après la désinstallation et la réinstallation. Ils contiennent uniquement le moment et le statut d'accès (et non votre identité ou le contenu de l'étude) et ne sont jamais envoyés au développeur."
+      },
+      {
         "h": "Ce que nous ne collectons pas",
         "p": "Nous ne collectons ni votre nom, ni votre adresse e-mail, ni votre numéro de téléphone, ni votre localisation, ni vos identifiants publicitaires, ni vos contacts, ni votre microphone, ni vos données d'utilisation. Il n'y a aucun SDK de publicité, d'analyse, d'attribution ou de suivi."
       },
       {
         "h": "Achats",
-        "p": "Elements est gratuite à télécharger avec 3 jours d'accès complet. Passé ce délai, un unique achat facultatif effectué une seule fois débloque l'application entière de façon permanente — il n'y a aucun abonnement, et rien ne se renouvelle ni ne se facture automatiquement. L'App Store (iOS/macOS) ou Google Play (Android) gère l'achat ; Elements ne voit jamais votre nom, votre carte de paiement ni vos coordonnées de facturation. Le démarrage de cette période d’accès de 3 jours se fait localement sur votre appareil et ne crée ni abonnement ni frais ; la boutique n’est contactée que si vous choisissez d’acheter ou de restaurer le déverrouillage."
+        "p": "Elements comprend 3 jours d'accès complet. Le démarrage de cette période d'accès se produit localement sur votre appareil et ne crée ni abonnement ni frais. Après 3 jours, un seul achat unique facultatif déverrouille l'intégralité de l'application de manière permanente : il n'y a pas d'abonnement et rien ne se renouvelle ou ne se facture automatiquement. Le App Store (iOS et macOS) ou Google Play (Android) gère l'achat ; Elements ne voit jamais votre nom, votre carte de paiement ou vos informations de facturation. Le magasin n'est contacté que si vous choisissez d'acheter ou de restaurer le déverrouillage."
       },
       {
         "h": "Utilisation du réseau",
@@ -731,12 +795,16 @@
         "p": "Elements est une application d'étude du tableau périodique fonctionnant uniquement en local. Elle ne nécessite aucun compte, ne vend aucune donnée personnelle, n'affiche aucune publicité et n'utilise aucun outil d'analyse ou de suivi. Les données que vous créez restent sur votre appareil, dans le stockage privé de l'application : vos paquets d'étude et vos cartes mémoire, votre historique de révision et votre calendrier de répétition espacée, vos éléments mis en favoris ainsi que vos réglages."
       },
       {
+        "h": "Suppression et réinstallation",
+        "p": "Supprimer un deck le supprime. La désinstallation de Elements supprime le contenu de l'étude, l'historique, les favoris et les paramètres du bac à sable de l'application. Pour éviter une utilisation répétée de la période d'accès d'introduction, de petits marqueurs d'éligibilité réservés aux appareils peuvent rester dans le stockage système sécurisé après la désinstallation et la réinstallation. Ils contiennent uniquement le moment et le statut d'accès (et non votre identité ou le contenu de l'étude) et ne sont jamais envoyés au développeur."
+      },
+      {
         "h": "Ce que nous ne collectons pas",
         "p": "Nous ne collectons ni votre nom, ni votre adresse courriel, ni votre numéro de téléphone, ni votre position, ni vos identifiants publicitaires, ni vos contacts, ni votre microphone, ni vos données d'utilisation. Il n'y a aucun SDK de publicité, d'analyse, d'attribution ou de suivi."
       },
       {
         "h": "Achats",
-        "p": "Elements est gratuite à télécharger et offre 3 jours d'accès complet. Par la suite, un seul achat unique facultatif déverrouille l'application en entier de façon permanente — il n'y a aucun abonnement, et rien ne se renouvelle ni ne se facture automatiquement. C'est l'App Store (iOS/macOS) ou Google Play (Android) qui traite l'achat; Elements ne voit jamais votre nom, votre carte de paiement ni vos coordonnées de facturation. Le démarrage de cette période d’accès de 3 jours se fait localement sur votre appareil et ne crée ni abonnement ni frais; la boutique n’est contactée que si vous choisissez d’acheter ou de restaurer le déverrouillage."
+        "p": "Elements comprend 3 jours d'accès complet. Le démarrage de cette période d'accès se produit localement sur votre appareil et ne crée ni abonnement ni frais. Après 3 jours, un seul achat unique facultatif déverrouille l'intégralité de l'application de manière permanente : il n'y a pas d'abonnement et rien ne se renouvelle ou ne se facture automatiquement. Le App Store (iOS et macOS) ou Google Play (Android) gère l'achat ; Elements ne voit jamais votre nom, votre carte de paiement ou vos informations de facturation. Le magasin n'est contacté que si vous choisissez d'acheter ou de restaurer le déverrouillage."
       },
       {
         "h": "Utilisation du réseau",
@@ -776,12 +844,16 @@
         "p": "Elements એ ફક્ત-સ્થાનિક (local-only) આવર્ત કોષ્ટક અભ્યાસ એપ છે. તેને કોઈ ખાતાની જરૂર નથી, કોઈ વ્યક્તિગત ડેટા વેચતી નથી, કોઈ જાહેરાતો બતાવતી નથી, અને કોઈ વિશ્લેષણ (analytics) કે ટ્રેકિંગનો ઉપયોગ કરતી નથી. તમે જે ડેટા બનાવો છો તે તમારા ઉપકરણ પર, એપના ખાનગી સંગ્રહમાં રહે છે: તમારા અભ્યાસ ડેક અને ફ્લેશકાર્ડ, તમારો રિવ્યૂ ઇતિહાસ અને અંતરાલ-પુનરાવર્તન (spaced-repetition) સમયપત્રક, તમારા તારાંકિત તત્ત્વો, અને તમારી સેટિંગ્સ."
       },
       {
+        "h": "કાઢી નાખો અને પુનઃસ્થાપિત કરો",
+        "p": "ડેક કાઢી નાખવાથી તે દૂર થાય છે. Elements ને અનઇન્સ્ટોલ કરવાથી એપ્લિકેશન સેન્ડબોક્સમાંથી અભ્યાસ સામગ્રી, ઇતિહાસ, મનપસંદ અને સેટિંગ્સ દૂર થાય છે. પ્રારંભિક ઍક્સેસ સમયગાળાના પુનરાવર્તિત ઉપયોગને રોકવા માટે, નાના ઉપકરણ-માત્ર પાત્રતા માર્કર્સ અનઇન્સ્ટોલ અને પુનઃસ્થાપિત કર્યા પછી સુરક્ષિત સિસ્ટમ સ્ટોરેજમાં રહી શકે છે. તેમાં ફક્ત ઍક્સેસ સમય અને સ્થિતિ હોય છે-તમારી ઓળખ અથવા અભ્યાસ સામગ્રી નહીં-અને ક્યારેય વિકાસકર્તાને મોકલવામાં આવતી નથી."
+      },
+      {
         "h": "અમે શું એકત્રિત કરતા નથી",
         "p": "અમે તમારું નામ, ઇમેઇલ, ફોન નંબર, સ્થાન, જાહેરાત ઓળખકર્તાઓ, સંપર્કો, માઇક્રોફોન, કે વપરાશ ડેટા એકત્રિત કરતા નથી. કોઈ જાહેરાત, વિશ્લેષણ, એટ્રિબ્યુશન, કે ટ્રેકિંગ SDK નથી."
       },
       {
         "h": "ખરીદીઓ",
-        "p": "Elements 3 દિવસની સંપૂર્ણ ઍક્સેસ સાથે મફતમાં ડાઉનલોડ કરી શકાય છે. તે પછી, એક જ વૈકલ્પિક એક-વખતની ખરીદી સમગ્ર એપને કાયમ માટે અનલૉક કરે છે — કોઈ સબ્સ્ક્રિપ્શન નથી, અને કંઈ આપમેળે રિન્યૂ કે આપમેળે ચાર્જ થતું નથી. App Store (iOS/macOS) અથવા Google Play (Android) ખરીદી સંભાળે છે; Elements ક્યારેય તમારું નામ, ચૂકવણી કાર્ડ, કે બિલિંગ વિગતો જોતી નથી. આ 3-દિવસની ઍક્સેસ વિન્ડો શરૂ કરવી તમારા ઉપકરણ પર સ્થાનિક રીતે થાય છે અને કોઈ સબ્સ્ક્રિપ્શન કે ચાર્જ બનાવતી નથી; તમે અનલોક ખરીદવા અથવા પુનઃસ્થાપિત કરવા પસંદ કરો ત્યારે જ સ્ટોરનો સંપર્ક થાય છે."
+        "p": "Elements માં 3 દિવસની સંપૂર્ણ ઍક્સેસ શામેલ છે. આ એક્સેસ અવધિની શરૂઆત તમારા ઉપકરણ પર સ્થાનિક રીતે થાય છે અને સબ્સ્ક્રિપ્શન અથવા શુલ્ક બનાવતું નથી. 3 દિવસ પછી, એક જ વૈકલ્પિક એક-વખતની ખરીદી આખી એપ્લિકેશનને કાયમી ધોરણે અનલૉક કરે છે - ત્યાં કોઈ સબ્સ્ક્રિપ્શન નથી અને કંઈપણ આપમેળે રિન્યુ અથવા શુલ્ક નથી. App Store (iOS અને macOS) અથવા Google Play (Android) ખરીદીનું સંચાલન કરે છે; Elements ક્યારેય તમારું નામ, ચુકવણી કાર્ડ અથવા બિલિંગ વિગતો જોતું નથી. જો તમે અનલૉક ખરીદવા અથવા પુનઃસ્થાપિત કરવાનું પસંદ કરો તો જ સ્ટોરનો સંપર્ક કરવામાં આવે છે."
       },
       {
         "h": "નેટવર્ક વપરાશ",
@@ -821,12 +893,16 @@
         "p": "Elements היא אפליקציה ללימוד הטבלה המחזורית הפועלת באופן מקומי בלבד. אין צורך בחשבון, היא אינה מוכרת נתונים אישיים, אינה מציגה פרסומות ואינה משתמשת בכלי ניתוח או מעקב. הנתונים שאתם יוצרים נשארים במכשיר שלכם, באחסון הפרטי של האפליקציה: חפיסות הלימוד וכרטיסיות הזיכרון שלכם, היסטוריית החזרות ולוח הזמנים לחזרה במרווחים, היסודות שסימנתם בכוכב וההגדרות שלכם."
       },
       {
+        "h": "מחיקה והתקן מחדש",
+        "p": "מחיקת חפיסה מסירה אותה. הסרת ההתקנה של Elements מסירה תוכן לימוד, היסטוריה, מועדפים והגדרות מארגז החול של האפליקציה. כדי למנוע שימוש חוזר בתקופת הגישה המבוא, סמני זכאות קטנים למכשירים בלבד עשויים להישאר באחסון מערכת מאובטחת לאחר הסרה והתקנה מחדש. הם מכילים תזמון וסטטוס גישה בלבד - לא זהותך או תוכן הלימוד שלך - ולעולם לא נשלחים למפתח."
+      },
+      {
         "h": "מה איננו אוספים",
         "p": "איננו אוספים את שמכם, כתובת הדוא\"ל, מספר הטלפון, המיקום, מזהי פרסום, אנשי הקשר, המיקרופון או נתוני שימוש. אין ערכות SDK לפרסום, לניתוח, לשיוך או למעקב."
       },
       {
         "h": "רכישות",
-        "p": "ניתן להוריד את Elements בחינם עם 3 ימים של גישה מלאה. לאחר מכן, רכישה חד-פעמית אחת ואופציונלית פותחת את האפליקציה כולה לצמיתות — אין מנוי, ושום דבר אינו מתחדש או מחויב באופן אוטומטי. ה-App Store‏ (iOS/macOS) או Google Play‏ (Android) מטפלים ברכישה; Elements לעולם אינה רואה את שמכם, את כרטיס התשלום או את פרטי החיוב שלכם. הפעלת חלון הגישה הזה למשך 3 ימים מתבצעת מקומית במכשיר שלך ואינה יוצרת מינוי או חיוב; החנות נבדקת רק אם בחרת לקנות או לשחזר את הפתיחה."
+        "p": "Elements כולל 3 ימים של גישה מלאה. תחילת תקופת הגישה הזו מתרחשת באופן מקומי במכשיר שלך ואינה יוצרת מנוי או חיוב. לאחר 3 ימים, רכישה חד פעמית אחת אופציונלית פותחת את כל האפליקציה לצמיתות - אין מנוי ושום דבר לא מתחדש או נטען באופן אוטומטי. ה-App Store (iOS ו-macOS) או Google Play (Android) מטפלים ברכישה; Elements לעולם לא רואה את השם, כרטיס התשלום או פרטי החיוב שלך. יצירת קשר עם החנות רק אם תבחר לקנות או לשחזר את ביטול הנעילה."
       },
       {
         "h": "שימוש ברשת",
@@ -866,12 +942,16 @@
         "p": "Elements एक केवल-स्थानीय आवर्त-सारणी अध्ययन ऐप है। इसे किसी खाते की आवश्यकता नहीं है, यह कोई व्यक्तिगत डेटा नहीं बेचता, कोई विज्ञापन नहीं दिखाता, और किसी विश्लेषण या ट्रैकिंग का उपयोग नहीं करता। आपके द्वारा बनाया गया डेटा आपके डिवाइस पर, ऐप के निजी संग्रहण में रहता है: आपके अध्ययन डेक और फ़्लैशकार्ड, आपका समीक्षा इतिहास और अंतराल-दोहराव कार्यक्रम, आपके तारांकित तत्व, और आपकी सेटिंग्स।"
       },
       {
+        "h": "हटाना और पुनः स्थापित करना",
+        "p": "किसी डेक को हटाने से वह हट जाता है। Elements को अनइंस्टॉल करने से ऐप सैंडबॉक्स से अध्ययन सामग्री, इतिहास, पसंदीदा और सेटिंग्स हट जाती हैं। प्रारंभिक पहुंच अवधि के बार-बार उपयोग को रोकने के लिए, छोटे डिवाइस-केवल पात्रता मार्कर अनइंस्टॉल और पुनः इंस्टॉल करने के बाद सुरक्षित सिस्टम स्टोरेज में रह सकते हैं। उनमें केवल पहुंच का समय और स्थिति होती है - आपकी पहचान या अध्ययन सामग्री नहीं - और कभी भी डेवलपर को नहीं भेजी जाती है।"
+      },
+      {
         "h": "हम क्या एकत्र नहीं करते",
         "p": "हम आपका नाम, ईमेल, फ़ोन नंबर, स्थान, विज्ञापन पहचानकर्ता, संपर्क, माइक्रोफ़ोन, या उपयोग डेटा एकत्र नहीं करते। कोई विज्ञापन, विश्लेषण, एट्रिब्यूशन, या ट्रैकिंग SDK नहीं हैं।"
       },
       {
         "h": "खरीदारी",
-        "p": "Elements को 3 दिनों की पूर्ण पहुँच के साथ निःशुल्क डाउनलोड किया जा सकता है। उसके बाद, एक एकल वैकल्पिक एकमुश्त खरीदारी पूरे ऐप को स्थायी रूप से अनलॉक कर देती है — कोई सदस्यता नहीं है, और कुछ भी अपने आप नवीनीकृत या शुल्कित नहीं होता। खरीदारी को App Store (iOS/macOS) या Google Play (Android) संभालता है; Elements कभी भी आपका नाम, भुगतान कार्ड, या बिलिंग विवरण नहीं देखता। इस 3-दिन की एक्सेस विंडो को शुरू करना आपके डिवाइस पर स्थानीय रूप से होता है और कोई सदस्यता या शुल्क नहीं बनाता; स्टोर से संपर्क केवल तभी किया जाता है जब आप अनलॉक खरीदने या पुनर्स्थापित करने का चयन करते हैं।"
+        "p": "Elements में 3 दिनों की पूर्ण पहुंच शामिल है। इस एक्सेस अवधि की शुरुआत आपके डिवाइस पर स्थानीय रूप से होती है और इससे कोई सदस्यता या शुल्क नहीं बनता है। 3 दिनों के बाद, एक वैकल्पिक एकमुश्त खरीदारी पूरे ऐप को स्थायी रूप से अनलॉक कर देती है - कोई सदस्यता नहीं होती है और कुछ भी स्वचालित रूप से नवीनीकृत या चार्ज नहीं होता है। App Store (iOS और macOS) या Google Play (Android) खरीदारी संभालते हैं; Elements कभी भी आपका नाम, भुगतान कार्ड या बिलिंग विवरण नहीं देखता है। स्टोर से तभी संपर्क किया जाता है जब आप अनलॉक खरीदना या पुनर्स्थापित करना चुनते हैं।"
       },
       {
         "h": "नेटवर्क उपयोग",
@@ -911,12 +991,16 @@
         "p": "Elements je aplikacija za učenje periodnog sustava koja radi isključivo lokalno. Ne treba račun, ne prodaje osobne podatke, ne prikazuje oglase i ne koristi nikakvu analitiku ni praćenje. Podaci koje stvorite ostaju na vašem uređaju, u privatnoj pohrani aplikacije: vaši kompleti za učenje i kartice za učenje, vaša povijest ponavljanja i raspored razmaknutog ponavljanja, vaši označeni elementi te vaše postavke."
       },
       {
+        "h": "Brisanje i ponovno instaliranje",
+        "p": "Brisanje špila uklanja ga. Deinstaliranje Elements-a uklanja sadržaj učenja, povijest, favorite i postavke iz sandboxa aplikacije. Kako bi se spriječilo ponovno korištenje uvodnog razdoblja pristupa, mali markeri prihvatljivosti samo za uređaje mogu ostati u sigurnoj pohrani sustava nakon deinstalacije i ponovne instalacije. Sadrže samo vrijeme pristupa i status—ne vaš identitet ili sadržaj učenja—i nikada se ne šalju programeru."
+      },
+      {
         "h": "Što ne prikupljamo",
         "p": "Ne prikupljamo vaše ime, e-poštu, telefonski broj, lokaciju, oglašivačke identifikatore, kontakte, mikrofon ni podatke o korištenju. Nema oglašivačkih, analitičkih, atribucijskih ni SDK-ova za praćenje."
       },
       {
         "h": "Kupnje",
-        "p": "Elements je besplatan za preuzimanje s 3 dana punog pristupa. Nakon toga, jedna neobavezna jednokratna kupnja trajno otključava cijelu aplikaciju — nema pretplate i ništa se ne obnavlja niti naplaćuje automatski. Kupnju obrađuje App Store (iOS/macOS) ili Google Play (Android); Elements nikada ne vidi vaše ime, platnu karticu ni podatke o naplati. Pokretanje tog 3-dnevnog razdoblja pristupa događa se lokalno na vašem uređaju i ne stvara pretplatu ni naplatu; trgovina se kontaktira samo ako odlučite kupiti ili vratiti otključavanje."
+        "p": "Elements uključuje 3 dana punog pristupa. Početak ovog razdoblja pristupa događa se lokalno na vašem uređaju i ne stvara pretplatu ili naplatu. Nakon 3 dana, jedna neobavezna jednokratna kupnja trajno otključava cijelu aplikaciju—nema pretplate i ništa se ne obnavlja ili ne naplaćuje automatski. App Store (iOS i macOS) ili Google Play (Android) upravlja kupnjom; Elements nikada ne vidi vaše ime, karticu za plaćanje ili podatke o naplati. Trgovina se kontaktira samo ako odlučite kupiti ili vratiti otključavanje."
       },
       {
         "h": "Korištenje mreže",
@@ -956,12 +1040,16 @@
         "p": "Az Elements egy kizárólag helyben működő periódusos-rendszer tanulóalkalmazás. Nincs szüksége fiókra, nem ad el személyes adatokat, nem jelenít meg hirdetéseket, és nem használ analitikát vagy nyomkövetést. Az általad létrehozott adatok az eszközödön maradnak, az alkalmazás privát tárhelyén: a tanulópaklijaid és tanulókártyáid, az ismétlési előzményeid és a térközös ismétlési ütemezésed, a megcsillagozott elemeid, valamint a beállításaid."
       },
       {
+        "h": "Törlés és újratelepítés",
+        "p": "Egy pakli törlésével eltávolítja azt. A Elements eltávolítása eltávolítja a tanulmányi tartalmat, az előzményeket, a kedvenceket és a beállításokat az alkalmazás homokozójából. A bevezető hozzáférési időszak ismételt használatának megelőzése érdekében az eltávolítás és az újratelepítés után a kis, csak eszközökhöz használható jogosultsági jelzők a biztonságos rendszertárolóban maradhatnak. Csak a hozzáférési időzítést és állapotot tartalmazzák – az Ön személyazonosságát vagy tanulmányi tartalmát nem –, és soha nem küldik el a fejlesztőnek."
+      },
+      {
         "h": "Amit nem gyűjtünk",
         "p": "Nem gyűjtjük a nevedet, e-mail-címedet, telefonszámodat, tartózkodási helyedet, hirdetési azonosítóidat, névjegyeidet, mikrofonodat vagy a használati adataidat. Nincsenek hirdetési, analitikai, attribúciós vagy nyomkövető SDK-k."
       },
       {
         "h": "Vásárlások",
-        "p": "Az Elements ingyenesen letölthető, 3 napos teljes hozzáféréssel. Ezt követően egyetlen, választható egyszeri vásárlás véglegesen feloldja a teljes alkalmazást — nincs előfizetés, és semmi sem újul meg vagy terhel automatikusan. A vásárlást az App Store (iOS/macOS) vagy a Google Play (Android) kezeli; az Elements soha nem látja a nevedet, a fizetési kártyádat vagy a számlázási adataidat. A 3 napos hozzáférési időszak elindítása helyben, az eszközén történik, és nem hoz létre előfizetést vagy terhelést; az áruházat csak akkor érinti, ha a feloldás megvásárlását vagy visszaállítását választja."
+        "p": "A Elements 3 napos teljes hozzáférést tartalmaz. A hozzáférési időszak kezdete helyileg az eszközén történik, és nem jár előfizetéssel vagy díjjal. 3 nap elteltével egyetlen opcionális egyszeri vásárlás véglegesen feloldja az egész alkalmazás zárolását – nincs előfizetés, és semmi sem újul meg vagy nem töltődik fel automatikusan. A vásárlást a App Store (iOS és macOS) vagy a Google Play (Android) intézi; A Elements soha nem látja az Ön nevét, fizetőkártyáját vagy számlázási adatait. A bolt csak akkor veszi fel a kapcsolatot, ha úgy dönt, hogy megvásárolja vagy visszaállítja a feloldást."
       },
       {
         "h": "Hálózathasználat",
@@ -1001,12 +1089,16 @@
         "p": "Elements adalah aplikasi belajar tabel periodik yang sepenuhnya bekerja secara lokal. Aplikasi ini tidak memerlukan akun, tidak menjual data pribadi, tidak menampilkan iklan, dan tidak menggunakan analitik atau pelacakan. Data yang Anda buat tetap berada di perangkat Anda, di dalam penyimpanan pribadi aplikasi: dek belajar dan kartu hafalan Anda, riwayat tinjauan dan jadwal pengulangan berjarak Anda, elemen yang Anda tandai bintang, serta pengaturan Anda."
       },
       {
+        "h": "Penghapusan dan pemasangan ulang",
+        "p": "Menghapus dek akan menghapusnya. Menghapus instalasi Elements akan menghapus konten pembelajaran, riwayat, favorit, dan pengaturan dari kotak pasir aplikasi. Untuk mencegah penggunaan berulang periode akses perkenalan, penanda kelayakan khusus perangkat kecil mungkin tetap berada di penyimpanan sistem yang aman setelah pencopotan pemasangan dan pemasangan ulang. Mereka hanya berisi waktu dan status akses—bukan identitas atau konten studi Anda—dan tidak pernah dikirim ke pengembang."
+      },
+      {
         "h": "Apa yang tidak kami kumpulkan",
         "p": "Kami tidak mengumpulkan nama, email, nomor telepon, lokasi, pengenal iklan, kontak, mikrofon, atau data penggunaan Anda. Tidak ada SDK iklan, analitik, atribusi, atau pelacakan."
       },
       {
         "h": "Pembelian",
-        "p": "Elements gratis untuk diunduh dengan akses penuh selama 3 hari. Setelah itu, satu pembelian sekali bayar yang bersifat opsional membuka seluruh aplikasi secara permanen — tidak ada langganan, dan tidak ada perpanjangan atau penagihan otomatis. App Store (iOS/macOS) atau Google Play (Android) yang menangani pembelian; Elements tidak pernah melihat nama, kartu pembayaran, atau detail penagihan Anda. Memulai jendela akses 3 hari ini terjadi secara lokal di perangkat Anda dan tidak membuat langganan atau biaya; toko hanya dihubungi jika Anda memilih membeli atau memulihkan pembukaan kunci."
+        "p": "Elements mencakup akses penuh selama 3 hari. Permulaan periode akses ini terjadi secara lokal di perangkat Anda dan tidak menimbulkan langganan atau biaya. Setelah 3 hari, satu pembelian opsional satu kali akan membuka seluruh aplikasi secara permanen—tidak ada langganan dan tidak ada perpanjangan atau tagihan otomatis. App Store (iOS dan macOS) atau Google Play (Android) menangani pembelian; Elements tidak pernah melihat nama, kartu pembayaran, atau detail penagihan Anda. Toko dihubungi hanya jika Anda memilih untuk membeli atau memulihkan pembukaan kunci."
       },
       {
         "h": "Penggunaan jaringan",
@@ -1046,12 +1138,16 @@
         "p": "Elements è un'app per lo studio della tavola periodica che funziona esclusivamente in locale. Non richiede alcun account, non vende dati personali, non mostra pubblicità e non utilizza strumenti di analisi o tracciamento. I dati che crei restano sul tuo dispositivo, nella memoria privata dell'app: i tuoi mazzi di studio e le flashcard, la cronologia dei ripassi e la pianificazione della ripetizione dilazionata, gli elementi che hai contrassegnato con una stella e le tue impostazioni."
       },
       {
+        "h": "Eliminazione e reinstallazione",
+        "p": "L'eliminazione di un mazzo lo rimuove. La disinstallazione di Elements rimuove il contenuto dello studio, la cronologia, i preferiti e le impostazioni dalla sandbox dell'app. Per evitare un utilizzo ripetuto del periodo di accesso introduttivo, piccoli indicatori di idoneità relativi ai soli dispositivi potrebbero rimanere nell'archivio sicuro del sistema dopo la disinstallazione e la reinstallazione. Contengono solo i tempi e lo stato di accesso, non la tua identità o il contenuto dello studio, e non vengono mai inviati allo sviluppatore."
+      },
+      {
         "h": "Cosa non raccogliamo",
         "p": "Non raccogliamo il tuo nome, l'indirizzo email, il numero di telefono, la posizione, gli identificatori pubblicitari, i contatti, il microfono o i dati di utilizzo. Non sono presenti SDK di pubblicità, analisi, attribuzione o tracciamento."
       },
       {
         "h": "Acquisti",
-        "p": "Elements è gratuita da scaricare e include 3 giorni di accesso completo. Trascorso tale periodo, un singolo acquisto opzionale una tantum sblocca l'intera app in modo permanente: non esistono abbonamenti e nulla si rinnova o si addebita automaticamente. La gestione dell'acquisto è a carico dell'App Store (iOS/macOS) o di Google Play (Android); Elements non vede mai il tuo nome, la carta di pagamento o i dati di fatturazione. L’avvio di questo periodo di accesso di 3 giorni avviene localmente sul tuo dispositivo e non crea alcun abbonamento né addebito; lo store viene contattato solo se scegli di acquistare o ripristinare lo sblocco."
+        "p": "Elements include 3 giorni di accesso completo. L'avvio di questo periodo di accesso avviene localmente sul tuo dispositivo e non crea un abbonamento o un addebito. Dopo 3 giorni, un singolo acquisto facoltativo una tantum sblocca l'intera app in modo permanente: non è previsto alcun abbonamento e nulla si rinnova o si addebita automaticamente. L'acquisto è gestito da App Store (iOS e macOS) o Google Play (Android); Elements non vede mai il tuo nome, la tua carta di pagamento o i dettagli di fatturazione. Lo store viene contattato solo se si sceglie di acquistare o ripristinare lo sblocco."
       },
       {
         "h": "Uso della rete",
@@ -1091,12 +1187,16 @@
         "p": "Elements は、すべての処理を端末上で行う周期表の学習アプリです。アカウントは不要で、個人データを販売することはなく、広告を表示せず、分析やトラッキングも一切行いません。あなたが作成したデータは、アプリの非公開ストレージ内の端末上にとどまります。学習デッキやフラッシュカード、復習履歴と間隔反復のスケジュール、お気に入りの元素、各種設定がこれに含まれます。"
       },
       {
+        "h": "削除して再インストールする",
+        "p": "デッキを削除すると、デッキも削除されます。 Elements をアンインストールすると、学習コンテンツ、履歴、お気に入り、設定がアプリのサンドボックスから削除されます。導入アクセス期間の繰り返しの使用を防ぐために、アンインストールおよび再インストール後、小さなデバイス専用の適格性マーカーが安全なシステム ストレージに残る場合があります。これらには、アクセスのタイミングとステータスのみが含まれており、個人情報や学習内容は含まれておらず、開発者に送信されることはありません。"
+      },
+      {
         "h": "収集しない情報",
         "p": "私たちは、お名前、メールアドレス、電話番号、位置情報、広告識別子、連絡先、マイク、利用データを収集しません。広告、分析、アトリビューション、トラッキングのための SDK は一切ありません。"
       },
       {
         "h": "購入について",
-        "p": "Elements は無料でダウンロードでき、3日間すべての機能をご利用いただけます。その後は、任意で一度きりの購入を行うことでアプリ全体が永続的にアンロックされます。サブスクリプションはなく、自動更新や自動課金も一切ありません。購入は App Store（iOS/macOS）または Google Play（Android）が処理し、Elements がお名前、お支払いカード、請求情報を確認することはありません。 この3日間のアクセス期間の開始は端末上でローカルに行われ、サブスクリプションや請求は発生しません。ストアに接続されるのは、アンロックの購入または復元を選択した場合だけです。"
+        "p": "Elements には 3 日間のフルアクセスが含まれています。このアクセス期間の開始はデバイス上でローカルに行われ、サブスクリプションや料金は発生しません。 3 日後、オプションの 1 回限りの購入により、アプリ全体のロックが永久に解除されます。サブスクリプションはなく、自動的に更新や課金は行われません。 App Store (iOS および macOS) または Google Play (Android) が購入を処理します。 Elements があなたの名前、支払いカード、請求の詳細を閲覧することはありません。ストアには、購入またはロック解除の復元を選択した場合にのみ連絡されます。"
       },
       {
         "h": "ネットワークの利用",
@@ -1136,12 +1236,16 @@
         "p": "Elements ಎಂಬುದು ಸ್ಥಳೀಯವಾಗಿ-ಮಾತ್ರ ಕಾರ್ಯನಿರ್ವಹಿಸುವ ಆವರ್ತಕ-ಕೋಷ್ಟಕ ಅಧ್ಯಯನ ಆ್ಯಪ್. ಇದಕ್ಕೆ ಯಾವುದೇ ಖಾತೆಯ ಅಗತ್ಯವಿಲ್ಲ, ಯಾವುದೇ ವೈಯಕ್ತಿಕ ಡೇಟಾ ಮಾರುವುದಿಲ್ಲ, ಯಾವುದೇ ಜಾಹೀರಾತುಗಳನ್ನು ತೋರಿಸುವುದಿಲ್ಲ, ಮತ್ತು ಯಾವುದೇ ವಿಶ್ಲೇಷಣೆ ಅಥವಾ ಟ್ರ್ಯಾಕಿಂಗ್ ಬಳಸುವುದಿಲ್ಲ. ನೀವು ರಚಿಸುವ ಡೇಟಾ ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿಯೇ, ಆ್ಯಪ್‌ನ ಖಾಸಗಿ ಸಂಗ್ರಹಣೆಯಲ್ಲಿ ಉಳಿಯುತ್ತದೆ: ನಿಮ್ಮ ಅಧ್ಯಯನ ಡೆಕ್‌ಗಳು ಮತ್ತು ಫ್ಲಾಶ್‌ಕಾರ್ಡ್‌ಗಳು, ನಿಮ್ಮ ಪುನರಾವಲೋಕನ ಇತಿಹಾಸ ಮತ್ತು ಅಂತರಿತ-ಪುನರಾವರ್ತನ ವೇಳಾಪಟ್ಟಿ, ನೀವು ನಕ್ಷತ್ರ ಗುರುತು ಹಾಕಿದ Elements, ಮತ್ತು ನಿಮ್ಮ ಸೆಟ್ಟಿಂಗ್‌ಗಳು."
       },
       {
+        "h": "ಅಳಿಸುವಿಕೆ ಮತ್ತು ಮರುಸ್ಥಾಪಿಸಿ",
+        "p": "ಡೆಕ್ ಅನ್ನು ಅಳಿಸುವುದು ಅದನ್ನು ತೆಗೆದುಹಾಕುತ್ತದೆ. Elements ಅನ್ನು ಅನ್‌ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡುವುದರಿಂದ ಅಪ್ಲಿಕೇಶನ್ ಸ್ಯಾಂಡ್‌ಬಾಕ್ಸ್‌ನಿಂದ ಅಧ್ಯಯನ ವಿಷಯ, ಇತಿಹಾಸ, ಮೆಚ್ಚಿನವುಗಳು ಮತ್ತು ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ತೆಗೆದುಹಾಕುತ್ತದೆ. ಪರಿಚಯಾತ್ಮಕ ಪ್ರವೇಶ ಅವಧಿಯ ಪುನರಾವರ್ತಿತ ಬಳಕೆಯನ್ನು ತಡೆಗಟ್ಟಲು, ಅಸ್ಥಾಪಿಸಿ ಮತ್ತು ಮರುಸ್ಥಾಪಿಸಿದ ನಂತರ ಸಣ್ಣ ಸಾಧನ-ಮಾತ್ರ ಅರ್ಹತಾ ಗುರುತುಗಳು ಸುರಕ್ಷಿತ ಸಿಸ್ಟಮ್ ಸಂಗ್ರಹಣೆಯಲ್ಲಿ ಉಳಿಯಬಹುದು. ಅವು ಪ್ರವೇಶ ಸಮಯ ಮತ್ತು ಸ್ಥಿತಿಯನ್ನು ಮಾತ್ರ ಒಳಗೊಂಡಿರುತ್ತವೆ-ನಿಮ್ಮ ಗುರುತು ಅಥವಾ ಅಧ್ಯಯನದ ವಿಷಯವಲ್ಲ-ಮತ್ತು ಡೆವಲಪರ್‌ಗೆ ಎಂದಿಗೂ ಕಳುಹಿಸಲಾಗುವುದಿಲ್ಲ."
+      },
+      {
         "h": "ನಾವು ಸಂಗ್ರಹಿಸದಿರುವುದು",
         "p": "ನಾವು ನಿಮ್ಮ ಹೆಸರು, ಇಮೇಲ್, ದೂರವಾಣಿ ಸಂಖ್ಯೆ, ಸ್ಥಳ, ಜಾಹೀರಾತು ಗುರುತುಗಾರಕಗಳು, ಸಂಪರ್ಕಗಳು, ಮೈಕ್ರೋಫೋನ್, ಅಥವಾ ಬಳಕೆಯ ಡೇಟಾವನ್ನು ಸಂಗ್ರಹಿಸುವುದಿಲ್ಲ. ಯಾವುದೇ ಜಾಹೀರಾತು, ವಿಶ್ಲೇಷಣೆ, ಆಟ್ರಿಬ್ಯೂಷನ್, ಅಥವಾ ಟ್ರ್ಯಾಕಿಂಗ್ SDK ಗಳಿಲ್ಲ."
       },
       {
         "h": "ಖರೀದಿಗಳು",
-        "p": "Elements ಅನ್ನು 3 ದಿನಗಳ ಪೂರ್ಣ ಪ್ರವೇಶದೊಂದಿಗೆ ಉಚಿತವಾಗಿ ಡೌನ್‌ಲೋಡ್ ಮಾಡಬಹುದು. ಅದರ ನಂತರ, ಒಂದೇ ಐಚ್ಛಿಕ ಒಂದು-ಬಾರಿಯ ಖರೀದಿ ಸಂಪೂರ್ಣ ಆ್ಯಪ್ ಅನ್ನು ಶಾಶ್ವತವಾಗಿ ಅನ್‌ಲಾಕ್ ಮಾಡುತ್ತದೆ — ಯಾವುದೇ ಚಂದಾದಾರಿಕೆ ಇಲ್ಲ, ಮತ್ತು ಯಾವುದೂ ಸ್ವಯಂ-ನವೀಕರಿಸುವುದಿಲ್ಲ ಅಥವಾ ಸ್ವಯಂ-ಶುಲ್ಕ ವಿಧಿಸುವುದಿಲ್ಲ. App Store (iOS/macOS) ಅಥವಾ Google Play (Android) ಖರೀದಿಯನ್ನು ನಿರ್ವಹಿಸುತ್ತದೆ; Elements ಎಂದಿಗೂ ನಿಮ್ಮ ಹೆಸರು, ಪಾವತಿ ಕಾರ್ಡ್, ಅಥವಾ ಬಿಲ್ಲಿಂಗ್ ವಿವರಗಳನ್ನು ನೋಡುವುದಿಲ್ಲ. ಈ 3 ದಿನಗಳ ಪ್ರವೇಶ ವಿಂಡೋವನ್ನು ಪ್ರಾರಂಭಿಸುವುದು ನಿಮ್ಮ ಸಾಧನದಲ್ಲೇ ಸ್ಥಳೀಯವಾಗಿ ನಡೆಯುತ್ತದೆ ಮತ್ತು ಯಾವುದೇ ಚಂದಾದಾರಿಕೆ ಅಥವಾ ಶುಲ್ಕವನ್ನು ಸೃಷ್ಟಿಸುವುದಿಲ್ಲ; ನೀವು ಅನ್ಲಾಕ್ ಖರೀದಿಸಲು ಅಥವಾ ಮರುಸ್ಥಾಪಿಸಲು ಆಯ್ಕೆ ಮಾಡಿದಾಗ ಮಾತ್ರ ಸ್ಟೋರ್ ಸಂಪರ್ಕಿಸಲಾಗುತ್ತದೆ."
+        "p": "Elements 3 ದಿನಗಳ ಪೂರ್ಣ ಪ್ರವೇಶವನ್ನು ಒಳಗೊಂಡಿದೆ. ಈ ಪ್ರವೇಶ ಅವಧಿಯನ್ನು ಪ್ರಾರಂಭಿಸುವುದು ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ ಸ್ಥಳೀಯವಾಗಿ ನಡೆಯುತ್ತದೆ ಮತ್ತು ಚಂದಾದಾರಿಕೆ ಅಥವಾ ಶುಲ್ಕವನ್ನು ರಚಿಸುವುದಿಲ್ಲ. 3 ದಿನಗಳ ನಂತರ, ಒಂದು ಐಚ್ಛಿಕ ಒಂದು-ಬಾರಿ ಖರೀದಿಯು ಸಂಪೂರ್ಣ ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಶಾಶ್ವತವಾಗಿ ಅನ್‌ಲಾಕ್ ಮಾಡುತ್ತದೆ-ಯಾವುದೇ ಚಂದಾದಾರಿಕೆ ಇಲ್ಲ ಮತ್ತು ಯಾವುದೂ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ನವೀಕರಿಸುವುದಿಲ್ಲ ಅಥವಾ ಶುಲ್ಕ ವಿಧಿಸುವುದಿಲ್ಲ. App Store (iOS ಮತ್ತು macOS) ಅಥವಾ Google Play (Android) ಖರೀದಿಯನ್ನು ನಿರ್ವಹಿಸುತ್ತದೆ; Elements ನಿಮ್ಮ ಹೆಸರು, ಪಾವತಿ ಕಾರ್ಡ್ ಅಥವಾ ಬಿಲ್ಲಿಂಗ್ ವಿವರಗಳನ್ನು ಎಂದಿಗೂ ನೋಡುವುದಿಲ್ಲ. ಅನ್‌ಲಾಕ್ ಅನ್ನು ಖರೀದಿಸಲು ಅಥವಾ ಮರುಸ್ಥಾಪಿಸಲು ನೀವು ಆಯ್ಕೆ ಮಾಡಿದರೆ ಮಾತ್ರ ಅಂಗಡಿಯನ್ನು ಸಂಪರ್ಕಿಸಲಾಗುತ್ತದೆ."
       },
       {
         "h": "ನೆಟ್‌ವರ್ಕ್ ಬಳಕೆ",
@@ -1181,12 +1285,16 @@
         "p": "Elements는 기기에서만 작동하는 주기율표 학습 앱입니다. 계정이 필요 없고, 개인 데이터를 판매하지 않으며, 광고를 표시하지 않고, 분석이나 추적을 사용하지 않습니다. 사용자가 만든 데이터는 기기 내 앱의 비공개 저장 공간에 그대로 보관됩니다. 학습 덱과 플래시카드, 복습 기록과 간격 반복 일정, 즐겨찾기한 원소, 그리고 설정이 여기에 포함됩니다."
       },
       {
+        "h": "삭제 및 재설치",
+        "p": "데크를 삭제하면 제거됩니다. Elements를 제거하면 앱 샌드박스에서 연구 콘텐츠, 기록, 즐겨찾기 및 설정이 제거됩니다. 초기 액세스 기간의 반복 사용을 방지하기 위해 소형 장치 전용 자격 표시는 제거 및 재설치 후에도 보안 시스템 저장소에 남아 있을 수 있습니다. 여기에는 귀하의 신원이나 연구 콘텐츠가 아닌 액세스 시간과 상태만 포함되며 개발자에게 전송되지 않습니다."
+      },
+      {
         "h": "수집하지 않는 정보",
         "p": "당사는 사용자의 이름, 이메일, 전화번호, 위치, 광고 식별자, 연락처, 마이크, 사용 데이터를 수집하지 않습니다. 광고, 분석, 어트리뷰션, 추적용 SDK가 일절 없습니다."
       },
       {
         "h": "구매",
-        "p": "Elements는 무료로 다운로드할 수 있으며 3일간 모든 기능을 전체 이용할 수 있습니다. 그 이후에는 선택 사항인 일회성 구매 한 번으로 앱 전체를 영구적으로 잠금 해제합니다. 구독이 없으며, 자동 갱신이나 자동 청구도 발생하지 않습니다. 구매는 App Store(iOS/macOS) 또는 Google Play(Android)에서 처리하며, Elements는 사용자의 이름, 결제 카드, 청구 정보를 전혀 확인하지 않습니다. 이 3일 이용 기간을 시작하는 과정은 기기에서 로컬로 이루어지며 구독이나 요금이 생성되지 않습니다. 스토어는 잠금 해제를 구매하거나 복원하기로 선택한 경우에만 연결됩니다."
+        "p": "Elements에는 3일간의 전체 액세스 권한이 포함됩니다. 이 액세스 기간은 귀하의 장치에서 로컬로 시작되며 구독이나 요금이 부과되지 않습니다. 3일 후에는 선택 사항인 일회성 구매를 통해 전체 앱이 영구적으로 잠금 해제됩니다. 구독이 없으며 자동으로 갱신되거나 요금이 청구되지 않습니다. App Store(iOS 및 macOS) 또는 Google Play(Android)가 구매를 처리합니다. Elements는 귀하의 이름, 결제 카드 또는 청구 세부 정보를 절대 볼 수 없습니다. 잠금 해제를 구매하거나 복원하기로 선택한 경우에만 매장에 연락됩니다."
       },
       {
         "h": "네트워크 사용",
@@ -1226,12 +1334,16 @@
         "p": "Elements yra tik įrenginyje veikianti periodinės elementų lentelės mokymosi programa. Jai nereikia paskyros, ji neparduoda jokių asmens duomenų, nerodo reklamos ir nenaudoja jokios analitikos ar sekimo. Jūsų sukurti duomenys lieka jūsų įrenginyje, privačioje programos saugykloje: jūsų mokymosi rinkiniai ir kortelės, jūsų peržiūrų istorija ir kartojimo su intervalais tvarkaraštis, jūsų pažymėti elementai bei jūsų nustatymai."
       },
       {
+        "h": "Ištrinkite ir įdiekite iš naujo",
+        "p": "Ištrynus denį, jis pašalinamas. Pašalinus Elements iš programos smėlio dėžės pašalinamas studijų turinys, istorija, parankiniai ir nustatymai. Kad būtų išvengta pakartotinio įvadinio prieigos laikotarpio naudojimo, pašalinus ir iš naujo įdiegus, nedideli tik įrenginiams skirti tinkamumo žymekliai gali likti saugioje sistemos saugykloje. Juose nurodomas tik prieigos laikas ir būsena (ne jūsų tapatybė ar studijų turinys), ir jie niekada nesiunčiami kūrėjui."
+      },
+      {
         "h": "Ko nerenkame",
         "p": "Nerenkame jūsų vardo, el. pašto, telefono numerio, vietos, reklamos identifikatorių, kontaktų, mikrofono ar naudojimo duomenų. Nėra jokių reklamos, analitikos, priskyrimo ar sekimo SDK."
       },
       {
         "h": "Pirkiniai",
-        "p": "Elements galima atsisiųsti nemokamai su 3 dienų visiška prieiga. Po to vienas pasirenkamas vienkartinis pirkinys visam laikui atrakina visą programą — nėra jokios prenumeratos, niekas automatiškai neatsinaujina ir automatiškai nenuskaito mokesčių. Pirkinį tvarko App Store (iOS/macOS) arba Google Play (Android); Elements niekada nemato jūsų vardo, mokėjimo kortelės ar atsiskaitymo duomenų. Šio 3 dienų prieigos laikotarpio pradžia vyksta vietoje jūsų įrenginyje ir nesukuria prenumeratos ar mokesčio; parduotuvė pasiekiama tik tada, jei pasirenkate pirkti arba atkurti atrakinimą."
+        "p": "Elements apima 3 dienas visišką prieigą. Šis prieigos laikotarpis prasideda vietoje jūsų įrenginyje ir nesukuriama prenumeratos ar mokesčio. Po 3 dienų vienas pasirenkamas vienkartinis pirkimas visam laikui atrakina visą programą – nėra prenumeratos ir niekas neatnaujinamas ar apmokestinamas automatiškai. Pirkimą tvarko App Store (iOS ir macOS) arba Google Play (Android); Elements niekada nemato jūsų vardo, mokėjimo kortelės ar atsiskaitymo informacijos. Su parduotuve susisiekiama tik tada, kai pasirenkate pirkti ar atkurti atrakinimą."
       },
       {
         "h": "Tinklo naudojimas",
@@ -1271,12 +1383,16 @@
         "p": "Elements ir tikai ierīcē darbojoša periodiskās tabulas mācību lietotne. Tai nav nepieciešams konts, tā nepārdod personas datus, nerāda reklāmas un neizmanto analītiku vai izsekošanu. Dati, ko izveidojat, paliek jūsu ierīcē, lietotnes privātajā krātuvē: jūsu mācību kopas un atgādnes, jūsu atkārtošanas vēsture un intervālatkārtošanas grafiks, jūsu atzīmētie elementi un jūsu iestatījumi."
       },
       {
+        "h": "Dzēšana un atkārtota instalēšana",
+        "p": "Dzēšot komplektu, tas tiek noņemts. Atinstalējot Elements, no lietotnes smilškastes tiek noņemts mācību saturs, vēsture, izlase un iestatījumi. Lai novērstu atkārtotu ievada piekļuves perioda izmantošanu, pēc atinstalēšanas un atkārtotas instalēšanas drošā sistēmas krātuvē var palikt nelieli tikai ierīcēm piemēroti atbilstības marķieri. Tajos ir norādīts tikai piekļuves laiks un statuss, nevis jūsu identitāte vai mācību saturs, un tie nekad netiek nosūtīti izstrādātājam."
+      },
+      {
         "h": "Ko mēs nevācam",
         "p": "Mēs nevācam jūsu vārdu, e-pasta adresi, tālruņa numuru, atrašanās vietu, reklāmas identifikatorus, kontaktpersonas, mikrofonu vai lietošanas datus. Nav nekādu reklāmas, analītikas, attiecinājuma vai izsekošanas SDK."
       },
       {
         "h": "Pirkumi",
-        "p": "Elements ir bez maksas lejupielādējama ar 3 dienu pilnu piekļuvi. Pēc tam viens neobligāts vienreizējs pirkums pastāvīgi atbloķē visu lietotni — nav nekādas abonēšanas, un nekas netiek automātiski atjaunots vai automātiski iekasēts. Pirkumu apstrādā App Store (iOS/macOS) vai Google Play (Android); Elements nekad neredz jūsu vārdu, maksājumu karti vai norēķinu informāciju. Šī 3 dienu piekļuves perioda sākšana notiek lokāli jūsu ierīcē un neizveido abonementu vai maksu; veikals tiek sazināts tikai tad, ja izvēlaties iegādāties vai atjaunot atbloķēšanu."
+        "p": "Elements ietver 3 dienu pilnu piekļuvi. Šis piekļuves periods sākas lokāli jūsu ierīcē, un par to netiek iekasēts abonements vai maksa. Pēc 3 dienām, veicot vienu izvēles vienreizēju pirkumu, visa lietotne tiek neatgriezeniski atbloķēta — nav abonementa, nekas netiek atjaunots vai netiek iekasēta automātiski. App Store (iOS un macOS) vai Google Play (Android) veic pirkumu; Elements nekad neredz jūsu vārdu, maksājumu karti vai norēķinu informāciju. Ar veikalu sazinās tikai tad, ja izvēlaties iegādāties vai atjaunot atbloķēšanu."
       },
       {
         "h": "Tīkla izmantošana",
@@ -1316,12 +1432,16 @@
         "p": "Elements എന്നത് ഉപകരണത്തിൽ മാത്രം പ്രവർത്തിക്കുന്ന ഒരു ആവർത്തനപ്പട്ടിക പഠന ആപ്പാണ്. ഇതിന് അക്കൗണ്ട് ആവശ്യമില്ല, വ്യക്തിഗത വിവരങ്ങൾ വിൽക്കുന്നില്ല, പരസ്യങ്ങൾ കാണിക്കുന്നില്ല, അനലിറ്റിക്സോ ട്രാക്കിംഗോ ഉപയോഗിക്കുന്നില്ല. നിങ്ങൾ സൃഷ്ടിക്കുന്ന ഡാറ്റ നിങ്ങളുടെ ഉപകരണത്തിൽ, ആപ്പിന്റെ സ്വകാര്യ സംഭരണത്തിൽ തന്നെ നിലനിൽക്കുന്നു: നിങ്ങളുടെ പഠന ഡെക്കുകളും ഫ്ലാഷ് കാർഡുകളും, നിങ്ങളുടെ അവലോകന ചരിത്രവും ഇടവിട്ടുള്ള ആവർത്തന ഷെഡ്യൂളും, നിങ്ങൾ നക്ഷത്രമിട്ട മൂലകങ്ങളും, നിങ്ങളുടെ ക്രമീകരണങ്ങളും."
       },
       {
+        "h": "ഇല്ലാതാക്കി വീണ്ടും ഇൻസ്റ്റാൾ ചെയ്യുക",
+        "p": "ഒരു ഡെക്ക് ഇല്ലാതാക്കുന്നത് അത് നീക്കംചെയ്യുന്നു. Elements അൺഇൻസ്റ്റാൾ ചെയ്യുന്നത് ആപ്പ് സാൻഡ്‌ബോക്‌സിൽ നിന്ന് പഠന ഉള്ളടക്കം, ചരിത്രം, പ്രിയങ്കരങ്ങൾ, ക്രമീകരണങ്ങൾ എന്നിവ നീക്കം ചെയ്യുന്നു. ആമുഖ ആക്‌സസ് കാലയളവിൻ്റെ ആവർത്തിച്ചുള്ള ഉപയോഗം തടയാൻ, അൺഇൻസ്റ്റാൾ ചെയ്‌ത് വീണ്ടും ഇൻസ്‌റ്റാൾ ചെയ്‌തതിന് ശേഷവും ചെറിയ ഉപകരണത്തിന് മാത്രമുള്ള യോഗ്യതാ മാർക്കറുകൾ സുരക്ഷിത സിസ്റ്റം സ്റ്റോറേജിൽ നിലനിൽക്കും. അവയിൽ ആക്‌സസ് സമയവും സ്റ്റാറ്റസും മാത്രമേ അടങ്ങിയിട്ടുള്ളൂ—നിങ്ങളുടെ ഐഡൻ്റിറ്റിയോ പഠന ഉള്ളടക്കമോ അല്ല—അവ ഒരിക്കലും ഡവലപ്പർക്ക് അയയ്‌ക്കില്ല."
+      },
+      {
         "h": "ഞങ്ങൾ ശേഖരിക്കാത്തവ",
         "p": "നിങ്ങളുടെ പേര്, ഇമെയിൽ, ഫോൺ നമ്പർ, സ്ഥാനം, പരസ്യ ഐഡന്റിഫയറുകൾ, കോൺടാക്റ്റുകൾ, മൈക്രോഫോൺ, അല്ലെങ്കിൽ ഉപയോഗ ഡാറ്റ എന്നിവ ഞങ്ങൾ ശേഖരിക്കുന്നില്ല. പരസ്യം, അനലിറ്റിക്സ്, ആട്രിബ്യൂഷൻ, അല്ലെങ്കിൽ ട്രാക്കിംഗ് SDK-കൾ ഇല്ല."
       },
       {
         "h": "വാങ്ങലുകൾ",
-        "p": "Elements 3 ദിവസത്തെ പൂർണ്ണ ആക്സസോടെ സൗജന്യമായി ഡൗൺലോഡ് ചെയ്യാം. അതിനുശേഷം, ഓപ്ഷണലായ ഒറ്റത്തവണ വാങ്ങൽ വഴി മുഴുവൻ ആപ്പും ശാശ്വതമായി അൺലോക്ക് ചെയ്യപ്പെടുന്നു — സബ്സ്ക്രിപ്ഷൻ ഇല്ല, ഒന്നും യാന്ത്രികമായി പുതുക്കുകയോ യാന്ത്രികമായി ഈടാക്കുകയോ ചെയ്യുന്നില്ല. വാങ്ങൽ App Store (iOS/macOS) അല്ലെങ്കിൽ Google Play (Android) കൈകാര്യം ചെയ്യുന്നു; Elements നിങ്ങളുടെ പേരോ, പേയ്മെന്റ് കാർഡോ, ബില്ലിംഗ് വിശദാംശങ്ങളോ ഒരിക്കലും കാണുന്നില്ല. ഈ 3 ദിവസത്തെ ആക്സസ് കാലയളവ് ആരംഭിക്കുന്നത് നിങ്ങളുടെ ഉപകരണത്തിൽ തന്നെ പ്രാദേശികമായി നടക്കുന്നു; സബ്സ്ക്രിപ്ഷനോ ചാർജോ സൃഷ്ടിക്കുന്നില്ല. അൺലോക്ക് വാങ്ങാനോ പുനഃസ്ഥാപിക്കാനോ നിങ്ങൾ തിരഞ്ഞെടുക്കുമ്പോൾ മാത്രമാണ് സ്റ്റോറുമായി ബന്ധപ്പെടുന്നത്."
+        "p": "Elements 3 ദിവസത്തെ പൂർണ്ണ ആക്‌സസ് ഉൾപ്പെടുന്നു. ഈ ആക്‌സസ് കാലയളവ് ആരംഭിക്കുന്നത് നിങ്ങളുടെ ഉപകരണത്തിൽ പ്രാദേശികമായി നടക്കുന്നു, ഒരു സബ്‌സ്‌ക്രിപ്‌ഷനോ നിരക്കോ സൃഷ്‌ടിക്കില്ല. 3 ദിവസത്തിന് ശേഷം, ഒറ്റത്തവണയുള്ള ഒറ്റത്തവണയുള്ള ഓപ്‌ഷണൽ വാങ്ങൽ, മുഴുവൻ ആപ്പിനെയും ശാശ്വതമായി അൺലോക്ക് ചെയ്യുന്നു-സബ്‌സ്‌ക്രിപ്‌ഷനില്ല, യാന്ത്രികമായി ഒന്നും പുതുക്കുകയോ നിരക്ക് ഈടാക്കുകയോ ചെയ്യുന്നില്ല. App Store (iOS, macOS) അല്ലെങ്കിൽ Google Play (Android) വാങ്ങൽ കൈകാര്യം ചെയ്യുന്നു; Elements ഒരിക്കലും നിങ്ങളുടെ പേരോ പേയ്‌മെൻ്റ് കാർഡോ ബില്ലിംഗ് വിശദാംശങ്ങളോ കാണില്ല. നിങ്ങൾ അൺലോക്ക് വാങ്ങാനോ പുനഃസ്ഥാപിക്കാനോ തിരഞ്ഞെടുക്കുകയാണെങ്കിൽ മാത്രമേ സ്റ്റോറുമായി ബന്ധപ്പെടൂ."
       },
       {
         "h": "നെറ്റ്‌വർക്ക് ഉപയോഗം",
@@ -1361,12 +1481,16 @@
         "p": "Elements हे केवळ-स्थानिक आवर्तसारणी अभ्यास अॅप आहे. याला कोणतेही खाते लागत नाही, कोणताही वैयक्तिक डेटा विकत नाही, कोणत्याही जाहिराती दाखवत नाही, आणि कोणतेही विश्लेषण किंवा मागोवा वापरत नाही. तुम्ही तयार केलेला डेटा तुमच्या डिव्हाइसवर, अॅपच्या खाजगी संचयनात राहतो: तुमचे अभ्यास डेक आणि फ्लॅशकार्ड्स, तुमचा पुनरावलोकन इतिहास आणि अंतराळित-पुनरावृत्ती वेळापत्रक, तुमची तारांकित मूलद्रव्ये, आणि तुमची सेटिंग्ज."
       },
       {
+        "h": "हटवणे आणि पुन्हा स्थापित करणे",
+        "p": "डेक हटवल्याने ते काढून टाकले जाते. Elements अनइंस्टॉल केल्याने ॲप सँडबॉक्समधून अभ्यास सामग्री, इतिहास, आवडी आणि सेटिंग्ज काढून टाकले जातात. प्रास्ताविक प्रवेश कालावधीचा वारंवार वापर टाळण्यासाठी, लहान डिव्हाइस-केवळ पात्रता मार्कर विस्थापित आणि पुनर्स्थापित केल्यानंतर सुरक्षित सिस्टम स्टोरेजमध्ये राहू शकतात. त्यामध्ये केवळ प्रवेश वेळ आणि स्थिती असते—तुमची ओळख किंवा अभ्यास सामग्री नाही—आणि विकासकाला कधीही पाठवली जात नाही."
+      },
+      {
         "h": "आम्ही काय गोळा करत नाही",
         "p": "आम्ही तुमचे नाव, ईमेल, फोन नंबर, स्थान, जाहिरात ओळखकर्ते, संपर्क, मायक्रोफोन किंवा वापर डेटा गोळा करत नाही. कोणतेही जाहिरात, विश्लेषण, श्रेय किंवा मागोवा घेणारे SDK नाहीत."
       },
       {
         "h": "खरेदी",
-        "p": "Elements 3 दिवसांच्या पूर्ण प्रवेशासह विनामूल्य डाउनलोड करता येते. त्यानंतर, एक एकल ऐच्छिक एकवेळ खरेदी संपूर्ण अॅप कायमस्वरूपी अनलॉक करते — कोणतीही वर्गणी नाही, आणि काहीही आपोआप नूतनीकरण किंवा आपोआप शुल्क आकारत नाही. खरेदी App Store (iOS/macOS) किंवा Google Play (Android) हाताळते; Elements तुमचे नाव, पेमेंट कार्ड किंवा बिलिंग तपशील कधीही पाहत नाही. ही 3 दिवसांची प्रवेश-विंडो सुरू करणे तुमच्या डिव्हाइसवर स्थानिकरीत्या होते आणि कोणतीही सदस्यता किंवा शुल्क तयार करत नाही; तुम्ही अनलॉक खरेदी किंवा पुनर्संचयित करण्याचे निवडल्यासच स्टोअरशी संपर्क होतो."
+        "p": "Elements मध्ये 3 दिवसांच्या पूर्ण प्रवेशाचा समावेश आहे. हा प्रवेश कालावधी सुरू करणे तुमच्या डिव्हाइसवर स्थानिक पातळीवर होते आणि सदस्यता किंवा शुल्क तयार करत नाही. 3 दिवसांनंतर, एकच पर्यायी एक-वेळ खरेदी संपूर्ण ॲप कायमस्वरूपी अनलॉक करते—कोणतीही सदस्यता नाही आणि काहीही स्वयंचलितपणे नूतनीकरण किंवा शुल्क आकारले जात नाही. App Store (iOS आणि macOS) किंवा Google Play (Android) खरेदी हाताळते; Elements तुमचे नाव, पेमेंट कार्ड किंवा बिलिंग तपशील कधीही पाहत नाही. तुम्ही अनलॉक खरेदी करणे किंवा पुनर्संचयित करणे निवडले तरच स्टोअरशी संपर्क साधला जातो."
       },
       {
         "h": "नेटवर्क वापर",
@@ -1406,12 +1530,16 @@
         "p": "Elements ialah aplikasi pembelajaran jadual berkala yang beroperasi setempat sahaja. Ia tidak memerlukan akaun, tidak menjual data peribadi, tidak memaparkan iklan, dan tidak menggunakan sebarang analitik atau penjejakan. Data yang anda cipta kekal pada peranti anda, dalam storan peribadi aplikasi: dek pembelajaran dan kad imbas anda, sejarah ulang kaji dan jadual ulangan berkala anda, unsur yang anda tandakan bintang, serta tetapan anda."
       },
       {
+        "h": "Padam dan pasang semula",
+        "p": "Memadamkan dek akan mengeluarkannya. Menyahpasang Elements mengalih keluar kandungan kajian, sejarah, kegemaran dan tetapan daripada kotak pasir apl. Untuk mengelakkan penggunaan berulang tempoh akses pengenalan, penanda kelayakan peranti kecil sahaja mungkin kekal dalam storan sistem selamat selepas menyahpasang dan memasang semula. Ia mengandungi masa dan status akses sahaja—bukan identiti atau kandungan kajian anda—dan tidak pernah dihantar kepada pembangun."
+      },
+      {
         "h": "Apa yang kami tidak kumpulkan",
         "p": "Kami tidak mengumpulkan nama, e-mel, nombor telefon, lokasi, pengecam pengiklanan, kenalan, mikrofon, atau data penggunaan anda. Tiada sebarang SDK pengiklanan, analitik, atribusi, atau penjejakan."
       },
       {
         "h": "Pembelian",
-        "p": "Elements percuma untuk dimuat turun dengan 3 hari akses penuh. Selepas itu, satu pembelian sekali sahaja yang pilihan akan membuka kunci keseluruhan aplikasi secara kekal — tiada langganan, dan tiada apa-apa yang diperbaharui secara automatik atau dicaj secara automatik. App Store (iOS/macOS) atau Google Play (Android) yang mengendalikan pembelian; Elements tidak pernah melihat nama, kad pembayaran, atau butiran pengebilan anda. Memulakan tetingkap akses 3 hari ini berlaku secara setempat pada peranti anda dan tidak mencipta langganan atau caj; gedung hanya dihubungi jika anda memilih untuk membeli atau memulihkan nyahkunci."
+        "p": "Elements termasuk 3 hari akses penuh. Memulakan tempoh akses ini berlaku secara setempat pada peranti anda dan tidak membuat langganan atau caj. Selepas 3 hari, pembelian sekali sahaja pilihan membuka kunci keseluruhan apl secara kekal—tiada langganan dan tiada apa-apa yang diperbaharui atau dicaj secara automatik. App Store (iOS dan macOS) atau Google Play (Android) mengendalikan pembelian; Elements tidak pernah melihat nama, kad pembayaran atau butiran pengebilan anda. Kedai dihubungi hanya jika anda memilih untuk membeli atau memulihkan buka kunci."
       },
       {
         "h": "Penggunaan rangkaian",
@@ -1451,12 +1579,16 @@
         "p": "Elements is een studieapp voor het periodiek systeem die volledig lokaal werkt. De app heeft geen account nodig, verkoopt geen persoonsgegevens, toont geen advertenties en gebruikt geen analyse of tracking. De gegevens die je aanmaakt, blijven op je apparaat staan, in de privéopslag van de app: je studiedecks en flashcards, je herhalingsgeschiedenis en spaced-repetitionschema, je elementen met ster, en je instellingen."
       },
       {
+        "h": "Verwijderen en opnieuw installeren",
+        "p": "Als je een kaartspel verwijdert, wordt het verwijderd. Als u Elements verwijdert, worden studie-inhoud, geschiedenis, favorieten en instellingen uit de app-sandbox verwijderd. Om herhaald gebruik van de introductieperiode te voorkomen, kunnen kleine geschiktheidsmarkeringen voor apparaten in de beveiligde systeemopslag achterblijven na het verwijderen en opnieuw installeren. Ze bevatten alleen de toegangstijd en -status (niet uw identiteit of studie-inhoud) en worden nooit naar de ontwikkelaar gestuurd."
+      },
+      {
         "h": "Wat we niet verzamelen",
         "p": "We verzamelen niet je naam, e-mailadres, telefoonnummer, locatie, advertentie-identificatoren, contacten, microfoon of gebruiksgegevens. Er zijn geen SDK's voor advertenties, analyse, attributie of tracking."
       },
       {
         "h": "Aankopen",
-        "p": "Elements is gratis te downloaden met 3 dagen volledige toegang. Daarna ontgrendelt één optionele eenmalige aankoop de hele app permanent — er is geen abonnement en niets wordt automatisch verlengd of automatisch in rekening gebracht. De App Store (iOS/macOS) of Google Play (Android) verwerkt de aankoop; Elements ziet nooit je naam, betaalkaart of factuurgegevens. Het starten van deze toegangsperiode van 3 dagen gebeurt lokaal op je apparaat en maakt geen abonnement of kosten aan; de store wordt alleen benaderd als je ervoor kiest de ontgrendeling te kopen of te herstellen."
+        "p": "Elements omvat 3 dagen volledige toegang. Het starten van deze toegangsperiode gebeurt lokaal op uw apparaat en brengt geen abonnement of kosten met zich mee. Na drie dagen ontgrendelt een enkele optionele eenmalige aankoop de hele app permanent. Er is geen abonnement en niets wordt automatisch verlengd of in rekening gebracht. De App Store (iOS en macOS) of Google Play (Android) verzorgt de aankoop; Elements ziet nooit jouw naam, betaalkaart of factuurgegevens. Er wordt alleen contact opgenomen met de winkel als u ervoor kiest de ontgrendeling te kopen of te herstellen."
       },
       {
         "h": "Netwerkgebruik",
@@ -1496,12 +1628,16 @@
         "p": "Elements er en studieapp for det periodiske systemet som kun lagrer data lokalt. Den krever ingen konto, selger ingen personopplysninger, viser ingen annonser og bruker ingen analyse eller sporing. Dataene du oppretter, blir værende på enheten din, i appens private lagring: studiestablene og lærekortene dine, repetisjonshistorikken og den fordelte gjentakelsesplanen din, elementene du har stjernemerket, og innstillingene dine."
       },
       {
+        "h": "Slett og installer på nytt",
+        "p": "Hvis du sletter en kortstokk, fjernes den. Avinstallering av Elements fjerner studieinnhold, historie, favoritter og innstillinger fra appens sandkasse. For å forhindre gjentatt bruk av den innledende tilgangsperioden, kan små kvalifikasjonsmarkører for bare enheter forbli i sikker systemlagring etter avinstallering og reinstallering. De inneholder kun tilgangstiming og status – ikke identiteten din eller studieinnholdet – og sendes aldri til utvikleren."
+      },
+      {
         "h": "Hva vi ikke samler inn",
         "p": "Vi samler ikke inn navnet ditt, e-postadressen din, telefonnummeret ditt, posisjonen din, annonseidentifikatorer, kontakter, mikrofon eller bruksdata. Det finnes ingen SDK-er for annonsering, analyse, attribusjon eller sporing."
       },
       {
         "h": "Kjøp",
-        "p": "Elements er gratis å laste ned med 3 dagers full tilgang. Etter det låser et enkelt valgfritt engangskjøp opp hele appen permanent — det finnes ingen abonnement, og ingenting fornyes eller belastes automatisk. App Store (iOS/macOS) eller Google Play (Android) håndterer kjøpet; Elements ser aldri navnet ditt, betalingskortet ditt eller faktureringsopplysningene dine. Starten av denne 3-dagers tilgangen skjer lokalt på enheten din og oppretter ikke et abonnement eller en belastning; butikken kontaktes bare hvis du velger å kjøpe eller gjenopprette opplåsingen."
+        "p": "Elements inkluderer 3 dager med full tilgang. Å starte denne tilgangsperioden skjer lokalt på enheten din og oppretter ikke et abonnement eller kostnad. Etter 3 dager låser et enkelt valgfritt engangskjøp opp hele appen permanent – ​​det er ikke noe abonnement og ingenting fornyes eller belastes automatisk. App Store (iOS og macOS) eller Google Play (Android) håndterer kjøpet; Elements ser aldri navnet ditt, betalingskortet eller faktureringsopplysningene dine. Butikken kontaktes kun hvis du velger å kjøpe eller gjenopprette opplåsingen."
       },
       {
         "h": "Nettverksbruk",
@@ -1541,12 +1677,16 @@
         "p": "Elements to aplikacja do nauki układu okresowego działająca wyłącznie lokalnie. Nie wymaga konta, nie sprzedaje danych osobowych, nie wyświetla reklam ani nie korzysta z analityki czy śledzenia. Tworzone przez Ciebie dane pozostają na Twoim urządzeniu, w prywatnej pamięci aplikacji: Twoje talie do nauki i fiszki, historia powtórek i harmonogram powtórek rozłożonych w czasie, oznaczone gwiazdką pierwiastki oraz Twoje ustawienia."
       },
       {
+        "h": "Usuń i zainstaluj ponownie",
+        "p": "Usunięcie talii powoduje jej usunięcie. Odinstalowanie Elements usuwa zawartość nauki, historię, ulubione i ustawienia z piaskownicy aplikacji. Aby zapobiec wielokrotnemu wykorzystaniu wstępnego okresu dostępu, znaczniki uprawnień przeznaczone wyłącznie dla małych urządzeń mogą pozostać w bezpiecznej pamięci systemu po odinstalowaniu i ponownej instalacji. Zawierają jedynie czas i status dostępu – a nie Twoją tożsamość ani treść badania – i nigdy nie są wysyłane do programisty."
+      },
+      {
         "h": "Czego nie zbieramy",
         "p": "Nie zbieramy Twojego imienia i nazwiska, adresu e-mail, numeru telefonu, lokalizacji, identyfikatorów reklamowych, kontaktów, mikrofonu ani danych o użytkowaniu. Nie ma żadnych zestawów SDK reklamowych, analitycznych, atrybucyjnych ani śledzących."
       },
       {
         "h": "Zakupy",
-        "p": "Aplikację Elements można pobrać bezpłatnie z 3 dniami pełnego dostępu. Po tym czasie pojedynczy opcjonalny, jednorazowy zakup odblokowuje całą aplikację na stałe — nie ma subskrypcji, nic nie odnawia się ani nie jest pobierane automatycznie. Zakupem zajmuje się App Store (iOS/macOS) lub Google Play (Android); Elements nigdy nie widzi Twojego imienia i nazwiska, karty płatniczej ani danych rozliczeniowych. Uruchomienie tego 3-dniowego okresu dostępu odbywa się lokalnie na Twoim urządzeniu i nie tworzy subskrypcji ani opłaty; sklep jest kontaktowany tylko wtedy, gdy wybierzesz zakup lub przywrócenie odblokowania."
+        "p": "Elements obejmuje 3 dni pełnego dostępu. Rozpoczęcie tego okresu dostępu odbywa się lokalnie na Twoim urządzeniu i nie powoduje utworzenia subskrypcji ani opłaty. Po 3 dniach pojedynczy opcjonalny jednorazowy zakup odblokowuje całą aplikację na stałe — nie ma subskrypcji i nic nie jest odnawiane ani pobierane automatycznie. App Store (iOS i macOS) lub Google Play (Android) obsługuje zakup; Elements nigdy nie widzi Twojego imienia i nazwiska, karty płatniczej ani szczegółów rozliczeń. Kontakt ze sklepem następuje tylko w przypadku decyzji o zakupie lub przywróceniu odblokowania."
       },
       {
         "h": "Korzystanie z sieci",
@@ -1586,12 +1726,16 @@
         "p": "O Elements é um aplicativo de estudo da tabela periódica que funciona somente localmente. Não exige conta, não vende dados pessoais, não exibe anúncios e não usa análise nem rastreamento. Os dados que você cria permanecem no seu dispositivo, no armazenamento privado do aplicativo: seus baralhos de estudo e flashcards, seu histórico de revisão e seu cronograma de repetição espaçada, os elementos que você marcou com estrela e suas configurações."
       },
       {
+        "h": "Exclusão e reinstalação",
+        "p": "Excluir um baralho o remove. A desinstalação do Elements remove o conteúdo do estudo, histórico, favoritos e configurações da sandbox do aplicativo. Para evitar a utilização repetida do período de acesso introdutório, pequenos marcadores de elegibilidade apenas para dispositivos podem permanecer no armazenamento seguro do sistema após a desinstalação e reinstalação. Eles contêm apenas o tempo e o status de acesso (não sua identidade ou conteúdo do estudo) e nunca são enviados ao desenvolvedor."
+      },
+      {
         "h": "O que não coletamos",
         "p": "Não coletamos seu nome, e-mail, número de telefone, localização, identificadores de publicidade, contatos, microfone nem dados de uso. Não há SDKs de publicidade, análise, atribuição ou rastreamento."
       },
       {
         "h": "Compras",
-        "p": "O Elements é gratuito para baixar, com 3 dias de acesso completo. Depois disso, uma única compra opcional, paga uma só vez, desbloqueia o aplicativo inteiro de forma permanente — não há assinatura e nada se renova nem é cobrado automaticamente. A App Store (iOS/macOS) ou o Google Play (Android) processa a compra; o Elements nunca tem acesso ao seu nome, cartão de pagamento ou dados de cobrança. O início dessa janela de acesso de 3 dias acontece localmente no seu dispositivo e não cria assinatura nem cobrança; a loja só é contatada se você escolher comprar ou restaurar o desbloqueio."
+        "p": "Elements inclui 3 dias de acesso total. O início deste período de acesso ocorre localmente no seu dispositivo e não cria uma assinatura ou cobrança. Após três dias, uma única compra opcional desbloqueia todo o aplicativo permanentemente – não há assinatura e nada é renovado ou cobrado automaticamente. A App Store (iOS e macOS) ou Google Play (Android) trata da compra; Elements nunca vê seu nome, cartão de pagamento ou detalhes de cobrança. A loja será contatada apenas se você optar por comprar ou restaurar o desbloqueio."
       },
       {
         "h": "Uso de rede",
@@ -1631,12 +1775,16 @@
         "p": "O Elements é uma aplicação de estudo da tabela periódica que funciona apenas localmente. Não necessita de conta, não vende dados pessoais, não mostra publicidade e não utiliza qualquer análise ou rastreamento. Os dados que cria permanecem no seu dispositivo, no armazenamento privado da aplicação: os seus baralhos de estudo e cartões, o seu histórico de revisões e o calendário de repetição espaçada, os elementos que marcou como favoritos e as suas definições."
       },
       {
+        "h": "Exclusão e reinstalação",
+        "p": "Excluir um baralho o remove. A desinstalação do Elements remove o conteúdo do estudo, histórico, favoritos e configurações da sandbox do aplicativo. Para evitar a utilização repetida do período de acesso introdutório, pequenos marcadores de elegibilidade apenas para dispositivos podem permanecer no armazenamento seguro do sistema após a desinstalação e reinstalação. Eles contêm apenas o tempo e o status de acesso (não sua identidade ou conteúdo do estudo) e nunca são enviados ao desenvolvedor."
+      },
+      {
         "h": "O que não recolhemos",
         "p": "Não recolhemos o seu nome, e-mail, número de telefone, localização, identificadores de publicidade, contactos, microfone nem dados de utilização. Não existem SDKs de publicidade, de análise, de atribuição nem de rastreamento."
       },
       {
         "h": "Compras",
-        "p": "O Elements é gratuito para descarregar, com 3 dias de acesso total. Após esse período, uma única compra opcional, paga uma só vez, desbloqueia toda a aplicação de forma permanente — não há subscrição, e nada se renova nem é cobrado automaticamente. A App Store (iOS/macOS) ou o Google Play (Android) processa a compra; o Elements nunca tem acesso ao seu nome, cartão de pagamento ou dados de faturação. O início desta janela de acesso de 3 dias acontece localmente no seu dispositivo e não cria subscrição nem cobrança; a loja só é contactada se optar por comprar ou restaurar o desbloqueio."
+        "p": "Elements inclui 3 dias de acesso total. O início deste período de acesso ocorre localmente no seu dispositivo e não cria uma assinatura ou cobrança. Após três dias, uma única compra opcional desbloqueia todo o aplicativo permanentemente – não há assinatura e nada é renovado ou cobrado automaticamente. A App Store (iOS e macOS) ou Google Play (Android) trata da compra; Elements nunca vê seu nome, cartão de pagamento ou detalhes de cobrança. A loja será contatada apenas se você optar por comprar ou restaurar o desbloqueio."
       },
       {
         "h": "Utilização da rede",
@@ -1676,12 +1824,16 @@
         "p": "Elements este o aplicație de studiu al tabelului periodic care funcționează exclusiv local. Nu necesită niciun cont, nu vinde date personale, nu afișează reclame și nu folosește analize sau urmărire. Datele pe care le creezi rămân pe dispozitivul tău, în spațiul de stocare privat al aplicației: pachetele tale de studiu și cardurile de memorie, istoricul recapitulărilor și programul de repetiție eșalonată, elementele tale marcate cu stea și setările tale."
       },
       {
+        "h": "Ștergere și reinstalare",
+        "p": "Ștergerea unui pachet îl elimină. Dezinstalarea Elements elimină conținutul studiului, istoricul, favoritele și setările din sandbox-ul aplicației. Pentru a preveni utilizarea repetată a perioadei de acces introductiv, marcatorii mici de eligibilitate numai pentru dispozitive pot rămâne în stocarea securizată a sistemului după dezinstalare și reinstalare. Acestea conțin numai timpul de acces și starea — nu identitatea sau conținutul studiului dvs. — și nu sunt niciodată trimise dezvoltatorului."
+      },
+      {
         "h": "Ce nu colectăm",
         "p": "Nu colectăm numele, adresa de e-mail, numărul de telefon, locația, identificatorii publicitari, contactele, microfonul sau datele de utilizare. Nu există SDK-uri de publicitate, analiză, atribuire sau urmărire."
       },
       {
         "h": "Achiziții",
-        "p": "Elements se descarcă gratuit, cu acces complet timp de 3 zile. Ulterior, o singură achiziție unică opțională deblochează permanent întreaga aplicație — nu există abonament și nimic nu se reînnoiește sau nu se taxează automat. App Store (iOS/macOS) sau Google Play (Android) gestionează achiziția; Elements nu vede niciodată numele tău, cardul de plată sau datele de facturare. Pornirea acestei perioade de acces de 3 zile are loc local pe dispozitivul dvs. și nu creează un abonament sau o taxă; magazinul este contactat doar dacă alegeți să cumpărați sau să restaurați deblocarea."
+        "p": "Elements include 3 zile de acces complet. Începerea acestei perioade de acces are loc local pe dispozitivul dvs. și nu creează un abonament sau taxă. După 3 zile, o singură achiziție opțională unică deblochează întreaga aplicație în mod permanent - nu există niciun abonament și nimic nu se reînnoiește sau se debitează automat. App Store (iOS și macOS) sau Google Play (Android) se ocupă de achiziție; Elements nu vă vede niciodată numele, cardul de plată sau detaliile de facturare. Magazinul este contactat numai dacă alegeți să cumpărați sau să restabiliți deblocarea."
       },
       {
         "h": "Utilizarea rețelei",
@@ -1721,12 +1873,16 @@
         "p": "Elements — это приложение для изучения периодической таблицы, работающее только на устройстве. Ему не нужна учётная запись, оно не продаёт персональные данные, не показывает рекламу и не использует аналитику или отслеживание. Данные, которые вы создаёте, остаются на вашем устройстве, в личном хранилище приложения: ваши учебные колоды и карточки, история повторений и расписание интервальных повторений, отмеченные звёздочкой элементы, а также ваши настройки."
       },
       {
+        "h": "Удаление и переустановка",
+        "p": "При удалении колоды она удаляется. При удалении Elements из изолированной программной среды приложения удаляется учебный контент, история, избранное и настройки. Чтобы предотвратить повторное использование периода начального доступа, небольшие маркеры соответствия требованиям, предназначенные только для устройств, могут оставаться в безопасном хранилище системы после удаления и переустановки. Они содержат только время доступа и статус, а не вашу личность или учебный контент, и никогда не отправляются разработчику."
+      },
+      {
         "h": "Что мы не собираем",
         "p": "Мы не собираем ваше имя, адрес электронной почты, номер телефона, местоположение, рекламные идентификаторы, контакты, данные микрофона или сведения об использовании. Здесь нет рекламных, аналитических, атрибуционных или отслеживающих SDK."
       },
       {
         "h": "Покупки",
-        "p": "Elements можно скачать бесплатно с 3 днями полного доступа. После этого одна необязательная разовая покупка навсегда открывает всё приложение — нет никакой подписки, и ничего не продлевается и не списывается автоматически. Покупку обрабатывает App Store (iOS/macOS) или Google Play (Android); Elements никогда не видит ваше имя, платёжную карту или платёжные реквизиты. Запуск этого 3-дневного периода доступа происходит локально на вашем устройстве и не создает подписку или списание; магазин используется только если вы выбираете купить или восстановить разблокировку."
+        "p": "Elements включает в себя 3 дня полного доступа. Начало этого периода доступа происходит локально на вашем устройстве и не требует подписки или оплаты. Через 3 дня одна необязательная разовая покупка разблокирует все приложение навсегда — подписка не требуется, ничто не обновляется и не взимается автоматически. Покупку осуществляет App Store (iOS и macOS) или Google Play (Android); Elements никогда не видит ваше имя, платежную карту или платежные данные. В магазин обращаются только в том случае, если вы решите купить или восстановить разблокировку."
       },
       {
         "h": "Использование сети",
@@ -1766,12 +1922,16 @@
         "p": "Elements je aplikácia na štúdium periodickej tabuľky, ktorá funguje výlučne lokálne. Nevyžaduje žiadny účet, nepredáva žiadne osobné údaje, nezobrazuje reklamy a nepoužíva žiadnu analytiku ani sledovanie. Údaje, ktoré vytvoríte, zostávajú vo vašom zariadení v súkromnom úložisku aplikácie: vaše študijné balíčky a kartičky, vaša história opakovania a rozvrh rozloženého opakovania, vaše označené prvky a vaše nastavenia."
       },
       {
+        "h": "Odstránenie a opätovná inštalácia",
+        "p": "Odstránením balíka sa odstráni. Odinštalovaním Elements sa odstráni študijný obsah, história, obľúbené položky a nastavenia z karantény aplikácie. Aby sa predišlo opakovanému použitiu úvodného obdobia prístupu, po odinštalovaní a opätovnej inštalácii môžu v zabezpečenom systémovom úložisku zostať malé značky spôsobilosti len pre zariadenia. Obsahujú iba časovanie a stav prístupu – nie vašu identitu alebo študijný obsah – a nikdy sa neposielajú vývojárovi."
+      },
+      {
         "h": "Čo nezhromažďujeme",
         "p": "Nezhromažďujeme vaše meno, e-mail, telefónne číslo, polohu, reklamné identifikátory, kontakty, mikrofón ani údaje o používaní. Nie sú tu žiadne reklamné, analytické, atribučné ani sledovacie SDK."
       },
       {
         "h": "Nákupy",
-        "p": "Aplikáciu Elements si môžete stiahnuť zadarmo s 3 dňami plného prístupu. Potom jediný voliteľný jednorazový nákup natrvalo odomkne celú aplikáciu — neexistuje žiadne predplatné a nič sa automaticky neobnovuje ani automaticky neúčtuje. Nákup spracúva App Store (iOS/macOS) alebo Google Play (Android); Elements nikdy nevidí vaše meno, platobnú kartu ani fakturačné údaje. Spustenie tohto 3-dňového prístupu prebieha lokálne vo vašom zariadení a nevytvára predplatné ani poplatok; obchod sa kontaktuje iba vtedy, keď sa rozhodnete odomknutie kúpiť alebo obnoviť."
+        "p": "Elements zahŕňa 3 dni plného prístupu. Začatie tohto obdobia prístupu prebieha lokálne na vašom zariadení a nevytvára predplatné ani poplatok. Po 3 dňoch jeden voliteľný jednorazový nákup odomkne celú aplikáciu natrvalo – neexistuje žiadne predplatné a nič sa automaticky neobnovuje ani neúčtuje. Nákup zabezpečuje App Store (iOS a macOS) alebo Google Play (Android); Elements nikdy neuvidí vaše meno, platobnú kartu ani fakturačné údaje. Obchod je kontaktovaný iba vtedy, ak sa rozhodnete kúpiť alebo obnoviť odomknutie."
       },
       {
         "h": "Používanie siete",
@@ -1811,12 +1971,16 @@
         "p": "Elements je aplikacija za učenje periodnega sistema, ki deluje izključno lokalno. Ne potrebuje računa, ne prodaja osebnih podatkov, ne prikazuje oglasov in ne uporablja analitike ali sledenja. Podatki, ki jih ustvarite, ostanejo v vaši napravi, v zasebni shrambi aplikacije: vaši učni kompleti in slovarske kartice, vaša zgodovina ponavljanja in urnik časovno razporejenega ponavljanja, vaši elementi z zvezdico ter vaše nastavitve."
       },
       {
+        "h": "Izbris in ponovna namestitev",
+        "p": "Če izbrišete komplet, ga odstranite. Odstranitev Elements odstrani študijsko vsebino, zgodovino, priljubljene in nastavitve iz peskovnika aplikacije. Da bi preprečili ponavljajočo se uporabo uvodnega obdobja dostopa, lahko majhne oznake primernosti samo za naprave ostanejo v varnem sistemskem pomnilniku po odstranitvi in ​​ponovni namestitvi. Vsebujejo samo čas dostopa in status – ne vašo identiteto ali študijsko vsebino – in niso nikoli poslani razvijalcu."
+      },
+      {
         "h": "Česa ne zbiramo",
         "p": "Ne zbiramo vašega imena, e-poštnega naslova, telefonske številke, lokacije, oglaševalskih identifikatorjev, stikov, podatkov z mikrofona ali podatkov o uporabi. Ni nobenih oglaševalskih, analitičnih, atribucijskih ali sledilnih kompletov SDK."
       },
       {
         "h": "Nakupi",
-        "p": "Aplikacijo Elements lahko prenesete brezplačno s 3 dnevi polnega dostopa. Po tem en sam izbirni enkratni nakup trajno odklene celotno aplikacijo — ni naročnine in nič se ne podaljša ali zaračuna samodejno. Nakup obravnava App Store (iOS/macOS) ali Google Play (Android); Elements nikoli ne vidi vašega imena, plačilne kartice ali podatkov za obračun. Začetek tega 3-dnevnega dostopa poteka lokalno v vaši napravi in ne ustvari naročnine ali stroška; trgovina se kontaktira samo, če se odločite kupiti ali obnoviti odklep."
+        "p": "Elements vključuje 3 dni polnega dostopa. Začetek tega obdobja dostopa se zgodi lokalno v vaši napravi in ​​ne ustvari naročnine ali bremenitve. Po 3 dneh z enim samim neobveznim enkratnim nakupom trajno odklenete celotno aplikacijo – naročnina ni in nič se ne obnovi ali zaračuna samodejno. App Store (iOS in macOS) ali Google Play (Android) obravnava nakup; Elements nikoli ne vidi vašega imena, plačilne kartice ali podatkov za obračun. S trgovino se obrnete le, če se odločite za nakup ali obnovitev odklepanja."
       },
       {
         "h": "Uporaba omrežja",
@@ -1856,12 +2020,16 @@
         "p": "Elements је апликација за учење периодног система елемената која ради искључиво локално. Не захтева налог, не продаје личне податке, не приказује огласе и не користи аналитику нити праћење. Подаци које креирате остају на вашем уређају, у приватној меморији апликације: ваши скупови за учење и флеш-картице, историја понављања и распоред размакнутог понављања, означени елементи и ваша подешавања."
       },
       {
+        "h": "Брисање и поновна инсталација",
+        "p": "Брисањем шпила он се уклања. Деинсталирањем апликације Elements из изолованог складишта апликације уклањају се садржај за учење, историја, омиљени елементи и подешавања. Ради спречавања поновног коришћења почетног периода приступа, мали маркери права приступа везани само за уређај могу остати у безбедном системском складишту после деинсталације и поновне инсталације. Они садрже само време и статус приступа — не ваш идентитет нити садржај за учење — и никада се не шаљу програмеру."
+      },
+      {
         "h": "Шта не прикупљамо",
         "p": "Не прикупљамо ваше име, имејл, број телефона, локацију, рекламне идентификаторе, контакте, микрофон нити податке о коришћењу. Не постоје SDK-ови за оглашавање, аналитику, атрибуцију нити праћење."
       },
       {
         "h": "Куповине",
-        "p": "Elements се преузима бесплатно уз 3 дана пуног приступа. Након тога, једна опциона једнократна куповина трајно откључава целу апликацију — нема претплате и ништа се не обнавља нити наплаћује аутоматски. Куповину обрађује App Store (iOS/macOS) или Google Play (Android); Elements никада не види ваше име, платну картицу нити податке о наплати. Покретање овог периода приступа од 3 дана дешава се локално на вашем уређају и не прави претплату нити наплату; продавница се контактира само ако изаберете куповину или враћање откључавања."
+        "p": "Elements обухвата 3 дана пуног приступа. Покретање тог периода одвија се локално на уређају и не ствара претплату нити наплату. После 3 дана једна опциона једнократна куповина трајно откључава целу апликацију — нема претплате и ништа се не обнавља нити наплаћује аутоматски. Куповину обрађује App Store (iOS/macOS) или Google Play (Android); Elements никада не види ваше име, платну картицу нити податке о наплати. Продавница се контактира само ако изаберете куповину или враћање откључавања."
       },
       {
         "h": "Коришћење мреже",
@@ -1901,12 +2069,16 @@
         "p": "Elements är en studieapp för det periodiska systemet som enbart fungerar lokalt. Den kräver inget konto, säljer inga personuppgifter, visar inga annonser och använder ingen analys eller spårning. De data du skapar stannar på din enhet, i appens privata lagring: dina studielekar och flashkort, din repetitionshistorik och ditt schema för spaced repetition, dina stjärnmarkerade grundämnen och dina inställningar."
       },
       {
+        "h": "Ta bort och installera om",
+        "p": "Om du tar bort en kortlek tas den bort. Om du avinstallerar Elements tar du bort studieinnehåll, historik, favoriter och inställningar från appens sandlåda. För att förhindra upprepad användning av den inledande åtkomstperioden kan små kvalificeringsmarkörer för endast enhet finnas kvar i säker systemlagring efter avinstallation och ominstallation. De innehåller endast åtkomsttid och status – inte din identitet eller studieinnehåll – och skickas aldrig till utvecklaren."
+      },
+      {
         "h": "Vad vi inte samlar in",
         "p": "Vi samlar inte in ditt namn, din e-postadress, ditt telefonnummer, din plats, annons-id:n, kontakter, mikrofon eller användningsdata. Det finns inga SDK:er för annonsering, analys, attribuering eller spårning."
       },
       {
         "h": "Köp",
-        "p": "Elements är gratis att ladda ner med 3 dagars full åtkomst. Därefter låser ett enda valfritt engångsköp upp hela appen permanent — det finns ingen prenumeration, och inget förnyas eller debiteras automatiskt. App Store (iOS/macOS) eller Google Play (Android) hanterar köpet; Elements ser aldrig ditt namn, ditt betalkort eller dina faktureringsuppgifter. Att starta den här 3-dagars åtkomsten sker lokalt på din enhet och skapar ingen prenumeration eller debitering; butiken kontaktas bara om du väljer att köpa eller återställa upplåsningen."
+        "p": "Elements inkluderar 3 dagars full åtkomst. Att starta denna åtkomstperiod sker lokalt på din enhet och skapar ingen prenumeration eller avgift. Efter 3 dagar låser ett enda valfritt engångsköp upp hela appen permanent – ​​det finns ingen prenumeration och ingenting förnyas eller debiteras automatiskt. App Store (iOS och macOS) eller Google Play (Android) hanterar köpet; Elements ser aldrig ditt namn, ditt betalkort eller dina faktureringsuppgifter. Butiken kontaktas endast om du väljer att köpa eller återställa upplåsningen."
       },
       {
         "h": "Nätverksanvändning",
@@ -1946,12 +2118,16 @@
         "p": "Elements என்பது சாதனத்தில் மட்டும் இயங்கும் தனிம அட்டவணை படிப்பு செயலி. இதற்கு கணக்கு தேவையில்லை, தனிப்பட்ட தரவை விற்பதில்லை, விளம்பரங்களைக் காட்டுவதில்லை, மேலும் எந்த பகுப்பாய்வு அல்லது கண்காணிப்பையும் பயன்படுத்துவதில்லை. நீங்கள் உருவாக்கும் தரவு உங்கள் சாதனத்திலேயே, செயலியின் தனிப்பட்ட சேமிப்பகத்தில் இருக்கும்: உங்கள் படிப்பு அடுக்குகள் மற்றும் அட்டை குறிப்புகள், உங்கள் மீள்பார்வை வரலாறு மற்றும் இடைவெளி-மீளுருவாக்க அட்டவணை, நீங்கள் நட்சத்திரமிட்ட தனிமங்கள், மேலும் உங்கள் அமைப்புகள்."
       },
       {
+        "h": "நீக்குதல் மற்றும் மீண்டும் நிறுவுதல்",
+        "p": "டெக்கை நீக்குவது அதை நீக்குகிறது. Elementsஐ நிறுவல் நீக்குவது, பயன்பாட்டு சாண்ட்பாக்ஸிலிருந்து ஆய்வு உள்ளடக்கம், வரலாறு, பிடித்தவை மற்றும் அமைப்புகளை நீக்குகிறது. அறிமுக அணுகல் காலத்தை மீண்டும் மீண்டும் பயன்படுத்துவதைத் தடுக்க, சிறிய சாதனம் மட்டுமே தகுதி குறிப்பான்கள் நிறுவல் நீக்கி மீண்டும் நிறுவிய பிறகு பாதுகாப்பான கணினி சேமிப்பகத்தில் இருக்கும். அவை அணுகல் நேரம் மற்றும் நிலையை மட்டுமே கொண்டிருக்கின்றன—உங்கள் அடையாளம் அல்லது ஆய்வு உள்ளடக்கம் அல்ல—மேலும் டெவலப்பருக்கு அனுப்பப்படாது."
+      },
+      {
         "h": "நாங்கள் சேகரிக்காதவை",
         "p": "உங்கள் பெயர், மின்னஞ்சல், தொலைபேசி எண், இருப்பிடம், விளம்பர அடையாளங்காட்டிகள், தொடர்புகள், ஒலிவாங்கி, அல்லது பயன்பாட்டுத் தரவு ஆகியவற்றை நாங்கள் சேகரிக்கவில்லை. எந்த விளம்பர, பகுப்பாய்வு, ஒப்படைப்பு (attribution) அல்லது கண்காணிப்பு SDK-களும் இல்லை."
       },
       {
         "h": "கொள்முதல்கள்",
-        "p": "Elements-ஐ பதிவிறக்குவது இலவசம், 3 நாட்களுக்கு முழு அணுகலுடன். அதன் பிறகு, ஒரே ஒரு விருப்பத் தெரிவான ஒருமுறை கொள்முதல் முழு செயலியையும் நிரந்தரமாகத் திறக்கிறது — சந்தா எதுவும் இல்லை, மேலும் எதுவும் தானாக புதுப்பிக்கப்படவோ தானாக கட்டணம் விதிக்கப்படவோ இல்லை. App Store (iOS/macOS) அல்லது Google Play (Android) கொள்முதலைக் கையாளுகிறது; உங்கள் பெயர், கட்டண அட்டை, அல்லது பில்லிங் விவரங்களை Elements ஒருபோதும் காண்பதில்லை. இந்த 3 நாள் அணுகல் காலத்தைத் தொடங்குவது உங்கள் சாதனத்தில் உள்ளூராகவே நடக்கிறது; அது சந்தாவையோ கட்டணத்தையோ உருவாக்காது. திறப்பை வாங்க அல்லது மீட்டெடுக்க நீங்கள் தேர்ந்தெடுத்தால் மட்டுமே store தொடர்பு கொள்ளப்படும்."
+        "p": "Elements 3 நாட்கள் முழு அணுகலை உள்ளடக்கியது. இந்த அணுகல் காலத்தைத் தொடங்குவது உங்கள் சாதனத்தில் உள்நாட்டில் நடக்கும் மற்றும் சந்தா அல்லது கட்டணத்தை உருவாக்காது. 3 நாட்களுக்குப் பிறகு, ஒரே ஒரு முறை வாங்கினால், முழுப் பயன்பாடும் நிரந்தரமாகத் திறக்கப்படும் - சந்தா எதுவும் இல்லை, எதுவும் தானாகவே புதுப்பிக்கவோ அல்லது கட்டணம் வசூலிக்கவோ இல்லை. App Store (iOS மற்றும் macOS) அல்லது Google Play (Android) வாங்குதலைக் கையாளுகிறது; Elements உங்கள் பெயர், கட்டண அட்டை அல்லது பில்லிங் விவரங்களைப் பார்க்காது. திறத்தலை வாங்க அல்லது மீட்டெடுக்க நீங்கள் தேர்வுசெய்தால் மட்டுமே ஸ்டோர் தொடர்பு கொள்ளப்படும்."
       },
       {
         "h": "வலையமைப்பு பயன்பாடு",
@@ -1991,12 +2167,16 @@
         "p": "Elements అనేది పూర్తిగా పరికరంలోనే పనిచేసే ఆవర్తన పట్టిక అధ్యయన యాప్. దీనికి ఏ ఖాతా అవసరం లేదు, వ్యక్తిగత డేటాను అమ్మదు, ప్రకటనలు చూపించదు, ఎటువంటి విశ్లేషణలు లేదా ట్రాకింగ్‌ను ఉపయోగించదు. మీరు సృష్టించే డేటా మీ పరికరంలో, యాప్ యొక్క ప్రైవేట్ నిల్వలో ఉంటుంది: మీ అధ్యయన డెక్‌లు మరియు ఫ్లాష్‌కార్డులు, మీ సమీక్షా చరిత్ర మరియు అంతరాల-పునరావృత షెడ్యూల్, మీరు గుర్తు పెట్టుకున్న మూలకాలు, మరియు మీ సెట్టింగ్‌లు."
       },
       {
+        "h": "తొలగింపు మరియు మళ్లీ ఇన్‌స్టాల్ చేయండి",
+        "p": "డెక్‌ను తొలగించడం వలన అది తీసివేయబడుతుంది. Elementsని అన్‌ఇన్‌స్టాల్ చేయడం వలన యాప్ శాండ్‌బాక్స్ నుండి అధ్యయన కంటెంట్, చరిత్ర, ఇష్టమైనవి మరియు సెట్టింగ్‌లు తీసివేయబడతాయి. పరిచయ యాక్సెస్ వ్యవధిని పునరావృత వినియోగాన్ని నిరోధించడానికి, అన్‌ఇన్‌స్టాల్ చేసి మళ్లీ ఇన్‌స్టాల్ చేసిన తర్వాత చిన్న పరికరానికి మాత్రమే అర్హత మార్కర్‌లు సురక్షిత సిస్టమ్ నిల్వలో ఉండవచ్చు. అవి యాక్సెస్ సమయం మరియు స్థితిని మాత్రమే కలిగి ఉంటాయి-మీ గుర్తింపు లేదా అధ్యయన కంటెంట్ కాదు-మరియు డెవలపర్‌కు ఎప్పటికీ పంపబడవు."
+      },
+      {
         "h": "మేము సేకరించనివి",
         "p": "మేము మీ పేరు, ఇమెయిల్, ఫోన్ నంబర్, స్థానం, ప్రకటనల గుర్తింపుదారులు, పరిచయాలు, మైక్రోఫోన్, లేదా వినియోగ డేటాను సేకరించము. ఎటువంటి ప్రకటనల, విశ్లేషణ, అట్రిబ్యూషన్, లేదా ట్రాకింగ్ SDKలు లేవు."
       },
       {
         "h": "కొనుగోళ్లు",
-        "p": "Elements డౌన్‌లోడ్ చేసుకోవడం ఉచితం, 3 రోజుల పూర్తి యాక్సెస్‌తో. ఆ తర్వాత, ఒక ఐచ్ఛిక ఒకేసారి కొనుగోలు మొత్తం యాప్‌ను శాశ్వతంగా అన్‌లాక్ చేస్తుంది — చందా ఏదీ లేదు, ఏదీ స్వయంచాలకంగా పునరుద్ధరించబడదు లేదా స్వయంచాలకంగా ఛార్జ్ చేయబడదు. App Store (iOS/macOS) లేదా Google Play (Android) ఈ కొనుగోలును నిర్వహిస్తుంది; Elements మీ పేరు, చెల్లింపు కార్డు, లేదా బిల్లింగ్ వివరాలను ఎప్పుడూ చూడదు. ఈ 3 రోజుల యాక్సెస్ విండోను ప్రారంభించడం మీ పరికరంలో స్థానికంగానే జరుగుతుంది మరియు ఎలాంటి సభ్యత్వం లేదా ఛార్జ్‌ను సృష్టించదు; మీరు అన్‌లాక్‌ను కొనుగోలు చేయడం లేదా పునరుద్ధరించడం ఎంచుకున్నప్పుడు మాత్రమే స్టోర్‌ను సంప్రదిస్తుంది."
+        "p": "Elements 3 రోజుల పూర్తి యాక్సెస్‌ని కలిగి ఉంటుంది. ఈ యాక్సెస్ వ్యవధిని ప్రారంభించడం మీ పరికరంలో స్థానికంగా జరుగుతుంది మరియు చందా లేదా ఛార్జీని సృష్టించదు. 3 రోజుల తర్వాత, ఒకే ఒక్క ఐచ్ఛిక వన్-టైమ్ కొనుగోలు మొత్తం యాప్‌ను శాశ్వతంగా అన్‌లాక్ చేస్తుంది-సబ్‌స్క్రిప్షన్ లేదు మరియు ఏదీ స్వయంచాలకంగా పునరుద్ధరించబడదు లేదా ఛార్జ్ చేయబడదు. App Store (iOS మరియు macOS) లేదా Google Play (Android) కొనుగోలును నిర్వహిస్తుంది; Elements మీ పేరు, చెల్లింపు కార్డ్ లేదా బిల్లింగ్ వివరాలను చూడదు. మీరు అన్‌లాక్‌ను కొనుగోలు చేయడానికి లేదా పునరుద్ధరించాలని ఎంచుకుంటే మాత్రమే స్టోర్‌ని సంప్రదించవచ్చు."
       },
       {
         "h": "నెట్‌వర్క్ వినియోగం",
@@ -2036,12 +2216,16 @@
         "p": "Elements เป็นแอปสำหรับเรียนรู้ตารางธาตุที่ทำงานบนเครื่องของคุณเท่านั้น ไม่ต้องใช้บัญชี ไม่ขายข้อมูลส่วนบุคคล ไม่แสดงโฆษณา และไม่ใช้การวิเคราะห์ข้อมูลหรือการติดตามใด ๆ ข้อมูลที่คุณสร้างขึ้นจะถูกเก็บไว้บนอุปกรณ์ของคุณ ในพื้นที่จัดเก็บส่วนตัวของแอป ได้แก่ ชุดบทเรียนและบัตรคำของคุณ ประวัติการทบทวนและตารางการทบทวนแบบเว้นระยะของคุณ ธาตุที่คุณติดดาว และการตั้งค่าของคุณ"
       },
       {
+        "h": "การลบและติดตั้งใหม่",
+        "p": "การลบสำรับจะเป็นการลบออก การถอนการติดตั้ง Elements จะลบเนื้อหาการศึกษา ประวัติ รายการโปรด และการตั้งค่าออกจากแซนด์บ็อกซ์ของแอป เพื่อป้องกันการใช้ช่วงการเข้าถึงเบื้องต้นซ้ำๆ เครื่องหมายแสดงคุณสมบัติเฉพาะอุปกรณ์ขนาดเล็กอาจยังคงอยู่ในที่เก็บข้อมูลระบบที่ปลอดภัยหลังจากถอนการติดตั้งและติดตั้งใหม่ ข้อมูลเหล่านี้มีเวลาและสถานะการเข้าถึงเท่านั้น ไม่ใช่ตัวตนหรือเนื้อหาการศึกษาของคุณ และจะไม่ถูกส่งไปยังนักพัฒนา"
+      },
+      {
         "h": "สิ่งที่เราไม่เก็บรวบรวม",
         "p": "เราไม่เก็บรวบรวมชื่อ อีเมล หมายเลขโทรศัพท์ ตำแหน่งที่ตั้ง ตัวระบุเพื่อการโฆษณา รายชื่อผู้ติดต่อ ไมโครโฟน หรือข้อมูลการใช้งานของคุณ ไม่มี SDK สำหรับการโฆษณา การวิเคราะห์ข้อมูล การระบุที่มา หรือการติดตามใด ๆ"
       },
       {
         "h": "การซื้อ",
-        "p": "Elements สามารถดาวน์โหลดได้ฟรีพร้อมการเข้าถึงเต็มรูปแบบเป็นเวลา 3 วัน หลังจากนั้น การซื้อแบบครั้งเดียวที่เป็นทางเลือกเพียงครั้งเดียวจะปลดล็อกแอปทั้งหมดอย่างถาวร — ไม่มีการสมัครสมาชิก และไม่มีการต่ออายุอัตโนมัติหรือเรียกเก็บเงินอัตโนมัติใด ๆ App Store (iOS/macOS) หรือ Google Play (Android) เป็นผู้จัดการการซื้อ Elements จะไม่เห็นชื่อ บัตรชำระเงิน หรือรายละเอียดการเรียกเก็บเงินของคุณเลย การเริ่มช่วงการเข้าถึง 3 วันนี้เกิดขึ้นภายในอุปกรณ์ของคุณและไม่สร้างการสมัครสมาชิกหรือการเรียกเก็บเงินใด ๆ ระบบจะติดต่อสโตร์ก็ต่อเมื่อคุณเลือกซื้อหรือกู้คืนการปลดล็อกเท่านั้น"
+        "p": "Elements รวมการเข้าถึงเต็มรูปแบบ 3 วัน การเริ่มระยะเวลาการเข้าถึงนี้เกิดขึ้นภายในอุปกรณ์ของคุณ และไม่ได้สร้างการสมัครสมาชิกหรือการเรียกเก็บเงิน หลังจากผ่านไป 3 วัน การซื้อครั้งเดียวที่เป็นทางเลือกเพียงครั้งเดียวจะปลดล็อคทั้งแอปอย่างถาวร ไม่มีการสมัครสมาชิกและไม่มีการต่ออายุหรือเรียกเก็บเงินโดยอัตโนมัติ App Store (iOS และ macOS) หรือ Google Play (Android) จัดการการซื้อ Elements จะไม่เห็นชื่อ บัตรชำระเงิน หรือรายละเอียดการเรียกเก็บเงินของคุณ ร้านค้าจะได้รับการติดต่อเฉพาะเมื่อคุณเลือกที่จะซื้อหรือกู้คืนการปลดล็อค"
       },
       {
         "h": "การใช้งานเครือข่าย",
@@ -2081,12 +2265,16 @@
         "p": "Elements, yalnızca cihazda çalışan bir periyodik tablo çalışma uygulamasıdır. Hesap gerektirmez, kişisel veri satmaz, reklam göstermez ve hiçbir analiz veya izleme kullanmaz. Oluşturduğunuz veriler cihazınızda, uygulamanın özel deposunda kalır: çalışma desteleriniz ve bilgi kartlarınız, tekrar geçmişiniz ve aralıklı tekrar programınız, yıldızladığınız elementler ve ayarlarınız."
       },
       {
+        "h": "Silme ve yeniden yükleme",
+        "p": "Bir desteyi silmek onu kaldırır. Elements'nin kaldırılması çalışma içeriğini, geçmişi, favorileri ve ayarları uygulama sanal alanından kaldırır. Giriş erişim süresinin tekrar tekrar kullanılmasını önlemek için, yalnızca cihaza özel küçük uygunluk işaretleri, kaldırma ve yeniden yükleme sonrasında güvenli sistem deposunda kalabilir. Kimliğinizi veya çalışma içeriğinizi değil, yalnızca erişim zamanlamasını ve durumunu içerirler ve hiçbir zaman geliştiriciye gönderilmezler."
+      },
+      {
         "h": "Toplamadıklarımız",
         "p": "Adınızı, e-postanızı, telefon numaranızı, konumunuzu, reklam tanımlayıcılarını, kişilerinizi, mikrofonunuzu veya kullanım verilerinizi toplamayız. Hiçbir reklam, analiz, atıf veya izleme SDK'sı yoktur."
       },
       {
         "h": "Satın alımlar",
-        "p": "Elements'in indirilmesi ücretsizdir ve 3 günlük tam erişim sunar. Bunun ardından, isteğe bağlı tek seferlik bir satın alma işlemiyle uygulamanın tamamı kalıcı olarak açılır — abonelik yoktur ve hiçbir şey otomatik olarak yenilenmez veya otomatik ücretlendirilmez. Satın alma işlemini App Store (iOS/macOS) veya Google Play (Android) yürütür; Elements adınızı, ödeme kartınızı veya fatura bilgilerinizi asla görmez. Bu 3 günlük erişim süresini başlatma işlemi cihazınızda yerel olarak gerçekleşir ve abonelik ya da ücret oluşturmaz; mağazayla yalnızca kilidi satın almayı veya geri yüklemeyi seçerseniz iletişim kurulur."
+        "p": "Elements 3 günlük tam erişim içerir. Bu erişim döneminin başlatılması cihazınızda yerel olarak gerçekleşir ve bir abonelik veya ücret oluşturmaz. 3 gün sonra, isteğe bağlı tek seferlik tek bir satın alma, tüm uygulamanın kilidini kalıcı olarak açar; abonelik yoktur ve hiçbir şey otomatik olarak yenilenmez veya ücretlendirilmez. App Store (iOS ve macOS) veya Google Play (Android) satın alma işlemini gerçekleştirir; Elements asla adınızı, ödeme kartınızı veya fatura ayrıntılarınızı görmez. Yalnızca kilidi satın almayı veya kilidi geri yüklemeyi seçerseniz mağazayla iletişime geçilir."
       },
       {
         "h": "Ağ kullanımı",
@@ -2126,12 +2314,16 @@
         "p": "Elements — це застосунок для вивчення періодичної таблиці, який працює лише локально. Він не потребує облікового запису, не продає персональних даних, не показує реклами та не використовує аналітики чи відстеження. Дані, які ви створюєте, залишаються на вашому пристрої, у приватному сховищі застосунку: ваші навчальні колоди й картки, історія повторень і графік інтервального повторення, позначені зірочкою елементи та ваші налаштування."
       },
       {
+        "h": "Видалення та перевстановлення",
+        "p": "Видалення колоди видаляє її. Видалення Elements видаляє вміст дослідження, історію, вибране та налаштування з ізольованого програмного середовища. Щоб запобігти повторному використанню початкового періоду доступу, невеликі маркери придатності лише для пристроїв можуть залишатися в безпечному сховищі системи після видалення та повторного встановлення. Вони містять лише час доступу та статус, а не вашу особу чи навчальний вміст, і ніколи не надсилаються розробнику."
+      },
+      {
         "h": "Що ми не збираємо",
         "p": "Ми не збираємо ваше ім'я, електронну адресу, номер телефону, місцезнаходження, рекламні ідентифікатори, контакти, дані з мікрофона чи дані про використання. У застосунку немає жодних рекламних, аналітичних, атрибуційних SDK або SDK для відстеження."
       },
       {
         "h": "Покупки",
-        "p": "Elements можна завантажити безкоштовно з 3 днями повного доступу. Після цього єдина необов'язкова одноразова покупка назавжди відкриває весь застосунок — немає жодної підписки, нічого не поновлюється й не списується автоматично. Покупку обробляє App Store (iOS/macOS) або Google Play (Android); Elements ніколи не бачить вашого імені, платіжної картки чи платіжних реквізитів. Запуск цього 3-денного періоду доступу відбувається локально на вашому пристрої й не створює передплати або списання; магазин використовується лише якщо ви обираєте купити або відновити розблокування."
+        "p": "Elements включає 3 дні повного доступу. Початок цього періоду доступу відбувається локально на вашому пристрої та не створює підписку чи плату. Через 3 дні одна необов’язкова одноразова покупка розблокує весь додаток назавжди — немає жодної підписки, нічого не поновлюється та не стягується автоматично. App Store (iOS і macOS) або Google Play (Android) обробляє покупку; Elements ніколи не бачить ваше ім’я, платіжну картку чи платіжні дані. Зв’язуватися з магазином можна, лише якщо ви вирішите купити або відновити розблокування."
       },
       {
         "h": "Використання мережі",
@@ -2171,12 +2363,16 @@
         "p": "Elements ایک صرف مقامی (local-only) متواتر جدول (periodic-table) مطالعے کی ایپ ہے۔ اسے کسی اکاؤنٹ کی ضرورت نہیں، یہ کوئی ذاتی ڈیٹا فروخت نہیں کرتی، کوئی اشتہار نہیں دکھاتی، اور نہ ہی کوئی اینالیٹکس یا ٹریکنگ استعمال کرتی ہے۔ آپ جو ڈیٹا بناتے ہیں وہ آپ کے آلے پر ہی، ایپ کی نجی اسٹوریج میں رہتا ہے: آپ کے مطالعاتی ڈیک اور فلیش کارڈز، آپ کی نظرِ ثانی کی تاریخ اور وقفہ دار اعادے (spaced-repetition) کا شیڈول، آپ کے ستارہ زدہ عناصر، اور آپ کی ترتیبات۔"
       },
       {
+        "h": "حذف کرنا اور دوبارہ انسٹال کرنا",
+        "p": "ڈیک کو حذف کرنا اسے ہٹا دیتا ہے۔ Elements کو اَن انسٹال کرنے سے ایپ سینڈ باکس سے مطالعہ کا مواد، سرگزشت، پسندیدہ اور ترتیبات ہٹ جاتی ہیں۔ تعارفی رسائی کی مدت کے بار بار استعمال کو روکنے کے لیے، چھوٹے آلے کے لیے اہلیت والے مارکر ان انسٹال اور دوبارہ انسٹال کرنے کے بعد محفوظ سسٹم اسٹوریج میں رہ سکتے ہیں۔ ان میں صرف رسائی کا وقت اور حیثیت ہوتی ہے — آپ کی شناخت یا مطالعہ کا مواد نہیں — اور کبھی بھی ڈویلپر کو نہیں بھیجا جاتا ہے۔"
+      },
+      {
         "h": "ہم کیا جمع نہیں کرتے",
         "p": "ہم آپ کا نام، ای میل، فون نمبر، مقام، اشتہاری شناخت کنندگان، رابطے، مائیکروفون، یا استعمال کا ڈیٹا جمع نہیں کرتے۔ یہاں کوئی اشتہاری، اینالیٹکس، انتساب (attribution)، یا ٹریکنگ SDKs نہیں ہیں۔"
       },
       {
         "h": "خریداریاں",
-        "p": "Elements ڈاؤن لوڈ کرنے کے لیے مفت ہے اور 3 دن کی مکمل رسائی کے ساتھ آتی ہے۔ اس کے بعد، ایک واحد اختیاری یک بار خریداری پوری ایپ کو مستقل طور پر کھول دیتی ہے — نہ کوئی سبسکرپشن ہے، اور نہ ہی کوئی چیز خودکار طور پر تجدید یا چارج ہوتی ہے۔ خریداری کو App Store (iOS/macOS) یا Google Play (Android) سنبھالتا ہے؛ Elements کبھی بھی آپ کا نام، ادائیگی کا کارڈ، یا بلنگ کی تفصیلات نہیں دیکھتی۔ یہ 3 دن کی رسائی شروع کرنا آپ کے آلے پر مقامی طور پر ہوتا ہے اور کوئی سبسکرپشن یا چارج نہیں بناتا؛ اسٹور سے رابطہ صرف تب ہوتا ہے جب آپ اَن لاک خریدنے یا بحال کرنے کا انتخاب کرتے ہیں۔"
+        "p": "Elements میں مکمل رسائی کے 3 دن شامل ہیں۔ رسائی کی اس مدت کا آغاز مقامی طور پر آپ کے آلے پر ہوتا ہے اور اس سے سبسکرپشن یا چارج نہیں ہوتا ہے۔ 3 دن کے بعد، ایک اختیاری ایک بار کی خریداری سے پوری ایپ کو مستقل طور پر غیر مقفل کر دیا جاتا ہے—اس میں کوئی سبسکرپشن نہیں ہے اور کچھ بھی خود بخود تجدید یا چارج نہیں ہوتا ہے۔ App Store (iOS اور macOS) یا Google Play (Android) خریداری کو سنبھالتا ہے۔ Elements کبھی بھی آپ کا نام، ادائیگی کارڈ، یا بلنگ کی تفصیلات نہیں دیکھتا ہے۔ اسٹور سے صرف اس صورت میں رابطہ کیا جاتا ہے جب آپ ان لاک کو خریدنے یا بحال کرنے کا انتخاب کرتے ہیں۔"
       },
       {
         "h": "نیٹ ورک کا استعمال",
@@ -2216,12 +2412,16 @@
         "p": "Elements là một ứng dụng học bảng tuần hoàn chỉ hoạt động cục bộ trên thiết bị. Ứng dụng không cần tài khoản, không bán dữ liệu cá nhân, không hiển thị quảng cáo, và không sử dụng phân tích hay theo dõi. Dữ liệu bạn tạo ra luôn được lưu trên thiết bị của bạn, trong bộ nhớ riêng tư của ứng dụng: các bộ thẻ học và thẻ ghi nhớ, lịch sử ôn tập và lịch lặp lại ngắt quãng, các nguyên tố bạn đã đánh dấu sao, và các cài đặt của bạn."
       },
       {
+        "h": "Xóa và cài đặt lại",
+        "p": "Xóa một bộ bài sẽ loại bỏ nó. Việc gỡ cài đặt Elements sẽ xóa nội dung nghiên cứu, lịch sử, mục yêu thích và cài đặt khỏi hộp cát ứng dụng. Để tránh việc sử dụng lặp lại khoảng thời gian truy cập giới thiệu, các dấu hiệu đủ điều kiện chỉ dành cho thiết bị nhỏ có thể vẫn còn trong bộ lưu trữ hệ thống an toàn sau khi gỡ cài đặt và cài đặt lại. Chúng chỉ chứa thời gian và trạng thái truy cập—không phải danh tính hoặc nội dung nghiên cứu của bạn—và không bao giờ được gửi cho nhà phát triển."
+      },
+      {
         "h": "Những gì chúng tôi không thu thập",
         "p": "Chúng tôi không thu thập tên, email, số điện thoại, vị trí, mã định danh quảng cáo, danh bạ, micrô, hay dữ liệu sử dụng của bạn. Không có bất kỳ SDK quảng cáo, phân tích, phân bổ hay theo dõi nào."
       },
       {
         "h": "Mua hàng",
-        "p": "Elements miễn phí khi tải về với 3 ngày sử dụng đầy đủ. Sau đó, một lần mua duy nhất tùy chọn sẽ mở khóa toàn bộ ứng dụng vĩnh viễn — không có gói đăng ký, và không có gì tự động gia hạn hay tự động tính phí. App Store (iOS/macOS) hoặc Google Play (Android) sẽ xử lý việc mua hàng; Elements không bao giờ thấy tên, thẻ thanh toán hay thông tin thanh toán của bạn. Việc bắt đầu khoảng thời gian truy cập 3 ngày này diễn ra cục bộ trên thiết bị của bạn và không tạo gói đăng ký hay khoản phí; cửa hàng chỉ được liên hệ nếu bạn chọn mua hoặc khôi phục mở khóa."
+        "p": "Elements bao gồm 3 ngày truy cập đầy đủ. Việc bắt đầu giai đoạn truy cập này diễn ra cục bộ trên thiết bị của bạn và không tạo ra đăng ký hoặc tính phí. Sau 3 ngày, một lần mua một lần tùy chọn sẽ mở khóa vĩnh viễn toàn bộ ứng dụng—không cần đăng ký và không có gì tự động gia hạn hoặc tính phí. App Store (iOS và macOS) hoặc Google Play (Android) xử lý việc mua hàng; Elements không bao giờ nhìn thấy tên, thẻ thanh toán hoặc chi tiết thanh toán của bạn. Cửa hàng chỉ được liên hệ nếu bạn chọn mua hoặc khôi phục mở khóa."
       },
       {
         "h": "Sử dụng mạng",
@@ -2261,12 +2461,16 @@
         "p": "Elements 是一款仅在本地运行的元素周期表学习应用。它无需账户、不出售任何个人数据、不展示广告，也不使用任何分析或追踪工具。你创建的数据全部保存在你的设备上，存放于应用的私有存储空间内：你的学习卡组与抽认卡、你的复习记录与间隔重复计划、你收藏的元素，以及你的设置。"
       },
       {
+        "h": "删除并重新安装",
+        "p": "删除牌组会将其移除。卸载 Elements 将从应用程序沙箱中删除研究内容、历史记录、收藏夹和设置。为了防止重复使用介绍性访问期，卸载并重新安装后，小型设备专用资格标记可能会保留在安全系统存储中。它们仅包含访问时间和状态，而不包含您的身份或研究内容，并且永远不会发送给开发人员。"
+      },
+      {
         "h": "我们不收集的内容",
         "p": "我们不收集你的姓名、电子邮箱、电话号码、位置、广告标识符、通讯录、麦克风或使用数据。本应用不含任何广告、分析、归因或追踪 SDK。"
       },
       {
         "h": "购买",
-        "p": "Elements 可免费下载，并提供 3 天的完整使用权限。之后，只需一次可选的一次性购买，即可永久解锁整个应用——没有订阅，也不会自动续期或自动扣费。购买由 App Store（iOS/macOS）或 Google Play（Android）处理；Elements 绝不会看到你的姓名、付款卡或账单信息。 启动这 3 天完整使用权限会在你的设备本地完成，不会创建订阅或产生收费；只有当你选择购买或恢复解锁时，才会联系商店。"
+        "p": "Elements 包括 3 天的完全访问权限。此访问期的开始发生在您的本地设备上，不会创建订阅或费用。 3 天后，一次可选的一次性购买即可永久解锁整个应用程序 — 无需订阅，也不会自动续订或收费。 App Store（iOS 和 macOS）或 Google Play（Android）处理购买； Elements 永远不会看到您的姓名、支付卡或账单详细信息。仅当您选择购买或恢复解锁时才会联系商店。"
       },
       {
         "h": "网络使用",
@@ -2306,12 +2510,16 @@
         "p": "Elements 是一款純本機運作的週期表學習應用程式。它不需要帳號、不販售任何個人資料、不顯示廣告，也不使用任何分析或追蹤工具。你建立的資料會保留在你的裝置上，存放於應用程式的私有儲存空間中：包括你的學習牌組與字卡、你的複習紀錄與間隔重複排程、你標記星號的元素，以及你的設定。"
       },
       {
+        "h": "刪除並重新安裝",
+        "p": "刪除牌組會將其移除。卸載 Elements 將從應用程式沙箱中刪除研究內容、歷史記錄、收藏夾和設定。為了防止重複使用介紹性存取期，卸載並重新安裝後，小型設備專用資格標記可能會保留在安全系統儲存中。它們僅包含存取時間和狀態，而不包含您的身分或研究內容，並且永遠不會發送給開發人員。"
+      },
+      {
         "h": "我們不會蒐集的資料",
         "p": "我們不會蒐集你的姓名、電子郵件、電話號碼、位置、廣告識別碼、聯絡人、麥克風或使用資料。本應用程式不含任何廣告、分析、歸因或追蹤 SDK。"
       },
       {
         "h": "購買",
-        "p": "Elements 可免費下載，並提供 3 天的完整使用權限。在此之後，只需一次選擇性的單次購買，即可永久解鎖整個應用程式——沒有訂閱，也不會自動續訂或自動扣款。購買流程由 App Store（iOS/macOS）或 Google Play（Android）處理；Elements 絕不會看到你的姓名、付款卡片或帳單資訊。 啟動這 3 天完整使用權限會在你的裝置本機完成，不會建立訂閱或產生收費；只有當你選擇購買或恢復解鎖時，才會聯絡商店。"
+        "p": "Elements 包括 3 天的完全存取權限。此訪問期的開始發生在您的本機裝置上，不會建立訂閱或費用。 3 天后，一次可選的一次性購買即可永久解鎖整個應用程式 — 無需訂閱，也不會自動續訂或收費。 App Store（iOS 和 macOS）或 Google Play（Android）處理購買； Elements 永遠不會看到您的姓名、支付卡或帳單詳細資訊。僅當您選擇購買或恢復解鎖時才會聯絡商店。"
       },
       {
         "h": "網路使用",

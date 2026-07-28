@@ -6,7 +6,7 @@ English root = full policy. Locale pages = condensed convenience translations
 Run with no args to (re)build index.html. If translations.json exists, also
 writes every <locale>/index.html.
 """
-import json, os, pathlib, re
+import html, json, os, pathlib, re
 
 ROOT = pathlib.Path(__file__).parent
 EMAIL = "rizkcorsight@rizkcorsight.com"
@@ -16,6 +16,15 @@ UPDATED = "2026-07-28"
 # verbatim — brand names are not translated).
 STORE_TITLE = "Periodic Table: Elements"
 BRAND = "Elements"
+PURCHASES_ENGLISH = (
+    "Elements includes 3 days of full access. Starting this access period happens "
+    "locally on your device and does not create a subscription or charge. After 3 days, "
+    "a single optional one-time purchase unlocks the whole app permanently — there is "
+    "no subscription and nothing renews or charges automatically. The App Store (iOS "
+    "and macOS) or Google Play (Android) handles the purchase; Elements never sees your "
+    "name, payment card, or billing details. The store is contacted only if you choose "
+    "to buy or restore the unlock."
+)
 
 def brandize(s):
     """Substitute the placeholder app token 'Elements' with the real brand."""
@@ -89,8 +98,9 @@ ENGLISH_BODY = f"""<div class="rule"></div>
 <li><strong>Study history</strong> — your review records and each card&rsquo;s spaced-repetition schedule (the data needed to decide when to show a card next), plus your study streak.</li>
 <li><strong>Starred elements</strong> — the elements you mark as favorites.</li>
 <li><strong>Settings</strong> — your preferences, such as the appearance (dark/light) and the optional study-reminder time, plus a flag that records you have seen the welcome screens.</li>
+<li><strong>Access eligibility markers</strong> — small device-only records in secure system storage that prevent repeated use of the introductory access period. They contain access timing and status, not your identity or study content, and are never sent to the developer.</li>
 </ol>
-<p>The home-screen widget renders from the app&rsquo;s own bundled element data on your device; it needs no shared account and makes no network request. Deleting a deck removes it; uninstalling Elements removes everything Elements ever wrote.</p>
+<p>The home-screen widget renders from the app&rsquo;s own bundled element data on your device; it needs no shared account and makes no network request. Deleting a deck removes it. Uninstalling Elements removes study content, history, favorites, and settings from the app sandbox. The device-only access eligibility markers described above may remain in secure system storage after uninstall and reinstall.</p>
 
 <h2>Spoken element names</h2>
 <p>Elements can read an element&rsquo;s name aloud using your device&rsquo;s built-in text-to-speech. This is audio <em>output</em> only — Elements does not use the microphone, does not listen, and records nothing. No audio is saved or sent anywhere.</p>
@@ -105,13 +115,13 @@ ENGLISH_BODY = f"""<div class="rule"></div>
 <p>On a supported device with Apple Intelligence enabled (iOS 26+ or macOS 26+), Elements may use Apple&rsquo;s Foundation Models framework to phrase a short plain-language explanation of an element. This processing happens entirely on your device: your request is not uploaded, and the result is not stored or sent. If Apple Intelligence is not available, Elements simply uses its bundled written content instead — no network is involved either way.</p>
 
 <h2>Purchases</h2>
-<p>Elements is free to download with <strong>3 days of full access</strong>. Starting that 3-day access window happens locally on your device and does not create a subscription or charge. After the 3 days, a single optional <strong>one-time purchase</strong> unlocks the whole app permanently — there is no subscription and nothing auto-renews or auto-charges. That purchase or restore action is handled entirely by <strong>Apple&rsquo;s App Store</strong> (iOS and macOS) or <strong>Google Play</strong> (Android) through their own in-app purchase systems. Elements never sees or receives your name, payment card, or billing details. The developer receives only anonymous, aggregate sales figures from Apple and Google — never anything tied to you. Apple&rsquo;s and Google&rsquo;s handling of the transaction is governed by their own privacy policies.</p>
+<p>{PURCHASES_ENGLISH}</p>
 
 <h2>Children</h2>
 <p>Elements does not knowingly collect any data from anyone of any age, because it collects nothing. The app contains no objectionable content and is rated 4+ (and the equivalent &ldquo;everyone&rdquo; rating on Google Play).</p>
 
 <h2>Your rights</h2>
-<p>Because Elements collects no data and keeps everything on your device, exercising rights under the GDPR, CCPA/CPRA, LGPD, or similar laws is straightforward: open the app to access your data; delete a deck or uninstall the app to erase it; there is nothing to opt out of, because nothing is sold, shared, or transmitted.</p>
+<p>Because Elements collects no data and keeps everything on your device, exercising rights under the GDPR, CCPA/CPRA, LGPD, or similar laws is straightforward: open the app to access your study data; delete a deck to remove it; or uninstall the app to remove study content, history, favorites, and settings from the app sandbox. Device-only access eligibility markers may remain in secure system storage as described above. There is nothing to opt out of, because nothing is sold, shared, or transmitted.</p>
 
 <h2>Changes to this policy</h2>
 <p>If Elements ever changes a privacy-affecting behaviour, this document will be updated and the change summarised here with the effective date. Elements&rsquo;s current design does not permit collecting, transmitting, or sharing your data; adding any such behaviour would require new code.</p>
@@ -211,6 +221,49 @@ def build_locales():
     print(f"wrote {count} locale pages")
 
 
+def build_store_access():
+    """Build the compact, all-locale purchase disclosure from the same translations."""
+    T = json.loads((ROOT / "translations.json").read_text(encoding="utf-8"))
+    links = " ".join(f'<a href="#{code}">{code}</a>' for code, _ in LOCALES)
+    articles = [
+        (
+            '<article id="en" lang="en"><h2>Purchases <small>(en)</small></h2>'
+            f'<p>{html.escape(PURCHASES_ENGLISH)}</p></article>'
+        )
+    ]
+    for code, _name in LOCALES:
+        if code == "en":
+            continue
+        t = T[code]
+        purchase = t["sections"][3]
+        rtl = ' dir="rtl"' if code.split("-")[0] in RTL else ""
+        articles.append(
+            f'<article id="{code}" lang="{code}"{rtl}>'
+            f'<h2>{html.escape(purchase["h"])} <small>({code})</small></h2>'
+            f'<p>{html.escape(brandize(purchase["p"]))}</p></article>'
+        )
+    document = (
+        '<!doctype html>\n<html lang="en"><head><meta charset="utf-8">'
+        '<meta name="viewport" content="width=device-width,initial-scale=1">'
+        '<title>Elements — Store access and purchases</title>\n'
+        '<style>body{font:16px/1.65 system-ui,-apple-system,sans-serif;max-width:980px;'
+        'margin:auto;padding:28px;color:#17231f}nav{display:flex;flex-wrap:wrap;gap:8px;'
+        'margin:20px 0 30px}nav a{padding:5px 9px;border:1px solid #9db7ad;'
+        'border-radius:999px}article{padding:16px 0;border-top:1px solid #d7e2de}'
+        'small{font-weight:400;color:#53665f}[dir=rtl]{text-align:right}</style>'
+        '</head><body>\n<h1>Elements — Store access and purchases</h1>\n'
+        f'<p><strong>Effective July 28, 2026.</strong> This policy reconciles the access '
+        'and purchase model used by the Apple App Store and Google Play versions of '
+        'Elements. The English policy controls if a translation differs.</p>\n'
+        f'<nav aria-label="Languages">{links}</nav>\n'
+        + "".join(articles)
+        + "\n</body></html>\n"
+    )
+    (ROOT / "store-access.html").write_text(document, encoding="utf-8")
+    print("wrote store-access.html (53 locales)")
+
+
 if __name__ == "__main__":
     build_english()
     build_locales()
+    build_store_access()
